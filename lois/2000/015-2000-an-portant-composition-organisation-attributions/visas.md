@@ -1,0 +1,7 @@
+# Visas
+
+BURKINA FASO ------------- IVE REPUBLIQUE DEUXIEME LEGISLATURE Unité - Progrès - Justice ------------ ASSEMBLEE NATIONALE LOI ORGANIQUE N°015-2000/AN PORTANT COMPOSITION, ORGANISATION, ATTRIBUTIONS, FONCTIONNEMENT DU CONSEIL D'ETAT ET PROCEDURE APPLICABLE DEVANT LUI.
+L'ASSEMBLEE NATIONALE Vu la Constitution;
+Vu la Résolution nO01/97/AN du 07juin 1997, portant validation du mandat des députés;
+a délibéré en sa séance du 23 mai 2000 et adopté la loi dont la teneur suit:
+CHAPITRE 1: COMPOSITION ET ORGANISATION
