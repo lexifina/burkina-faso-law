@@ -1,0 +1,9 @@
+# Visas
+
+Z' Décrer n"2001-280/PRES/Pfr1/^ FPDI/MEF du 19 juin 200 isation des emplois spécifiques du tlÂinistère de lo Fonction Publigue et du Institutionnel (Jo n" 27,âOOt)' CUN.PITRT, I : DISPOSITIONS GENERALES è"ottt*t II : DE L'EMPLOI DE CONSEILLEREN Section I : Attributions " " "' - " " " "' Section 2 : Modes el conditions d'accès"""""""""' Section j : Cl ass ifi cation catégor ie\|e " " " " " " " " " " " Section 4 : Dispositions transitoires""""""""""""' CHnpnNE III : DÉ L'EMPLOI D'ASSISTANT EN GE Section I : Attributio'4s""""""""' Section 2 : Modes et conditiors d'accès""""' .................7 Section 3 : Classification catégorielle"""""""' .........7 ."x"##,i ,T{i:';ffi_:;riyiâ"Jr+ ,pËéiltii; BN cnéiiôN;ES npssouncEs HUMATNES ' 8 ......................8 Section 3 : Classifcation catëgortelle""""" ""' Section I : Dispositions communes Io Section 2 : DisPositions finales Vu Vu LE PRESIDENT DU FASO PRESIDENT DU CONSEIL DES MINISTRES Vu la Constitution ;
+Vu le Décret n" 2000 - 526IPRES du 6 novembre 2000 portant nomination du Premier Ministre;
+le Décret no 2000 - 527/PRES/PM du 12 novembre 2000 portant Composition du Gouvernement du Burkina Faso ;
+le Décret no97-468/PRES/PM du 31 octobre 1997 portant attribution des membres du Gouvernement ;
+Vu le Décret nogB-143/PRES/PM/MFPDI du 77 avril 1998 portant organisation du Ministère de la Fonction Publique et du Développement Institutionnel ; Vu la loi n" 0lO / 9Bl AN du 21 avril 1998 portant modalités d'intervention de l'Etat et répartition de compétences entre l'Etat et les autres acteurs du développement ; Vu la Loi no 013/98/AN du 28 avril 1998 portant régime juridique applicable aux emplois et aux agents de la Fonction Publique ;
+Sur Rapport du Ministre de la Fonction Publique et du Développement Institutionnel ; Le Conseil des Ministres entendu en sa séance du 23 mai 2001 ;
+DECRETE CHAPITRE I : DISPOSITIONS GENERALES
