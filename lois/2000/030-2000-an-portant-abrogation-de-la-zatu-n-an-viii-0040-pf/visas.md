@@ -1,0 +1,6 @@
+# Visas
+
+_.
+IVE REPUBLIQUE DEUXIEME LEGISLATURE BURKINA FASO UNITE-PROGRES-JUSTICE ASSEMBLEE NATIONALE LOI N°030-2000/ AN PORT ANT ABROGATION DE LA ZATU N° AN VIII-0040fFPfPRES DU 10 JUIN 1991, PORTANT POLITIQUE DE POPULATION DU BURKINA FASO L'ASSEMBLEE NATIONALE vu la Constitution;
+VU la Résolution n0001j97j AN du 07juin 1997,portant validation du mandat des députés;
+a délibéré en sa séance du 06 décembre 2000 et adopté la loi dont la teneur suit:
