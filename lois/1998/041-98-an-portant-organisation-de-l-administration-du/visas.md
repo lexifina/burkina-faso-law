@@ -1,0 +1,7 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ------------ DEUXIEME LEGISLATURE UNITE -PRO GRES- JUSTICE ------------- ASSEMBLEE NATIONALE LOI N°041/98/AN PORTANT ORGANISATION DE L'ADMINISTRATION DU TERRITOIRE AU BURKINA FASO
+- -- -- L' ASSEMBLEE NATIONALE Vu la Constitution;
+Vu la Résolution nOO1l97/ANdu 7 juin 1997 portant validation du mandat des députés;
+A délibéré en sa séance du 06 août 1998 et adopté la loi dont la teneur suit:
+TITRE 1: DE L'ORGANISATION GENERALE CHAPITRE 1: DE LA DIVISION DU TERRITOIRE
