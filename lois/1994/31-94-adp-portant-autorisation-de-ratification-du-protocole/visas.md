@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IV è REPUBLIQUE La Patrie ou la Mort, Nous Vaincrons! PREMIERE LEGISLATURE ASSEMBLEE DES DEPUTES DU PEUPLE LOI N° 31 /94/ ADP PORTANT AUTORISA TION DE RA TIFICA TION DU PROTOCOLE PORTANT AMENDEMENT DE LA CONSTITUTION DE LA COMMISSION AFRICAINE DE L'A VIATION CIVILE.
+L'ASSEMBLEE DES DEPUTES DU PEUPLE Vu la Constitution;
+Vu la Résolution N° 01/92/ADPdu 17 Juin 1992, portant validation du mandat des Députés.
+A délibéré en sa séance du 27 Mai 1994 et adopté la loi dont la teneur suit:
