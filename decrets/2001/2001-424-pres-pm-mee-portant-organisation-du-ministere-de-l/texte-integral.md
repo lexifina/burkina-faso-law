@@ -1,0 +1,201 @@
+# Décret n° 2001-424/PRES/PM/MEE du 7 septembre 2001 portant organisation du Ministère de l'environnement et de l'eau.
+
+Décret n° 2001-424/PRES/PM/MEE du 7 septembre 2001 (JO n°37 du 13 septembre 2001) portant organisation du Ministère de l’Environnement et de l’Eau.
+- LE PRESIDENT DU FASO,
+- PRESIDENT DU CONSEIL DES MINISTRES,
+- VU la Constitution ;
+- VU le Décret n° 2000-526/PRES du 06 novembre 2000 portant nomination du Premier Ministre ;
+- VU le Décret n° 2000-527/PRES/PM du 12 novembre 2000 portant composition du Gouvernement du Burkina Faso ;
+- VU le Décret n° 97-468/PRES/PM du 31 octobre 1997 portant attributions des membres du Gouvernement ;
+- VU la Loi n° 20/98/AN du 5 mai 1998 portant normes de création, d’organisation et de gestion des structures de l’Administration de l’Etat ;
+- VU le Décret n° 99-472/PRES/PM /SGG-CM du 20 décembre 1999 portant organisation- type des départements ministériels ;
+- Sur rapport du Ministre de l’Environnement et de l’Eau ;
+- Le Conseil des Ministres entendu en sa séance du 12 juillet 2001 ;
+- DECRETE
+- CHAPITRE I : LES ORGANES
+- Article 1 :L’organisation du Ministère de l’Environnement et de l’Eau est régie par les dispositions du présent décret et s’articule autour des structures ci-après :
+- -le Cabinet du Ministre de l’Environnement et de l’Eau ;
+- -le Cabinet du Ministre Délégué auprès du Ministre de l’Environnement et de l’Eau, chargé de l’Eau ;
+- -le Secrétariat Général.
+- CHAPITRE II : ATTRIBUTIONS
+- SECTION I : LE CABINET DU MINISTRE DE L’ENVIRONNEMENT ET DE L’EAU
+- Article 2 :Le Cabinet du Ministre de l'Environnement et de l'Eau est chargé :
+- -du courrier confidentiel et réservé ;
+- -des audiences ministérielles ;
+- -des relations avec le Secrétariat Général du Gouvernement et du Conseil des Ministres et les Institutions Nationales et Internationales ;
+- -du protocole ministériel ;
+- -de la communication et de la presse ministérielle.
+- Article 3 :Le Cabinet comprend le Secrétariat Particulier, le Protocole ministériel, les Conseillers Techniques, la Direction de la Communication et de la Presse Ministérielle, l'Inspection Technique des Services et le Secrétariat Permanent du Conseil National pour la Gestion de l’Environnement (SP/CONAGESE).
+- Article 4 :Le Secrétariat Particulier (SP) assure la réception, le dépouillement et l’expédition du courrier confidentiel et réservé. Il est dirigé par un(e) Secrétaire particulier (e) nommé(e) par arrêté du Ministre.
+- Article 5 :Le Protocole Ministériel est chargé, en relation avec le Protocole d'Etat, de l'organisation des audiences, des déplacements et cérémonies officielles du Ministre.
+- Article 6 :Les Conseillers Techniques (CT) assurent l’étude et la synthèse des dossiers qui leur sont confiés par le Ministre. De manière générale, ils assistent le Ministre dans l’étude de toutes les questions relevant de leurs compétences.
+- Article 7 : Les Conseillers Techniques au nombre de trois (3) au maximum sont choisis en raison de leurs compétences parmi les cadres. Ils sont nommés par Décret pris en Conseil des Ministres sur proposition du Ministre de l’Environnement et de l’Eau. Ils sont placés hors hiérarchie administrative et dépendent directement du Ministre.
+- Article 8 :Le Secrétariat Permanent du Conseil National pour la Gestion de l’Environnement (SP/CONAGESE) est l’organe d’animation du CONAGESE.
+- Il est organisé selon les dispositions du décret n°98-337/PRES/PM/MEE du 30 juillet 1998 portant organisation, fonctionnement et attributions du CONAGESE.
+- Article 9 :Le Secrétariat Permanent du CONAGESE est dirigé par un Secrétaire Permanent nommé par décret en Conseil des Ministres sur proposition du Ministre de l’Environnement et de l’Eau. Il a rang de Secrétaire Général.
+- Article 10 :L’Inspection Technique des Services (ITS) assure le suivi-conseil et le contrôle du fonctionnement des Services et Projets, et de l’application de la politique du département.
+- A ce titre elle est chargée :
+- -du contrôle de l’application des textes législatifs, réglementaires, et des instructions administratives régissant le fonctionnement administratif, financier et comptable des Services et Projets ;
+- -des investigations relatives à la gestion administrative, technique et financière des services et projets ;
+- de la vérification de l’utilisation des crédits publics et de la régularité des opérations des administrateurs de crédits, des comptables et régisseurs de deniers publics et des matières et fournitures relevant du Ministère ;
+- -de l’étude des réclamations des administrés et des usagers des Services et Projets ;
+- -de l’appui-conseils pour l’organisation des Services et Projets.
+- Article 11 :Le pouvoir de contrôle et de vérification de l’Inspection Technique des Services s’exerce aussi bien à titre préventif qu’à posteriori, sur les services centraux , les projets, les Etablissements Publics de l’Etat à caractère Administratif (EPA), les Sociétés d’Etat placés sous la tutelle du Ministère.
+- Article 12 : L’Inspection Technique des Services fait ampliation de tous ses rapports à l’Inspecteur Général d’Etat.
+- Article 13 :L'Inspection Technique est dirigée par un Inspecteur Général nommé par décret pris en Conseil des Ministres, sur proposition du Ministre de l’Environnement et de l’Eau, avec rang de Conseiller Technique ; il relève directement du Ministre et est placé hors hiérarchie administrative. Il est assisté des inspecteurs techniques suivants :
+- -l’Inspecteur Technique des Services des Eaux et Forêts (ITEF) ;
+- -l’Inspecteur Technique des Services de l’Environnement (ITE) ;
+- -l’Inspecteur Technique des Services de l’Hydraulique (ITH) ;
+- -l'Inspecteur Technique chargé du contrôle de gestion.
+- nommés également par décret en Conseil des Ministres avec rang de Directeur Général de service.
+- L’Inspecteur Général et les Inspecteurs Techniques sont choisis en raison de leur compétence et leur moralité parmi les cadres supérieurs.
+- Article 14 :La Direction de la Communication et de la Presse Ministérielle est chargée :
+- -de toutes les questions de presse et d’information qui intéressent le Ministère, de même que des relations avec les institutions et les organes de presse publics ou privés ;
+- -du dépouillement et de l’analyse pour le compte du Ministre des périodiques, des revues, des journaux et du réseau internet ;
+- -de l’organisation et de la préparation des activités du Ministère
+- dans ses relations avec les différents organes d’information et le public ;
+- -de la mise en place d’une documentation et des statistiques de presse ayant un rapport avec l’activité du Ministère ;
+- -de la conception et de la réalisation de tout support médiatique en vue de promouvoir l’image et d'assurer une plus grande visibilité du département ;
+- -de la coordination de la production des bulletins de livraison et d’information au sein du département.
+- SECTION II : LE CABINET DU MINISTRE DELEGUE AUPRES DU MINISTRE DE L’ENVIRONNEMENT ET DE L’EAU, CHARGE DE L’EAU
+- Article 15 : Le Ministre Délégué auprès du Ministre de l’Environnement et de l’Eau, Chargé de l’Eau est chargé de la mise en œuvre des attributions définies par le Décret n°97-468/PRES/PM du 31 octobre 1997, portant attributions des membres du Gouvernement notamment celles relatives au domaine de l’eau, en concertation avec le Ministre de l’Environnement et de l’Eau.
+- Article 16 :Le Ministre Délégué connaît de toutes les affaires concernant son domaine
+- spécifique et donne son avis pour toutes les questions à lui soumises par le Ministre.
+- Article 17 :Le Ministre Délégué accomplit tous les actes intéressant son domaine spécifique en relation avec le Ministre.
+- Il assure l’intérim du Ministre de l’Environnement et de l’Eau en cas d’absence de ce dernier.
+- Article 18 :Le Cabinet du Ministre Délégué comprend :
+- un Secrétariat Particulier,
+- des Conseillers Techniques au nombre de trois (3) au maximum.
+- Article 19 : La nomination et les attributions du (de la) Secrétaire Particulier (e) et des Conseillers Techniques sont les mêmes que celles définies dans les articles 2, 4, 5, 6 et 7 du présent décret.
+- SECTION III : LE SECRETARIAT GENERAL
+- PARAGRAPHE 1 : LE SECRETAIRE GENERAL
+- Article 20 :Le Secrétaire Général assiste le Ministre de l’Environnement et de l’Eau et le Ministre Délégué, auprès du Ministre de l’Environnement et de l’Eau, chargé de l’Eau dans l’élaboration et l’application de la politique du département. Il est chargé de la coordination administrative et technique des services centraux et rattachés.
+- Article 21 :Le Secrétaire Général assure les relations techniques du département avec les autres Ministères, le Secrétariat Général du Gouvernement et du Conseil des Ministres, et les Institutions Nationales.
+- Article 22 :A l’exception des documents destinés au Chef de l’Etat, aux Présidents d’Institutions, aux Ministres et aux Ambassadeurs, et nonobstant toutes autres matières que le Ministre ou le Ministre Délégué pourrait lui affecter, le Secrétaire Général reçoit délégation de signature pour ceux relatifs à la gestion quotidienne du Ministère, notamment :
+- les lettres de transmission et d’accusé de réception ;
+- les correspondances et instructions adressées aux Directeurs Généraux et Directeurs des Services Centraux et rattachés ;
+- les certificats de prise, de cessation et reprise de service du personnel de l’administration centrale du Ministère ;
+- les décisions de congé et d’autorisation d’absence ;
+- les décisions d’affectation et de mutation ainsi que l'ensemble des actes de gestion du personnel des services relevant du Secrétariat Général ;
+- les ordres de mission à l’intérieur du Burkina Faso ;
+- les textes des communiqués ;
+- l’approbation des textes et le visa des télex.
+- Article 23 :Pour tous les cas susvisés à l’article 22, la signature du Secrétaire Général est toujours précédée de la mention : " pour le Ministre ou le Ministre Délégué, et par délégation, le Secrétaire Général ".
+- Article 24 :En cas d’absence du Secrétaire Général, le Ministre nomme un intérimaire par arrêté. Cet intérim ne saurait excéder trois (3) mois.
+- PARAGRAPHE 2 : LES SERVICES DU SECRETARIAT GENERAL
+- Article 25 :Le Service Central du Courrier assure la réception, le traitement et l’expédition du courrier ordinaire. Il assure également l’enregistrement et la diffusion des arrêtés, circulaires et notes de services signés par le Ministre ou par délégation de lui.
+- Le Service Central du courrier est dirigé par un chef de service nommé par arrêté du Ministre.
+- Article 26 :Les services ci-dessous relèvent du Secrétariat Général et sont soumis à la coordination du Secrétaire Général :
+- -les services centraux ;
+- -les services rattachés.
+- Article 27 : Les services centraux sont :
+- -la Direction Générale des Eaux et Forêts (DGEF) ;
+- -la Direction Générale de la Préservation de l’Environnement (DGPE) ;
+- la Direction Générale de l’Hydraulique (DGH) ;
+- la Direction de l’Administration et des Finances (DAF) ;
+- la Direction des Etudes et de la Planification (DEP) ;
+- la Direction des Ressources Humaines (DRH).
+- Article 28 :La Direction Générale des Eaux et Forêts a pour missions la conception, la coordination de la mise en œuvre et le suivi de la politique nationale en matière de Forêt, Faune et Pêche. Elle veille à l’application du statut paramilitaire auquel sont soumis les agents forestiers et assure l’organisation du corps ainsi que des questions liées à l’équipement et à la formation militaire des agents forestiers. A ce titre, elle est chargée :
+- -de la protection des ressources forestières, fauniques et halieutiques ;
+- -de l’élaboration et du suivi de la mise en œuvre d’une stratégie en matière de vulgarisation des techniques forestières ;
+- -d’assurer toute assistance sous forme d’appui-conseil dans ses domaines de compétences ;
+- -de la conception d’une méthodologie d’élaboration des plans -d’aménagement des forêts et des plantations forestières ;
+- -de l’organisation du contrôle de l’exploitation et de la commercialisation des produits forestiers d’origine végétale, faunique et halieutique ;
+- -de l’élaboration d’une stratégie d’aménagement et de la protection des parcs nationaux, réserves de faune et ranchs de gibier ;
+- -de la proposition de voies et moyens pour la valorisation des ressources biologiques d’origine aquatique ;
+- -de la gestion des contrats et marchés d’études et travaux relevant du domaine ;
+- -de la mise en œuvre des conventions internationales en matière de ressources forestières ;
+- -du développement des compétences des acteurs des sous-secteurs forêts, faune et pêche ;
+- de l’élaboration et l’application des textes législatifs et réglementaires en matière de gestion des forêts, de la faune et des ressources halieutiques.
+- Le Directeur Général des Eaux et Forêts assure, cumulativement avec ses fonctions, le commandement du corps paramilitaire des Eaux et Forêts.
+- Article 29 :La Direction Générale des Eaux et Forêts comprend :
+- la Division du Corps Paramilitaire des Eaux et Forêts ;
+- la Direction de la Foresterie Villageoise et de l’Aménagement Forestier ;
+- la Direction de la Faune et des Chasses ;
+- la Direction des Pêches ;
+- les Directions Régionales de l’Environnement et des Eaux et Forêts.
+- Article 30 :La Direction Générale de la Préservation de l’Environnement a pour missions la conception, la coordination de la mise en œuvre et le suivi de la politique nationale en matière d’assainissement et de lutte contre les pollutions et nuisances diverses, d’études d’impact sur l’environnement et d’aménagement paysager. A ce titre elle est chargée :
+- -de l'élaboration et de la mise en œuvre des stratégies nationales du sous-secteur de l'assainissement et du sous-secteur des aménagements paysagers ;
+- -de la lutte contre toutes les formes de pollutions d'origine biologique, chimique ou physique ;
+- -du développement des compétences des acteurs du sous-secteur de l'assainissement et du sous-secteur des aménagements paysagers ;
+- de la promotion des études et des notices d'impacts sur l'environnement, en concertation avec les structures impliquées ;
+- -de l'élaboration et l'application des textes réglementaires du code de l'environnement ;
+- -de la gestion des contrats et marchés d'études et travaux relevant du secteur.
+- Article 31 : La Direction Générale de la Préservation de l’Environnement comprend :
+- -la Direction de la Prévention des Pollutions et de l’Assainissement (DPPA) ;
+- -la Direction des Aménagements Paysagers (DAP).
+- Article 32 :Les Directions Régionales de l’Environnement et des Eaux et Forêts sont chargées, en collaboration avec les Services centraux, de la mise en œuvre au niveau régional de la politique du Ministère dans les domaines de l’Environnement et des Eaux et Forêts.
+- Elles sont des structures déconcentrées de la Direction Générale des Eaux et Forêts (DGEF), et de la Direction Générale de la Préservation de l’Environnement (DGPE). Elles relèvent de la DGEF et entretiennent des relations fonctionnelles avec la DGPE.
+- Article 33 :Les Directions Régionales de l’Environnement et des Eaux et Forêts au nombre de treize (13) sont celles des Cascades, des Hauts-Bassins, de la Boucle du Mouhoun , du Sahel, de l’Est, du Sud-Ouest, du Centre-Nord, du Centre-Ouest, du Plateau Central, du Centre-Sud, du Nord, du Centre-Est, du Centre.
+- Article 34 :Les Directions Provinciales de l’Environnement et des Eaux et Forêts constituent les structures déconcentrées au niveau provincial. Elles sont soumises à la coordination des directeurs régionaux de l’Environnement et des Eaux et Forêts.
+- Article 35:La Direction Générale de l’Hydraulique a pour missions la conception, la coordination de la mise en œuvre et de l’application de la politique nationale dans les domaines de l’approvisionnement en eau de la population et des industries, de l’hydraulique agricole et pastorale, de la gestion et de la protection des ressources en eau. A ce titre elle est chargée :
+- -des études, des inventaires, du suivi et de l’évaluation des ressources en eau ;
+- -de l’élaboration des schémas directeurs d’aménagements hydro-agricoles, d’approvisionnement en eau potable et/ou brute des populations, des exploitations agricoles, industrielles et commerciales ;
+- -du contrôle de la mise en place des ouvrages et infrastructures hydrauliques ;
+- -de l’élaboration des dossiers de consultation et d’exécution des projets hydrauliques ;
+- -de la gestion des contrats et marchés d’études et travaux d’hydraulique, des réceptions provisoires et définitives des travaux ;
+- -de toutes études tendant à réorienter la politique du secteur de l’eau ;
+- -de toute assistance aux collectivités locales et démembrements de l’Etat en matière de planification des projets hydrauliques, de gestion des ressources en eau et d’exploitation des ouvrages et infrastructures hydrauliques ;
+- du suivi des activités des ONG, organismes Inter-Africains et internatinaux exerçant dans le secteur de l’eau et des activités des Etablissements de formation dans le domaine de l’eau;
+- -de la mise en place et du suivi des structures chargées de la gestion des ressources en eau dans les bassins hydrographiques ;
+- -de l’élaboration et du suivi de l’application de la législation et de la réglementation sur les ressources en eau et leurs utilisations ;
+- -de la mise en place et du maintien d’un système d’information sur les ressources en eau (SIRE).
+- Article 36 :La Direction Générale de l’Hydraulique comprend :
+- -la Direction de l’Approvisionnement en Eau Potable (DAEP) ;
+- -la Direction de l’Hydraulique Agricole (DHA) ;
+- -la Direction de l’Inventaire des Ressources Hydrauliques (DIRH);
+- -les Directions Régionales de l’Hydraulique.
+- Article 37 :Les Directions Régionales de l’Hydraulique au nombre de treize (13) sont celles des Cascades, des Hauts-Bassins, de la Boucle du Mouhoun , du Sahel, de l’Est, du Sud-Ouest, du Centre-Nord, du Centre-Ouest, du Plateau Central, du Centre-Sud, du Nord, du Centre-Est, du Centre.
+- Article 38 :La Direction de l'Administration et des Finances est chargée :
+- -de gérer le matériel et le parc automobile du Ministère ;
+- -d’élaborer le projet de budget du Département ;
+- -de gérer les crédits alloués au Département ;
+- -de tenir une comptabilité matière des biens meubles et immeubles du Département ;
+- -de tenir un livre journal inventaire
+- -de contrôler et suivre les recouvrements des recettes relevant du département.
+- Article 39 :La Direction des Etudes et de la Planification est chargée :
+- -de centraliser l’ensemble des données relatives à tous les projets du ministère en cours de réalisation ou à réaliser ;
+- -de définir des indicateurs de performance et mettre en place des tableaux de bord de suivi de la gestion des services et des projets ;
+- -de suivre et contrôler les projets du ministère inscrits ou non dans les plans et programmes de développement ;
+- -d’élaborer une planification des activités du ministère ;
+- -de dresser les plannings d’activités du ministère ;
+- d'assurer la collecte et le traitement des données financières en vue de les synthétiser dans les tableaux d’ensemble ;
+- d'élaborer et veiller à la mise en œuvre du Schéma Directeur Informatique du ministère ;
+- -de suivre l’élaboration et l’exécution des programmes de réformes économiques ;
+- -de présider la commission d’ attribution des marchés du ministère.
+- -de réaliser toutes études nécessaires à la dynamique du ministère
+- -de gérer le Centre de Documentation du Ministère.
+- Article 40 :La Direction des Ressources Humaines est chargée de la gestion du personnel du Ministère. A ce titre, elle a pour missions :
+- -la conception et la mise en œuvre des stratégies visant à accroître -la productivité et le rendement du personnel du Ministère ;
+- -la gestion de la carrière du personnel ;
+- l’élaboration et l’exécution des programmes de formation et de perfectionnement des agents du Ministère ;
+- -la planification et la coordination des activités de formation des agents du ministère ;
+- -la recherche et la mise en œuvre de moyens tendant à accroître la performance des agents et l’établissement des stratégies en vue d’orienter les besoins en personnel du Ministère ;
+- -la gestion des bourses de stage ;
+- -l’organisation des mutations et du mouvement du personnel ;
+- l’organisation et le suivi des concours de recrutement en relation avec la Fonction Publique ;
+- -la promotion de l’expertise du ministère et la constitution d’une banque de données à cette fin ;
+- -le suivi de toutes les questions administratives ayant trait au bon fonctionnement des services en relation avec la Direction de l'Administration et des Finances.
+- Article 41 :Les services rattachés du Ministère de l’Environnement et de l’Eau sont les suivants :
+- -le Centre National de Semences Forestières (CNSF);
+- -l’Ecole Nationale des Eaux et Forêts (ENEF) ;
+- -l’Office National de l’Eau et de l’Assainissement (ONEA) ;
+- -l’Office National des Barrages et des Aménagements Hydro-agricoles (ONBAH) ;
+- -l’Office National des Puits et Forages (ONPF) ;
+- -le Fonds de l’Eau et de l’Equipement Rural (FEER) ;
+- -l’Autorité de Mise en Valeur de la Vallée du Sourou (AMVS) ;
+- -la Maîtrise d’Ouvrage de Bagré (MOB).
+- Ces Services Rattachés sont régis par leurs textes de création et leurs statuts.
+- CHAPITRE III : DISPOSITIONS DIVERSES
+- Article 42 :Nonobstant les dispositions des articles 3, 14 et 19 ci-dessus, le Secrétariat Général, l'Inspection Technique des services, la Direction de l'Administration et des Finances, la Direction des Ressources Humaines, la Direction des Etudes et de la Planification, la Direction de la Communication et de la Presse Ministérielle ainsi que le Service Central du Courrier sont des structures communes au Ministre et au Ministre Délégué.
+- Article 43 :Le Secrétaire Général, les Directeurs Généraux, les Directeurs des services centraux et les Directeurs des services rattachés ainsi que les Responsables ayant rang de Directeurs sont nommés par Décret pris en Conseil des Ministres sur proposition du Ministre de l’Environnement et de l’Eau.
+- Article 44 :Sur proposition du Ministre Délégué, le Ministre propose au Conseil des Ministres la nomination des Directeurs de Services relevant de son domaine d’activité.
+- Article 45 :Les Chefs de Services sont nommés par Arrêté du Ministre sur proposition du Secrétaire Général ou du Directeur.
+- Article 46 :L’organisation et le fonctionnement des Services Centraux sont fixés par arrêté du Ministre.
+- Article 47 :Le présent décret abroge toutes dispositions antérieures contraires notamment celles du décret n°2000-143/PRES/PM/MEE du 17 avril 2000 portant organisation du Ministère de l’Environnement et de l’Eau.
+- Article 48 :Le Ministre de l’Environnement et de l’Eau est chargé de l’exécution du présent Décret qui sera publié au Journal Officiel du Faso.
+- Ouagadougou, le 7 septembre 2001
+- Blaise COMPAORE
+- Le Premier Ministre Paramanga Ernest YONLI
+- Le Ministre de l’Environnement et de l’Eau
+- Fidèle HIEN
