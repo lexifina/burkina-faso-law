@@ -1,0 +1,6 @@
+# Visas
+
+--------- IVE REPUBLIQUE DEUXIEME LEGISLATURE BURKINA FASO UNITE -PROGRES -JUSTICE ------- ASSEMBLEE NATIONALE LOI N°032-99/AN PORTANT PROTECTION DE LA PROPRIETE LITTERAIRE ET ARTISTIQUE L'ASSEMBLEE NATIONALE Vu la Constitution;
+Vu la Résolution nO01/97/AN du 07 juin 1997,portant validation du mandat des Députés ;
+A délibéré en sa séance du 22 décembre 1999 et adopté la loi dont la teneur suit :
+TITRE 1 DU DROIT D'AUTEUR CHAPITRE 1 - DISPOSITIONS GENERALES
