@@ -1,0 +1,130 @@
+# Décret n° 408/PRES/PM/AGRI du 29 août 2001 portant création, composition et attributions du dispositif institutionnel de coordination des politiques sectorielles agricoles.
+
+Décret n° 2001-408/PRES/PM/AGRI du 29 août 2001 (JO n°37 du 13 septembre 2001) portant création, composition et attributions du dispositif institutionnel de coordination des politiques sectorielles agricoles.
+- LE PRESIDENT DU FASO,
+- PRESIDENT DU CONSEIL DES MINISTRES,
+- VU la Constitution ;
+- VU le Décret n° 2000-526/PRES du 6 novembre 2000 portant nomination du Premier Ministre ;
+- VU le Décret n° 2000-527 /PRES/PM du 12 novembre 2000 portant composition du Gouvernement du Burkina Faso ;
+- VU le Décret n°97-468/PRES/PM du 31 octobre 1997 portant attributions des membres du Gouvernement ;
+- VU le Décret n°98-521/PRES/PM/AGRI du 31 décembre 1998 portant organisation du Ministère de l’Agriculture ;
+- VU le Décret n°99-399/PRES/PM/AGRI du 3 novembre 1999 portant adoption du plan stratégique opérationnel de croissance durable du secteur de l’agriculture ;
+- Sur Proposition du Ministre de l’Agriculture
+- LE Conseil des Ministres entendu en sa séance du 18 juillet 2001 ;
+- DECRETE
+- ARTICLE 1 : Il est créé et placé auprès du Ministre chargé de l’agriculture un dispositif institutionnel de coordination des politiques sectorielles agricoles.
+- ARTICLE 2 : Au sens du présent décret, l’expression " politiques sectorielles agricoles " regroupe les politiques des secteurs de la production végétale, de l’élevage, de l’hydraulique agricole et pastorale, de la foresterie, de la pêche et de la recherche en matière de productions végétales, animales et environnementales.
+- ARTICLE 3 : Le dispositif institutionnel de coordination des politiques sectorielles agricoles comprend les deux organes ci-après :
+le Comité de coordination des politiques sectorielles agricoles, en abrégé CCPSA ;
+- le Secrétariat permanent de la coordination des politiques sectorielles agricoles, en abrégé SP/CPSA
+- ARTICLE 4 : Le Comité de coordination des politiques sectorielles agricoles a pour missions :
+- l’harmonisation et la mise en cohérence de politiques sectorielles agricoles ;
+- l’examen et l’adoption des rapports et programmes d’activités du Secrétariat permanent ;
+- l’appréciation de l’impact de la mise en œuvre des politiques sectorielles agricoles sur la sécurité alimentaire, la lutte contre la pauvreté et la gestion durable des ressources naturelles ;
+- la contribution au renforcement de la responsabilité de la société civile, du secteur privé et des organisations professionnelles agricoles (OPA) dans la mise en œuvre des politiques sectorielles agricoles en rapport avec le recentrage de l’Etat sur ses fonctions d’orientation, de réglementation et de contrôle, de suivi-évaluation et d’appui-conseil ;
+- l’adoption des orientations sur les politiques sectorielles agricoles nationales et sous régionales ;
+- l’adoption de recommandations et de propositions aux ministres en charge des secteurs agricoles en ce qui concerne l’élaboration et la mise en œuvre de leurs politiques respectives ;
+- la recherche de toutes solutions appropriées à la mise en œuvre efficiente des politiques des secteurs de l’agriculture.
+- la recherche de toutes solutions appropriées à la mise en œuvre efficiente des politiques des secteurs de l’agriculture.
+- ARTICLE 5 : Le Comité de coordination de politiques sectorielles agricoles (CC- PSA) présidé par le Ministre chargé de l’Agriculture, comprend les membres suivants :
+- Au titre de l’Etat, les Ministres chargés de :
+- l’agriculture ;
+- l’environnement ;
+- l’économie et des finances ;
+- l’élevage ;
+- infrastructures rurales ;
+- la recherche agricole ;
+- l’éducation ;
+- commerce ;
+- l’administration territoriale et de la décentralisation ;
+- la promotion de la femme ;
+- l’action sociale ;
+- la santé.
+- Au titre du secteur privé :
+- deux (2) représentants des opérateurs intervenant dans la commercialisation des produits agricoles ;
+- deux (2) représentants des opérateurs intervenant dans la fabrication et/ou la distribution des équipements, intrants agricoles et vétérinaires ;
+- deux (2) représentants des transformateurs des produits agricoles ;
+- deux (2) représentants des banques et établissements financiers.
+- Au titre de la société civiles :
+- cinq (5) représentants des autorités coutumières ;
+- trois (3) représentants des autorités religieuses ;
+- trois (3) représentants des syndicats des travailleurs des secteurs agricoles,
+- quatre (4) représentants des ONG intervenant dans le secteur rural;
+- trois (3) représentants des faîtières des organisations professionnelles agricoles.
+- Au titre des Filières de production :
+- Volet production végétale
+- un (1) représentant de la filière céréales traditionnelles (mil, sorgho, maïs) ;
+- un (1) représentant de la filière riz ;
+- un (1) représentant de la filière coton ;
+- un (1) représentant de la filière fruits et légumes ;
+- un (1) représentant de la filière oléagineux ;
+- un (1) représentant de la filière niébé ;
+- un (1) représentant de la filière tubercules.
+- Volet élevage
+- un (1) représentant de la filière bétail/viande ;
+- un (1) représentant de la filière lait ;
+- un (1) représentant de la filière volailles/œufs.
+- Volet environnement et eau
+- un (1) représentant de la filière bois/énergie ;
+- un (1) représentant de la filière pêche ;
+- un (1) représentant de la chasse ;
+- un (1) représentant de la filère apiculture.
+- Au titre des partenaires au développement (observateurs) :
+- ARTICLE 6 : Le CCPSA se réunit deux fois par an en session ordinaire sur convocation de son Président. Il peut se réunir en session extraordinaire chaque fois que de besoin.
+- ARTICLE 7 : Le Secrétariat des réunions du CCPSA est assuré par le Secrétariat permanent de la coordination des politiques sectorielles.
+- ARTICLE 8 : Le Secrétariat permanent de la coordination des politiques sectorielles agricoles a pour missions :
+- -la mise en œuvre des décisions du Comité de coordination des politiques sectorielles agricoles ;
+- -la coordination de la formulation et de l’élaboration de la politique agricole, sa mise à jour régulière en fonction des résultats obtenus et de l’évolution du contexte ;
+- -la coordination et le suivi de la mise en œuvre de la politique agricole par l’organisation de la mise en place des structures d’exécution des plans d’actions (comités de pilotage, d’orientation, de supervision ou interprofessionnel et cellules de gestion) et des autres mesures adoptées en vue de l’application de
+- la politique agricole ;
+- -le renforcement du partenariat entre l’Etat et les autres acteurs publics et privés des secteurs du développement rural afin de les associer aux réformes politiques et institutionnelles en vue de créer des conditions favorables au développement de leurs activités ;
+- -l’appréciation des rapports d’études et d’exécution des plans d’actions du PSO ;
+- -la réalisation d’analyses prospectives en vue d’évaluer les différentes options de politiques sectorielles agricoles ;
+- -la capitalisation et l’harmonisations de l’ensemble des données et informations nécessaires à l’élaboration et au suivi de la mise en œuvre des politiques sectorielles agricoles ;
+- -l’appui aux Directions des Etudes et de la Planification dans l’élaboration des politiques sectorielles ;
+- -le suivi de la mise en cohérence des projets et programmes de développement avec les dispositions de la politique nationale des secteurs agricoles ;
+- -l’appui à la mobilisation des ressources nécessaires à la mise en œuvres des plans d’actions ;
+- l’évaluation de l’impact global de la nouvelle politique agricole.
+- ARTICLE 9 : Le Secrétariat permanent de la coordination des politiques sectorielles agricoles est rattaché au cabinet du Ministre en charge de l’agriculture.
+- ARTICLE 10 :Le Secrétariat permanent de la coordination des politiques sectorielles agricoles est placé sous l’autorité d’un Secrétaire permanent ayant rang de conseiller technique de département ministériel.
+- ARTICLE 11 :Le SP/CPSA, outre le Secrétariat de Direction, est organisé en Divisions et Services comme suit :
+- -un Service administratif et comptable ;
+- -un Service de la documentation ;
+- -une Division élaboration des politiques ;
+- -une Division Suivi de la mise en œuvre des politiques.
+- ARTICLE 12 :les Divisions sont placées sous la responsabilité de Chefs de Divisions ayant rang de Directeurs de services.
+- Les Chefs de Divisions sont nommés par décret pris en Conseil des Ministres sur proposition du Ministre chargé de l’agriculture.
+- ARTICLE 13:L’organisation et le fonctionnement du Secrétariat permanent pour la coordination des politiques sectorielles agricoles seront fixés par arrêté conjoint des Ministres en charge de l’agriculture, de l’économie et des finances, de l’élevage, du commerce, de l’environnement, de l’hydraulique, de la santé, de la recherche agricole, de l’éducation, des forêts, de la pêche, de la promotion de la femme, de l’action sociale et des infrastructures rurales, de l’administration territoriale et de la décentralisation.
+- ARTICLE 14 :Il est créé dans chaque région un comité régional de coordination des politiques sectorielles agricoles.
+- ARTICLE 15 :La composition, les attributions et le fonctionnement du comité régional seront précisés pat un arrêté du Gouverneur de la Région.
+- ARTICLE 16 : Le présent décret abroge toutes dispositions antérieures contraires.
+- ARTICLE 17 : Le Ministre de l’Agriculture, le Ministre de l’Economie et des Finances, le Ministre des Ressources Animales, le Ministre de l’Environnement et de l’Eau, le Ministre du Commerce, de la Promotion de l’Entreprise et de l’Artisanat, le Ministre des Infrastructures, de l’Habitat et de l’Urbanisme, le Ministre de la Santé, le Ministre de l’Enseignement de Base et de l’Alphabétisation, le Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique, le Ministre de la Promotion de la Femme et le Ministre de l’Action Sociale et de la Famille sont chargés, chacun en ce qui le concerne, de l’exécution du présent décret qui sera publié au Journal Officiel du Faso.
+- OUAGADOUGOU, le 29 août 2001
+- Blaise COMPAORE
+- Le Premier Ministre
+- Paramanga Ernest YONLI
+- Le Ministre de l’Agriculture
+- Salif DIALLO
+- Pour le Ministre de l’Economie et des Finances et par délégation,
+- le Ministre délégué chargé du Budget et des Finances
+- Jean-Baptiste COMPAORE
+- Le Ministre des Ressources Animales
+- Alphonse BONOU
+- Le Ministre de l’Environnement et de l’Eau
+- Fidèle HIEN
+- Le Ministre du Commerce, de la Promotion de l’Entreprise et de l’Artisanat
+- Bédouma Alain YODA
+- Le Ministre des Infrastructures, de l’Habitat et de l’Urbanisme
+- Hippolyte LINGANI
+- Le Ministre de la Santé
+- Pierre Joseph Emmanuel TAPSOBA
+- Le Ministre de l’Enseignement de Base
+- et de l’Alphabétisation
+- Fidèle KIENTGA
+- Le Ministre des Enseignements Secondaire,
+- Supérieur et de la Recherche Scientifique
+- Laya SAWADOGO
+- Le Ministre de la Promotion de la Femme
+- Gisèle GUIGMA
+- Le Ministre de l’Action Sociale et de la Solidarité nationale
+- Gilbert OUEDRAOGO
