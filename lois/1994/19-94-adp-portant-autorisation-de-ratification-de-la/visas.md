@@ -1,0 +1,5 @@
+# Visas
+
+BURKINA FASO IVè REPUBliQUE PREMIERE LEGISLATURE La Patrie ou la Mort, Nous Vaincrons! ASSEMBLEE DES DEPUTES DU PEUPLE LOI N° 19/94/ADP PORTANT AUTORISATION DE RATIFICATION DE LA CONSTITUTION ET DE LA CONVENTION DE L'UNION INTERNATIONALE DES TELECOMMUNICATIONS L'ASSEMBLEE DES DEPUTES DU PEUPLE Vu la Constitution ;
+Vu la Résolution N° 01/92/ADP du 17 Juin 1992 portant validation du mandat des Députés.
+A délibéré en sa séance du 16 mai 1994 et adopté la Loi dont la teneur suit:
