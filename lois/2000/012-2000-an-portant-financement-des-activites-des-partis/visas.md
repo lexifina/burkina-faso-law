@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO ----------- IVE REPUBLIQUE DEUXIEME LEGISLATURE UNITE-PROGRES-JUSTICE ----------- ASSEMBLEE NATIONALE LOIN° 012-2000/AN PORTANT FINANCEMENT DES ACTIVITES DES PARTIS POLITIQUES ET DES CAMPAGNES ELECTORALES L'ASSEMBLEE NATIONALE VU la Constitution;
+VU la Résolution N°00l/97/AN du 7 juin 1997, portant validation du mandat des députés;
+a délibéré en sa séance du 02 mai 2000 et adopté la loi dont la teneur suit :
+TITRE 1 : DISPOSITIONS GENERALES
