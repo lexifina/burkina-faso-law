@@ -1,0 +1,7 @@
+# Visas
+
+BURKINA FASO ------------- IVE REPUBLIQUE DEUXIEME LEGISLATURE UNITE - PROGRES - JUSTICE ------------ ASSEMBLEE NATIONALE LOI ORGANIQUE N°013-2000/AN PORTANT ORGANISATION, ATTRIBUTIONS ET FONCTIONNEMENT DE LA COUR DE CASSATION ET PROCEDURE APPLICABLE DEVANT ELLE.
+- ------- L'ASSEMBLEE NATIONALE, vu la Constitution;
+vu la Résolution nO001/97/AN du 07juin 1997, portant validation du mandat des députés;
+a délibéré en sa séance du 09 mai 2000 et adopté la loi dont la teneur suit:
+TITRE 1- ORGANISATION
