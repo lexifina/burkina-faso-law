@@ -1,0 +1,5 @@
+# Visas
+
+BURKINAFASO ----------- IVE REPUBLIQUE DEUXIEME LEGISLATURE UNITE-PROGRES-JUSTICE ----------- ASSEMBLEE NATIONALE LOI N° 024-2001/AN PORTANT AUTORISATION DE RATIFICATION DE LA CONVENTION PORTANT CREATION DE LA BANQUE AFRICAINE POUR LE DEVELOPPEMENT ET LE COMMERCE L'ASSEMBLEE NATIONALE VU la Constitution;
+VU la résolution nOOl/97/ANdu 07juin 1997, portant validation du mandat des députés;
+a délibéré en sa séance du 18 octobre et adopté la loi dont la teneur suit:
