@@ -1,0 +1,7 @@
+# Visas
+
+------------- IVE REPUBLIQUE DEUXIEMELEGISLATURE BURKINA FASO Unité - Progrès - Justice ------------ ASSEMBLEE NATIONALE .LOI ORGANIQUE N°014-2000/AN PORTANT COMPOSITION, ATTRIBUTIONS, ORGANISATION, FONCTIONNEMENT DE LA COUR DES COMPTES ET PROCEDURE APPLICABLE DEVANT ELLE.
+L'ASSEMBLEE NATIONALE Vu la Constitution;
+Vu la Résolution nO01l97/AN du 07 juin 1997, portant validation du mandat des députés ;
+a délibéré en sa séance du 16 mai 2000 et adopté la loi dont la teneur suit:
+CHAPITRE 1 : DISPOSITIONS GENERALES
