@@ -1,0 +1,8 @@
+# Visas
+
+---------------- IVE REPUBLIQUE DEUXIEME LEGISLATURE BURKINA FASO UNITE-PROGRES-JUSTICE ----------------- ASSEMBLEE NATIONALE LOI N° 014/99/AN PORTANT REGLEMENTATION DES SOCIETES COOPERATIVES ET GROUPEMENTS AU BURKINA FASO L'ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la Résolution N° 01/97/AN du 07 juin 1997, portant validation du mandat des Députés;
+A délibéré en sa séance du 15 avril 1999 et adopté la loi dont la teneur suit:
+TITRE 1: DES DISPOSITIONS GENERALES CHAPITRE 1:
+CHAMP D'APPLICATION ET FORME JURIDIQUE Section 1:
+Du Champ d'application
