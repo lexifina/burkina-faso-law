@@ -1,0 +1,3 @@
+# Signatures
+
+Ainsi fait et délibéré en séance publique à Ouagadougou, le 08 décembre 1998 Le Secrétaire de séance P. le Président de l'Assemblée Nationale Le Troisième Vice-Président T. Abel LOMPO
