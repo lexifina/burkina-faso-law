@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 6 octobre 2005 Blaise COMPAORE Le Premier Ministre Paramanga Ernest YONLI Le Ministre de l’environnement et du cadre de vie Laurent SEDEGO Le Ministre de l’agriculture, de l’hydraulique et des ressources halieutiques Salif DIALLO Le Ministre de la santé Alain Bédouma YODA Le Ministre de l’administration territoriale et de la décentralisation Moumouni FABRE Le Ministre des ressources animales Tiémoko KONATE Le Ministre des finances et du budget Jean Baptiste Marie Pascal COMPAORE Le Ministre des infrastructures, des transports et de l’habitat Hippolyte LINGANI Le Ministre des mines, des carrières et de l’énergie Abdoulaye Abdoukader CISSE
