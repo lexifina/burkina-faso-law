@@ -1,0 +1,6 @@
+# Visas
+
+5/3/2016 portant création du Fonds d’Appui aux Initiatives des Jeunes.
+http://www.legiburkina.bf/m/Sommaires_JO/Decret_PM_2007_342.htm 1/3 DECRET N_ 2007­342/PRES/PM/MFB/MJE du 25 mai 2007 ( JO N° 25 DU 21 JUIN 2007) DECRET N_ 2007­342/PRES/PM/MFB/MJE du 25 mai 2007 portant création du Fonds d’Appui aux Initiatives des Jeunes.
+LE PRESIDENT DU FASO, PRESIDENT DU CONSEIL DES MINISTRES, VU la Constitution; VU le décret n _ 2006­002/PRES du 05 janvier 2006, portant nomination du Premier Ministre; VU le décret n _ 2006­003/PRES/PM du 06 janvier 2006, portant composition du Gouvernement du Burkina Faso; VU le décret n _ 2006­216/PRES/PM du 15 mars 2006, portant attributions des membres du Gouvernement; VU la loi N_ 004 – 2005/AN du 24 mars 2005 portant définition et réglementation des fonds nationaux de financement; VU le décret n _ 2005 – 557/PRES/PM/MFB du 27 octobre 2005, portant statut général des fonds nationaux de financement; VU le décret n _ 2006­247/PRES/PM/MJE du 13 juin 2006 portant organisation du Ministère de la Jeunesse et de l’Emploi; Sur rapport du Ministre des finances et du budget; Le Conseil des Ministres entendu en sa séance du 14 mars 2007; D E C R E T E 5/3/2016 portant création du Fonds d’Appui aux Initiatives des Jeunes.
+http://www.legiburkina.bf/m/Sommaires_JO/Decret_PM_2007_342.htm 2/3
