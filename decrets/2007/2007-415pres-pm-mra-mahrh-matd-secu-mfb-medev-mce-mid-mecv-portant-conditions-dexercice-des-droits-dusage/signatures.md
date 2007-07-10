@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 10 juin 2007 Blaise COMPAORE Le Premier Ministre Paramanga Ernest YONLI Le Ministre de l’agriculture, de l’hydraulique Le Ministre des ressources et des ressources halieutiques animales Salif DIALLO Tiémoko KONATE Le Ministre de la sécurité Le Ministre de l’administration territoriale et de la décentralisation Djibrill Yipènè BASSOLE Pengdwendé Clément SAWADOGO Le Ministre des infrastructures Le Ministre des mines, des carrières et du désenclavement et de l’énergie Hippolyte LINGANI Abdoulaye Abdoulkader CISSE Le Ministre de l’environnement et du Le Ministre de l’économie cadre de vie et du développement Laurent SEDEGO Seydou BOUDA Le Ministre des finances et du budget Jean­Baptiste Marie Pascal COMPAORE
