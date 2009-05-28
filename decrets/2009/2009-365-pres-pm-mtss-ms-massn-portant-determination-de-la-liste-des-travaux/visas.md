@@ -1,0 +1,6 @@
+# Visas
+
+28/7/2017 DECRET N°2009-365/PRES/PM/MTSS/ MS/MASSN portant détermination de la liste des travaux dangereux interdits aux enfants au Burki… http://www.legiburkina.bf/m/Sommaires_JO/D%C3%A9cret_2009_00365.htm 1/7 DECRET N°2009-365/PRES/PM/MTSS/ MS/MASSN portant détermination de la liste des travaux dangereux interdits aux enfants au Burkina Faso. JO N° 26 DU 25 JUIN 2009 LE PRESIDENT DU FASO, PRESIDENT DU CONSEIL DES MINISTRES, VU la Constitution ;
+VU le décret n°2007-349/PRES du 04 Juin 2007 portant nomination du Premier Ministre ; VU le décret n°2008-517/PRES/PM du 3 septembre 2008 portant remaniement du Gouvernement ; VU la loi n°028/2008/AN du 13 mai 2008 portant code du travail au Burkina Faso ; VU le décret n°2007-424/PRES/PM/SGG-CM du 13 juillet 2007 portant attributions des membres du gouvernement ; VU le décret n°2006-378/PRES/PM/MTSS du 04 août 2006 portant organisation du Ministère du travail et de la sécurité sociale ; VU l’avis du Comité technique national consultatif d’hygiène et de sécurité en sa session du 08 octobre 2008 ; Sur rapport du Ministre du travail et de la sécurité sociale ;
+Le Conseil des Ministres entendu en sa séance du 23 avril 2009;
+D E C R E T E
