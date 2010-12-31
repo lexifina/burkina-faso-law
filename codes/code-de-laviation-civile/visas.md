@@ -1,6 +1,6 @@
 # Visas
 
-BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°013-2019/AN PORTANT CODE DE L’AVIATION CIVILE AU BURKINA FASO L’ASSEMBLEE NATIONALE Vu la Constitution ;
-Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
-a délibéré en sa séance du 30 avril 2019 et adopté la loi dont la teneur suit :
-LIVRE I : DISPOSITIONS PRELIMINAIRES
+BURKINA FASO IVE REPUBLIQUE ----------- ----------- UNITE-PROGRES-JUSTICE QUATRIEME LEGISLATURE ----------- ASSEMBLEE NATIONALE LOI N° 013-2010/AN PORTANT CODE DE L’AVIATION CIVILE AU BURKINA FASO L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n° 001-2007/AN du 04 juin 2007, portant validation du mandat des députés ;
+a délibéré en sa séance du 06 avril 2010 et adopté la loi dont la teneur suit :
+DISPOSITIONS PRELIMINAIRES

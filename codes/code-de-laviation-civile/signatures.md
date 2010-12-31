@@ -1,3 +1,3 @@
 # Signatures
 
-Ainsi fait et délibéré en séance publique à Ouagadougou, le 30 avril 2019
+Ainsi fait et délibéré en séance publique à Ouagadougou, le 06 avril 2010.
