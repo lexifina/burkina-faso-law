@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IV E REPUBLIQUE ----------- ----------- UNITE-PROGRES-JUSTICE QUATRIEME LEGISLATURE ----------- ASSEMBLEE NATIONALE LOI N°006-2011/AN PORTANT REGLEMENTATION DES PROFESSIONS DE L’EXPERTISE NATIONALE L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n° 001-2007/AN du 04 juin 2007 portant validation du mandat des députés ;
+a délibéré en sa séance du 17 mai 2011 et adopté la loi dont la teneur suit :
+CHAPITRE I : DISPOSITIONS GENERALES
