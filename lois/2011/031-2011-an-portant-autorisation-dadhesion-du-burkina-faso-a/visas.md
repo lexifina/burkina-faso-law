@@ -1,0 +1,5 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ----------- ----------- UNITE-PROGRES-JUSTICE QUATRIEME LEGISLATURE ----------- ASSEMBLEE NATIONALE LOI N° 031-2011/AN PORTANT AUTORISATION D’ADHESION DU BURKINA FASO A L’ACCORD SUR LA CONSERVATION DES OISEAUX D’EAU MIGRATEURS D’AFRIQUE-EURASIE (AEWA) CONCLU LE 16 JUIN 1995 A LA HAYE, AUX PAYS BAS L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n° 001-2007/AN du 04 juin 2007, portant validation du mandat des députés ;
+a délibéré en sa séance du 1er décembre 2011 et adopté la loi dont la teneur suit :
