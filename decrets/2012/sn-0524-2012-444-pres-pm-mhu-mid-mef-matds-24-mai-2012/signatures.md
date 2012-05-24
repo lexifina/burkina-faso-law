@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 24 mai 2012 Blaise COMPAORE Le Premier Ministre Beyon Luc Adolphe TIAO 12/16/2014 DECRET N° 2012-444/PRES/PM/MHU/MID/MEF/MATDS 24 mai 2012 portant normes applicables aux travaux topographiques et cadastraux au B… http://www.legiburkina.bf/Sommaires_JO/Decret_2012_00444.htm 9/9 Le Ministre de l’économie et des finances Lucien Marie Noël BEMBAMBA Le Ministre de l’habitat et de l’urbanisme Yacouba BARRY Le Ministre des infrastructures et du désenclavement Jean Bertin OUEDRAOGO Le Ministre de l’administration territoriale, de la décentralisation et de la sécurité Jérôme BOUGOUMA
