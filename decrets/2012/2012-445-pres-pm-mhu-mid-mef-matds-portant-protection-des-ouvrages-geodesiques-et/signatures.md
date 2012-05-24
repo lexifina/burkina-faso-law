@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 24 mai 2012 Blaise COMPAORE Le Premier Ministre Beyon Luc Adolphe TIAO 12/16/2014 DECRET n°2012-445/PRES/PM/MHU/MID/MEF/MATDS portant protection des ouvrages géodésiques et topographiques au Burkina Faso. JO … http://www.legiburkina.bf/Sommaires_JO/Decret_2012_00445.htm 4/4 Le Ministre de l’économie et des finances Lucien Marie Noël BEMBAMBA Le Ministre de l’habitat et de l’urbanisme Yacouba BARRY Le Ministre des infrastructures et du désenclavement Jean Bertin OUEDRAOGO Le Ministre de l’administration territoriale, de la décentralisation et de la sécurité Jérôme BOUGOUMA
