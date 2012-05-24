@@ -1,0 +1,9 @@
+# Visas
+
+12/16/2014 DECRET n° 2012 - 448/PRES/PM/MEDD/MEF du 24 mai 2012 portant création, composition, attributions, organisation et fonctionnement d’un Con… http://www.legiburkina.bf/Sommaires_JO/Decret_2012_00448.htm 1/10 DECRET n° 2012 - 448/PRES/PM/MEDD/MEF du 24 mai 2012 portant création, composition, attributions, organisation et fonctionnement d’un Conseil National pour la Protection de Faune Sauvage. JO N° 29 DU 19 JUILLET 2012 LE PRESIDENT DU FASO PRESIDENT DU CONSEIL DES MINISTRES, Vu la Constitution ;
+Vu le décret n° 2011-208/PRES du 18 avril 2011 portant nomination du Premier Ministre ; Vu le décret n° 2012-122/PRES/PM du 23 février 2012 portant composition du Gouvernement ; Vu le décret n° 2011-329/PRES/PM/SGG-CM du 06 juin 2011 portant attributions des membres du gouvernement ;
+Vu la Zatu n° 85-006/CNR/PRES du 05 décembre 1985 portant ouverture de la chasse au Burkina Faso ; Vu la loi n° 055-2004/AN du 21 décembre 2004 portant code général des collectivités territoriales au Burkina Faso ;
+Vu la loi n° 017-2005/AN du 17 mai 2005 portant loi d’orientation du tourisme au Burkina Faso ; Vu la loi n° 003-2011/AN du 05 avril 2011 portant Code forestier au Burkina Faso ; Vu le décret n° 96-061/PRES/PM/MEE/MATS/MEFP/MCIA/MTT du 11 mars 1996 portant réglementation de l’exploitation de la faune au Burkina Faso ;
+Vu le décret n° 2011-1098/PRES/PM/MEDD du 30 décembre 2011 portant organisation du Ministère de l’Environnement et du Développement Durable ;
+Sur rapport du Ministre de l’Environnement et du Développement Durable ; Le Conseil des Ministres entendu en sa séance du 07 mars 2012, DECRETE :
+12/16/2014 DECRET n° 2012 - 448/PRES/PM/MEDD/MEF du 24 mai 2012 portant création, composition, attributions, organisation et fonctionnement d’un Con… http://www.legiburkina.bf/Sommaires_JO/Decret_2012_00448.htm 2/10 CHAPITRE I : DES DISPOSITIONS GENERALES
