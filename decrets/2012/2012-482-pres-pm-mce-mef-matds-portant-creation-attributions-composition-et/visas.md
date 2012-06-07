@@ -1,0 +1,7 @@
+# Visas
+
+12/16/2014 DECRET N° 2012-482/PRES/PM/MCE/MEF/MATDS du 07 juin 2012 portant création, attributions, composition et fonctionnement des cadres de c… http://www.legiburkina.bf/Sommaires_JO/Decret_2012_00482.htm 1/5 DECRET N° 2012-482/PRES/PM/MCE/MEF/MATDS du 07 juin 2012 portant création, attributions, composition et fonctionnement des cadres de concertation régionaux du secteur des mines et des carrières. JO N° 27 DU 05 JUILLET 2012 LE PRESIDENT DU FASO, PRESIDENT DU CONSEIL DES MINISTRES, VU la Constitution ;
+VU le décret n° 2011-208 /PRES du 18 avril 2011 portant nomination du Premier Ministre ; VU le décret n° 2012 -122 /PRES/PM du 23 février 2012 portant composition du Gouvernement du Burkina Faso ; VU la loi n° 010/98 /AN du 21 avril 1998 portant modalités d’intervention de l’État et répartition de compétences entre l’État et les autres acteurs du développement ; VU la loi n° 055- 2004/AN du 21 décembre 2004 portant code général des collectivités territoriales; VU le décret n° 2011-329/PRES/PM/SGG-CM du 06 juin 2011 portant attributions des membres du Gouvernement ; VU le décret n°2011–707/PRES/PM/MATDS du 26 septembre 2011 portant organisation du Ministère de l’administration territoriale, de la décentralisation et de la sécurité ;
+VU le décret n°2012 –280/PRES/PM/MCE du 3 avril 2012 portant organisation du Ministère des mines, des carrières et de l’énergie; Sur rapport du Ministre des mines, des carrières et de l'énergie ;
+Le Conseil des Ministres entendu en sa séance du 25 avril 2012 ;
+D E C R E T E CHAPITRE I : DISPOSITIONS GENERALES
