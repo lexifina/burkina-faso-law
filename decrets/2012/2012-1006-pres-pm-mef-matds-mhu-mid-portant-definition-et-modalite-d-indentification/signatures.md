@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 20 décembre 2012 Blaise COMPAORE Le Premier Ministre Beyon Luc Adolphe TIAO 12/16/2014 DECRET N° 2012-1006/PRES/PM/MEF/MATDS/MHU/MID du 20 décembre 2012 portant définition et modalité d’indentification des entités du plan… http://www.legiburkina.bf/Sommaires_JO/Decret_2012_01006.htm 6/6 Le Ministre de l’administration territoriale, Le Ministre de l’économie de la décentralisation et de la sécurité et des finances Jérôme BOUGOUMA Lucien Marie Noël BEMBAMBA Le Ministre de l’habitat Le Ministre des infrastructures et de l’urbanisme et du désenclavement Yacouba BARRY Jean Bertin OUEDRAOGO
