@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 28 décembre 2012 Blaise COMPAORE Le Premier Ministre Beyon Luc Adolphe TIAO 10/31/2018 DECRET N°2012 -1035/PRES/PM/MS/MICA/MATDS/MEF du 28 décembre 2012 portant définitions, conditions d’ouverture et d’exploitation des établissements de médecine et de pharmacopée traditi… http://www.legiburkina.bf/m/Sommaires_JO/Decret_2012_01035.htm 6/6 Le Ministre de l’industrie, du commerce et de l’artisanat Patiendé Arthur KAFANDO Le Ministre de la santé Adama TRAORE Le Ministre de l’administration territoriale, de la décentralisation et de la sécurité Jérôme BOUGOUMA Le Ministre de l’économie et des finances Lucien Marie Noël BEMBAMBA
