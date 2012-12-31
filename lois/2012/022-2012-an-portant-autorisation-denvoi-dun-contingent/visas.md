@@ -1,0 +1,5 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ----------- ----------- UNITE-PROGRES-JUSTICE QUATRIEME LEGISLATURE ----------- ASSEMBLEE NATIONALE LOI N° 022-2012/AN PORTANT AUTORISATION D’ENVOI D’UN CONTINGENT BURKINABE EN GUINEE BISSAU DANS LE CADRE DU DEPLOIEMENT D’UNITES DE LA FORCE EN ATTENTE DE LA CEDEAO L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n° 001-2007/AN du 04 juin 2007, portant validation du mandat des députés ;
+a délibéré en sa séance du 18 mai 2012 et adopté la loi dont la teneur suit :
