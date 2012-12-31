@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 31 décembre 2012 12/16/2014 DECRET N°2012-1041/PRES/PM/MEF/MATDS/MAH/MRA/MEDD du 31 décembre 2012 portant constatation de la non mise en valeur des terres… http://www.legiburkina.bf/Sommaires_JO/Decret_2012_01041.htm 3/3 Blaise COMPAORE Le Premier Ministre Beyon Luc Adolphe TIAO Le Ministre de l’administration territoriale, Le Ministre de l’économie de la décentralisation et de la sécurité et des finances Jérôme BOUGOUMA Lucien Marie Noël BEMBAMBA Le Ministre des ressources animales Le Ministre de l’agriculture et de l’hydraulique Jérémie Tinga OUEDRAOGO Laurent SEDOGO Le Ministre de l’environnement et du développement durable Jean KOULIDIATI
