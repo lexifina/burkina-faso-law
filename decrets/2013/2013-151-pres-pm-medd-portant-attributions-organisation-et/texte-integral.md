@@ -1,0 +1,111 @@
+# Décret n° 2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environnement et le Développement Durable (CONEDD).
+
+12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 1/7 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environnement et le Développement Durable (CONEDD). JO N °21 DU 23 MAI 2013
+- LE PRESIDENT DU FASO,
+- PRESIDENT DU CONSEIL DES MINISTRES,
+- VU la Constitution ;
+- VU le décret n° 2012-1038/PRES du 31 décembre 2012 portant nomination du Premier Ministre ;
+- VU le décret n° 2013-002/PRES/PM du 02 janvier 2013 portant composition du Gouvernement ;
+- VU la loi n° 005/97/ADP du 30 janvier 1997 portant code de l’environnement au Burkina Faso ;
+- VU la loi n°003-2011/AN du 05 avril 2011 portant Code forestier au Burkina Faso ;
+- VU la loi n° 034-2012/AN du 02 juillet 2012 portant réorganisation agraire et foncière au Burkina Faso ;
+- VU le décret n° 2011-1098/PRES/PM/MEDD du 30 décembre 2011 portant organisation du Ministère de l’Environnement et du Développement Durable ;
+- VU le décret n° 2012-588/PRES/PM du 12 juillet 2012 portant attributions des membres du Gouvernement ;
+- Sur rapport du Ministre de l’Environnement et du Développement Durable ;
+- Le Conseil des Ministres entendu en sa séance du 19 décembre 2012 ;
+- D E C R E T E
+- CHAPITRE I - DISPOSITION GENERALE
+- Article 1 : Le Conseil National pour l’Environnement et le Développement Durable (CONEDD) est une structure de mission placée sous la tutelle technique du Ministre de l’Environnement et du Développement Durable.
+12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 2/7
+- CHAPITRE II - ATTRIBUTIONS ET MISSIONS
+- Article 2 : Le CONEDD est chargé de la promotion de la politique et de la législation en matière d’environnement et de développement durable. Il a pour mission globale de faciliter l’intégration effective des principes fondamentaux de gestion environnementale dans les politiques nationales et sectorielles de développement en vue de promouvoir le Développement Durable.
+- En particulier, le CONEDD est chargé de :
+- - contribuer à l’orientation et à la mise en cohérence des politiques, stratégies et législations en matière d’environnement, de développement durable et de gestion de ressources naturelles, initiés tant par les structures publiques nationales et de coopération, que par les structures privées ;
+- - favoriser la promotion des principes du développement durable ;
+- - proposer les grandes orientations en matière de stratégies de mise en œuvre effective des principes de développement durable et des législations environnementales ;
+- - Assurer la centralisation, la capitalisation et la diffusion d’informations de qualité en matière d’environnement et de développement durable ;
+- - Favoriser la concertation entre les acteurs de la gestion de l’environnement et du développement durable ;
+- - Assurer le suivi et l’évaluation des politiques, plans, programmes, stratégies et législations formulées dans le cadre de la gestion des questions environnementale et de développement durable ;
+- - réaliser des études prospectives sur les questions pertinentes relatives à l’environnement et au développement durable ;
+- - mettre en place les outils et les mécanismes pour établir périodiquement l’état de la nation en matière de développement durable ;
+- - assurer l’examen de toutes questions d’intérêt national relatives à l’environnement et au développement durable.
+- CHAPITRE III – ORGANISATION ET FONTIONNEMENT DU CONEDD
+- Article 3 : Le CONEDD est constitué des organes ci-après :
+- - La Conférence du CONEDD ;
+12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 3/7
+- - Le Secrétariat Permanent ;
+- - Les Commissions Spécialisées.
+- Section I - LA CONFERENCE DU CONEDD
+- Article 4 : La Conférence est l’organe suprême du CONEDD. Elle comprend un bureau et des membres.
+- Article 5 : Le bureau de la Conférence est composé des membres ci-après :
+- Président : Premier Ministre
+- Premier vice-président : Ministre chargé de l’Environnement
+- Deuxième vice-président : Ministre chargé de l’Economie
+- Troisième vice- Président : Ministre chargé de la Recherche Scientifique
+- Quatrième vice- Président : Ministre chargé de l’Agriculture
+- Cinquième vice- Président : Ministre chargé de l’Industrie
+- Secrétaire : Secrétaire Permanent du CONEDD
+- Premier rapporteur : Directeur (trice) national (e) chargé (e)
+- de la Décentralisation
+- Deuxième rapporteur : Directeur (trice) national (e) chargé (e) de l’Urbanisme
+- Troisième rapporteur : Directeur (trice) national (e) chargé (e) des aménagements pastoraux et du foncier
+- Quatrième rapporteur : Directeur (trice) national (e) chargé (e) des Mines
+- Cinquième rapporteur : Un (e) représentant (e) de la Société Civile.
+- Article 6 : Les membres de la Conférence sont les représentants des structures ci-après : 12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 4/7
+- - les représentants des départements ministériels et des institutions publiques impliquées dans la gestion de l’environnement et du développement durable ;
+- - les représentants des élus locaux ;
+- - les représentants du secteur privé ;
+- - les représentants de la société civile notamment les ONG, les associations et organisations communautaires de base et les associations
+- - professionnelles de producteurs ruraux ;
+- - les représentants des autorités religieuses et coutumières ;
+- - toutes autres personnes désignées en fonction de leurs compétences.
+- Article 7 : Les partenaires techniques et financiers participent aux sessions de la Conférence, à titre d’observateurs.
+- Article 8 : La Conférence se réunit en session ordinaire une (01) fois tous les deux (02) ans, sur convocation de son président. Elle peut également se réunir en session extraordinaire chaque fois que de besoin.
+- Le budget de la Conférence fait l’objet d’une inscription annuelle au Budget de l’Etat.
+- Article 9 : Les sessions de la Conférence sont placées sous la présidence effective du Premier Ministre.
+- Article 10 : Au cours de sa session ordinaire, la Conférence :
+- - examine l’état de mise en œuvre des recommandations de la session précédente ;
+- - examine le rapport et le programme d’activités proposé par le Secrétaire Permanent ;
+- - examine et adopte le Rapport sur l’Etat de l’Environnement du Burkina Faso (REEB) ;
+- - apprécie et valide les orientations en matière de développement durable ;
+- - délibère sur toutes autres questions jugées d’intérêt majeur dans le domaine de l’environnement et du développement durable.
+12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 5/7
+- Section II : LE SECRETARIAT PERMANENT
+- Article 11 : Le Secrétariat Permanent est l’organe d’exécution et de mise en œuvre des missions du CONEDD.
+- Il est chargé des attributions ci-après :
+- - assurer le suivi de la mise en œuvre des décisions et directives de la Conférence ;
+- - assurer le suivi de la mise en œuvre des engagements du Burkina en matière d’environnement ;
+- - conduire l’élaboration périodique du Rapport sur l’Etat de l’Environnement ;
+- - élaborer les outils nécessaires à la coordination et à l’harmonisation des politiques sectorielles dans le domaine de l’environnement ;
+- - mettre en place les mécanismes d’implication de la société civile, des collectivités et du secteur privé dans la définition et la mise en œuvre de la politique nationale en matière d’environnement et la politique nationale de développement durable ;
+- - assurer la collecte, la gestion, la circulation et la diffusion des informations relatives à l’environnement et au développement durable et veiller à leur mise à jour régulière ;
+- - appuyer les pouvoirs publics dans l’orientation, le suivi et l’évaluation des politiques et stratégies ;
+- - contribuer au renforcement des capacités des acteurs en matière d’environnement et de développement durable ;
+- - mobiliser les ressources financières, humaines et techniques en vue de la mise en œuvre, par des acteurs nationaux, des projets et programmes d’environnement, d’adaptation aux changements climatiques, de conservation de la biodiversité et d’investissement en matière de gestion durable des terres ;
+- - assurer la coordination des travaux des commissions spécialisées et veiller à la valorisation des résultats de ces travaux ;
+- - développer des partenariats avec les acteurs nationaux et internationaux dans le cadre de la protection de l’environnement et du développement durable ;
+- - assurer une gestion des ressources allouées par l’Etat et les partenaires techniques et financiers.
+- Article 12 : Le SP-CONEDD est une structure rattachée au Cabinet du Ministre de l’Environnement et du Développement Durable, dotée d’une autonomie de gestion.
+12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 6/7
+- Article 13 : Le Secrétariat Permanent est dirigé par un Secrétaire Permanent nommé par décret pris en Conseil des Ministres. Le Secrétaire Permanent a rang de Conseiller technique de département ministériel.
+- Section III : LES COMMISSIONS SPECIALISEES
+- Article 14 : Les Commissions Spécialisées sont des organes consultatifs régulièrement mis à jour par les sessions de la Conférence. Elles sont créées à l’initiative du président de la Conférence sur proposition du Secrétaire Permanent ou des membres de la Conférence.
+- Article 15 : Les Commissions Spécialisées ont pour mission globale de réfléchir sur les préoccupations majeures d’environnement et de développement durable, y compris celles nécessitant des activités scientifiques et techniques et ce sur leur propre initiative ou à la demande de la Conférence ou du Secrétaire Permanent.
+- Article 16 : Les Commissions Spécialisées sont chargées de faire des réflexions sur les questions environnementales et de développement durable et de formuler des propositions de mesures politique ou législative.
+- Article 17 : Les Commissions Spécialisées se réunissent en session ordinaire au moins deux (02) fois par an et en session extraordinaire en cas de besoin.
+- Article 18 : Le budget des Commissions spécialisées fait l’objet d’une inscription spécifique au budget de l’Etat afin de permettre l’exécution de leur programme de travail.
+- CHAPITRE IV : DISPOSITIONS DIVERSES ET FINALE
+- Article 19 : L’organisation et le fonctionnement de la Conférence, du Secrétariat
+- Permanent et des Commissions Spécialisées sont fixés par arrêté du Ministre de l’Environnement et du Développement durable.
+- Article 20 : Le Budget des organes du CONEDD fait l’objet d’une inscription dans le budget annuel du Ministère de l’Environnement et du Développement Durable.
+12/15/2014 DECRET N°2013-151/PRES/PM/MEDD du 21 mars 2013 portant attributions, organisation et fonctionnement du Conseil National pour l’Environne… http://www.legiburkina.bf/Sommaires_JO/Decret_2013_00151.htm 7/7
+- Article 21: Il est créé au sein du Secrétariat Permanent du CONEDD (SP-CONEDD), par décret pris en Conseil des Ministres sur proposition du Ministre en charge de l’Environnement, une Entité Nationale de Mise en Œuvre des Fonds d’Adaptation aux Changements Climatiques du Burkina en abrégé EMOFA-B.
+- Article 22 : Le présent décret abroge toutes dispositions antérieures contraires notamment le décret n°2002-542/PRES/PM/MEE du 27 novembre 2002 portant organisation, attributions et fonctionnement du Conseil National pour l’Environnement et le Développement Durable.
+- Article 23 : Le Ministre de l’environnement et du Développement Durable est chargé de l’exécution du présent décret.
+- Ouagadougou, le 21 mars 2013
+- Blaise COMPAORE
+- Le Premier Ministre
+- Beyon Luc Adolphe TIAO
+- Le Ministre de l’Environnement
+- et du Développement Durable
+- Salifou OUEDRAOGO
