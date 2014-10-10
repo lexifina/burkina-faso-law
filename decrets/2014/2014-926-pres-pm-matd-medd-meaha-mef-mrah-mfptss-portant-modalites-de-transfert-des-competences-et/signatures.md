@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 10 octobre 2014 Blaise COMPAORE Le Premier Ministre Beyon Luc Adolphe TIAO Le Ministre de l’Environnement et du Développement Durable Salifou OUEDRAOGO 11/7/2015 DECRET N°2014­926/PRES/PM/MATD/MEDD/MEAHA/MEF/MRAH/MFPTSS du 10 octobre 2014 http://www.legiburkina.bf/m/Sommaires_JO/decret_2014_00926.html 5/5 Le Ministre de l’Aménagement du Territoire et de la Décentralisation Toussaint Abel COULIBALY Le Ministre de l’Eau, des Aménagements Hydrauliques et de l’Assainissement Mamounata BELEM/OUEDRAOGO Le Ministre de l’Economie et des Finances Lucien Marie Noël BEMBAMBA Le Ministre de la Fonction Publique, du Travail et de la Sécurité Sociale Vincent ZAKANE Le Ministre des Ressources Animales et Halieutiques Jérémy Tinga OUEDRAOGO
