@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ----------- ----------- UNITE-PROGRES-JUSTICE CINQUIEME LEGISLATURE ----------- ASSEMBLEE NATIONALE LOI N° 011-2014/AN PORTANT REPRESSION DE LA VENTE D’ENFANTS, DE LA PROSTITUTION DES ENFANTS ET DE LA PORNOGRAPHIE METTANT EN SCENE DES ENFANTS L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2012/AN du 28 décembre 2012, portant validation du mandat des députés ;
+a délibéré en sa séance du 17 avril 2014 et adopté la loi dont la teneur suit :
+CHAPITRE 1 : DES DISPOSITIONS GENERALES
