@@ -1,0 +1,135 @@
+# Signatures
+
+Ainsi fait et délibéré en séance publique à Ouagadougou, le 05 juin 2015 ANNEXE 1 :
+PERSONNEL ISSU DU CONTINGENT FORME DANS LES ECOLES MILITAIRES GRADE DIPLÔMES MILITAIRES EXIGES ANCIENNETE DE SERVICE ANCIENNETE DANS LE GRADE PRECEDENT AU 1ER OCTOBRE DE L’ANNEE DE PROPOSITION Caporal CA1 ou tout diplôme reconnu Equivalent CS1 ou tout diplôme reconnu Equivalent 02 ans Caporal-chef 21 ans 02 ans AVANCEMENT DES MILITAIRES DU RANG ANNEXE 2 :
+AVANCEMENT DES SOUS-OFFICIERS 2-1) PERSONNEL ISSU DU CONTINGENT FORME DANS LES ECOLES MILITAIRES GRADE DIPLÔMES MILITAIRES EXIGES ANCIENNETE DE SERVICE ANCIENNETE DANS LE GRADE PRECEDENT AU 1ER OCTOBRE DE L’ANNEE DE PROPOSITION Sergent ou MDL
+- CA2
+- CS2
+- ou tout diplôme reconnu équivalent 04 ans 02 ans Sergent-chef ou MDL-chef
+- C.I.A 08 ans 04 ans Adjudant
+- BA1
+- BTA1
+- BTA2
+- BE
+- ou tout diplôme reconnu équivalent 12 ans 04 ans Adjudant-chef
+- BA2
+- BTA2
+- BS
+- ou tout diplôme reconnu équivalent 16 ans 04 ans Adjudant-chef Major
+- BA2
+- BTA2
+- BS
+- ou tout diplôme reconnu équivalent 21 ans 05 ans 2-2) PERSONNEL ISSU DES ECOLES MILITAIRES DE SOUS-OFFICIERS GRADE DIPLÔMES MILITAIRES EXIGES ANCIENNETE DE SERVICE ANCIENNETE DANS LE GRADE PRECEDENT AU 1ER OCTOBRE DE L’ANNEE DE PROPOSITION OBSERVATIONS Sergent ou MDL
+- CA2
+- CS2
+- CAESOG
+- ou tout diplôme reconnu équivalent Nommé pour compter du 1er jour du trimestre suivant la fin de la formation Sergent-chef ou MDL-chef
+- C.I.A
+- CIAG 06 ans 04 ans Adjudant
+- BA1
+- BTA1
+- OPJ
+- BE
+- ou tout diplôme reconnu équivalent 10 ans 04 ans Adjudant-chef
+- BA2
+- BTA2
+- BSQG
+- BS
+- ou tout diplôme reconnu équivalent 14 ans 04 ans Adjudant-chef Major
+- BA2
+- BTA2
+- BSQG
+- BS
+- ou tout diplôme reconnu équivalent 19 ans 05 ans 2-3) PERSONNEL ISSU DU CONTINGENT Recrutement interne des militaires du rang, titulaires du CA1 ou équivalent, admis dans des écoles civiles GRADE DIPLÔMES MILITAIRES EXIGES ANCIENNETE DE SERVICE ANCIENNETE DANS LE GRADE PRECEDENT AU 1ER OCTOBRE DE L’ANNEE DE PROPOSITION OBSERVATIONS Sergent ou MDL
+- CTA2 04 ans Nomination à l’issue CTA2 pour compter du 1er jour du trimestre suivant la fin de la formation Sergent-chef ou MDL-chef
+- C.I.A 08 ans 04 ans Admission sur titre au stage CIA Adjudant
+- CT1
+- ou diplôme reconnu équivalent 12 ans 04 ans Adjudant-chef
+- CT2
+- ou diplôme reconnu équivalent 16 ans 04 ans Adjudant-chef Major
+- CT2
+- ou diplôme reconnu équivalent 21 ans 05 ans 2-4) PERSONNEL ISSU DU RECRUTEMENT DIRECT DES SPECIALISTES GRADE DIPLÔMES MILITAIRES EXIGES ANCIENNETE DE SERVICE ANCIENNETE DANS LE GRADE PRECEDENT AU 1ER OCTOBRE DE L’ANNEE DE PROPOSITION OBSERVATIONS Sergent ou MDL
+- CTA2 Nomination au grade de sergent après neuf mois de formation militaire pour compter du premier jour du trimestre suivant la fin de la formation Sergent-chef ou MDL-chef
+- CIA 05 ans 04 ans Admission sur titre au CIA Adjudant
+- CT1
+- BE
+- ou tout autre diplôme reconnu équivalent 09 ans 04 ans Adjudant-chef
+- CT2
+- BS
+- ou tout autre diplôme reconnu équivalent 14 ans 04 ans Adjudant-chef Major
+- CT2
+- BS
+- ou tout autre diplôme reconnu équivalent 18 ans 05 ans ANNEXE 3 :
+3-1) PERSONNEL OFFICIER ISSU DES ECOLES MILITAIRES RECRUTE AVEC LE BACCALAUREAT TEMPS DE FORMATION A L’ECOLE D’OFFICIERS POUR LE GRADE DE SOUS- LIEUTENANT POUR LE GRADE DE LIEUTENANT POUR LE GRADE DE CAPITAINE 08 ans Nomination automatique en fin de 6e année après succès aux examens Nomination automatique à l’issue du succès à la thèse Proposable après deux ans de grade de lieutenant au 1er octobre de l’année de proposition.
+07 ans Nomination automatique en fin de 6e année après succès aux examens Nomination automatique à l’issue du succès à la thèse.
+Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+AVANCEMENT DES OFFICIERS 06 ans Nomination en fin de formation après succès aux examens Nomination automatique à un an de grade de sous-lieutenant.
+Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+05 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+04 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant Proposable après quatre ans de grade de lieutenant au 1er octobre de l’année de proposition.
+03 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après cinq ans de grade de lieutenant au 1er octobre de l’année de proposition.
+02 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après six ans de grade de lieutenant au 1er octobre de l’année de proposition.
+3-2) PERSONNEL OFFICIER ISSU DES ECOLES MILITAIRES RECRUTE AVEC LE DEUG 2 TEMPS DE FORMATION A L’ECOLE D’OFFICIERS POUR LE GRADE DE SOUS- LIEUTENANT POUR LE GRADE DE LIEUTENANT POUR LE GRADE DE CAPITAINE 05 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à un an de grade de sous-lieutenant Proposable après deux ans de grade de lieutenant au 1er octobre de l’année de proposition.
+04 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant Proposable après deux ans de grade de lieutenant au 1er octobre de l’année de proposition.
+03 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+02 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après quatre ans de grade de lieutenant au 1er octobre de l’année de proposition.
+PERSONNEL OFFICIER ISSU DES ECOLES MILITAIRES RECRUTE AVEC LA LICENCE OU UN DIPLOME EQUIVALENT TEMPS DE FORMATION A L’ECOLE D’OFFICIERS POUR LE GRADE DE SOUS- LIEUTENANT POUR LE GRADE DE LIEUTENANT POUR LE GRADE DE CAPITAINE 04 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à un an de grade de sous-lieutenant Proposable après deux ans de grade de lieutenant au 1er octobre de l’année de proposition.
+03 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après deux ans de grade de lieutenant au 1er octobre de l’année de proposition.
+02 ans Nomination en fin de formation après succès aux examens.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+3-4 PERSONNEL OFFICIER SPECIALISTE ISSU DU RECRUTEMENT DIRECT TEMPS DE FORMATION UNIVERSITAIRE POUR LE GRADE DE SOUS- LIEUTENANT POUR LE GRADE DE LIEUTENANT POUR LE GRADE DE CAPITAINE 07 ans et plus Nomination après neuf mois de formation militaire et succès aux examens à l’AMGN.
+Nomination automatique à un an de grade de sous-lieutenant Proposable après un an de grade de lieutenant au 1er octobre de l’année de proposition.
+06 ans Nomination après neuf mois de formation militaire et succès aux examens à l’AMGN.
+Nomination automatique à un an de grade de sous-lieutenant Proposable après deux ans de grade de lieutenant au 1er octobre de l’année de proposition.
+05 ans Nomination après neuf mois de formation militaire et succès aux examens à l’AMGN.
+Nomination automatique à un an de grade de sous-lieutenant Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+04 ans Nomination après neuf mois de formation militaire et succès aux examens à l’AMGN.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après trois ans de grade de lieutenant au 1er octobre de l’année de proposition.
+03 ans Nomination après neuf mois de formation militaire et succès aux examens à l’AMGN.
+Nomination automatique à deux ans de grade de souslieutenant.
+Proposable après quatre ans de grade de lieutenant au 1er octobre de l’année de proposition.
+SIGLES ET ABREVIATIONS AMGN :
+Académie Militaire Georges NAMOANO BA1 :
+Brevet d’Armes n°1 BA2 :
+Brevet d’Armes n°2 BE :
+Brevet Elémentaire BS :
+Brevet Supérieur BT1 :
+Brevet Technique n°1 BT2 :
+Brevet Technique n°2 BTA1 :
+Brevet Technique d’Administration n°1 BTA2 :
+Brevet Technique d’Administration n°2 BSQG :
+Brevet Supérieur de Qualification de Gendarmerie CA1 :
+Certificat d’Armes n°1 CA2 :
+Certificat d’Armes n°2 CAESOG :
+Certificat d’Aptitude à l’Emploi de Sous-officier Gendarme CIA :
+Certificat Interarmes CIAG :
+Certificat Interarmes de Gendarmerie CS1 :
+Certificat de spécialité n°1 CS2 :
+Certificat de spécialité n°2 CT1 :
+Certificat Technique n°1 CT2 :
+Certificat Technique n°2 CTA1 :
+Certificat Toutes Armes n°1 CTA2 :
+Certificat Toutes Armes n°2 FMI :
+Formation Militaire Initiale MDL :
+Maréchal Des Logis MDR :
+Militaire Du Rang OPJ :
+Officier de Police Judiciaire ODR :
+Officier du Rang OIR :
+Officier Issu des Rang
