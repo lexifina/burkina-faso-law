@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 07 septembre 2016 Roch Marc Christian KABORE Le Premier Ministre 13/4/2017 DECRET N°2016­857/PRES/PM/MRAH/MCIA/MINEFID/MATDSI portant http://www.legiburkina.bf/m/Sommaires_JO/D%C3%A9cret_2016_00857%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20… 3/3 Paul Kaba THIEBA Le Ministre du Commerce, de l’Industrie, et de l’Artisanat Stéphane Wenceslas SANOU Le Ministre des Ressources Animales et Halieutiques Sommanogo KOUTOU Le Ministre de l’Economie, des Finances et du Développement Hadizatou Rosine COULIBALY/SORI Le Ministre d’Etat, Ministre de l’Administration Territoriale, de la Décentralisation et de la Sécurité Intérieure Simon COMPAORE
