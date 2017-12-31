@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°004-2017/AN PORTANT MODALITES DE TRANSFERT DES RESSOURCES HUMAINES ENTRE L’ETAT ET LES COLLECTIVITES TERRITORIALES L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 13 janvier 2017 et adopté la loi dont la teneur suit :
+CHAPITRE 1 : DES DISPOSITIONS GENERALES
