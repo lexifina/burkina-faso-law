@@ -1,0 +1,22 @@
+# Signatures
+
+Ainsi fait et délibéré en séance publique à Ouagadougou, le 19 janvier 2017 ANNEXE 1 : Grille de classification de la catégorie U CATEGORIE Echelle Conditions de classification U Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du Doctorat plus un diplôme de spécialisation.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du Baccalauréat plus neuf années de formation professionnelles cumulées.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du Doctorat ou du baccalauréat plus sept années de formation professionnelle cumulées.
+ANNEXE 2 : Grille de classification des catégories N, M, S, F et G Catégorie Echelle Conditions de classification N Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du Diplôme d’Etudes Approfondies (DEA), du Master II, du Diplôme d’Etudes Supérieures Spécialisées (DESS), ou des diplômes professionnels reconnus équivalents.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui de la Maîtrise de l’enseignement supérieur ou des diplômes professionnels reconnus équivalents.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui de la Licence de l’enseignement supérieur ou des diplômes professionnels reconnus équivalents.
+M Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du DEUG II, du DUT, du BTS ou des diplômes professionnels reconnus équivalents.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du Baccalauréat Technique, du Brevet de Technicien ou des diplômes professionnels reconnus équivalents.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du Baccalauréat de l’enseignement secondaire, du BEP ou des diplômes professionnels reconnus équivalents.
+S Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du BEPC plus un diplôme professionnel exigeant deux années de formation ou tout autre titre ou diplôme reconnu équivalent.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du CAP d’Etat, du BEPC plus un diplôme professionnel exigeant une année de formation, ou tout autre titre ou diplôme reconnu équivalent.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du BEPC ou tout autre titre ou diplôme reconnu équivalent.
+F Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du CEPE et d’un diplôme professionnel exigeant deux années de formation ou tout autre titre ou diplôme reconnu équivalent.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du CEPE plus un diplôme professionnel exigeant une année de formation ou tout autre titre ou diplôme reconnu équivalent.
+Emplois de fonctionnaires de l’établissement public de santé pour lesquels le niveau de recrutement est celui du CEPE ou tout autre titre ou diplôme reconnu équivalent.
+G Manœuvre, ouvrier ou employé qualifié exécutant des tâches nécessitant une formation et comportant des responsabilités.
+Manœuvre, ouvrier ou employé exécutant des tâches nécessitant une spécialisation acquise en moins de six mois.
+Manœuvre, ouvrier sans qualification professionnelle.
+ANNEXE 3 : Tableau d’équivalence entre la classification catégorielle des agents des établissements publics de l’Etat et celle des fonctionnaires des établissements publics de santé.
+Classification catégorielle des établissements publics de l’Etat (ancienne situation) Classification catégorielle des établissements publics de santé (nouvelle situation) 6P U1 1A (Emplois dont le niveau de recrutement est celui du Doctorat ou du baccalauréat plus sept années de formation professionnelle cumulées.) U2 1A (Emplois dont le niveau de recrutement est celui du Diplôme d’Etudes Approfondies (DEA), du Master II, du Diplôme d’Etudes Supérieures Spécialisées (DESS), ou des diplômes professionnels reconnus équivalents.) N1 1B N2 1C N3 2A M1 2B M2 2C M3 3A S1 3B S2 3C S3 4A F1 4B F2 4C F3 5A G1 5B G2
