@@ -1,8 +1,9 @@
-# Loi n° 043/96/ADP du 13 novembre 1996 portant code pénal, telle que modifiée jusqu’à la loi n° 006-2004/AN du 6 avril 2004
+# Loi n° 025-2018/AN du 31 mai 2018 portant code pénal
 
-- Source : Ministère de la Justice (justice.gov.bf), <https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Le_code_pnal_de_1996.pdf>
-- Copie : <https://web.archive.org/web/20151002162740id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Le_code_pnal_de_1996.pdf> (Internet Archive ; le fichier n’est plus sur le site officiel)
-- En vigueur (date retenue) : 2004-05-17 (latest amendment the compilation names: loi 6-2004/AN promulgated by décret 2004-200 du 17 mai 2004 (earlier: décrets of 21 July 2000, 18 July 2001, 7 December 2001); Journal officiel date not used)
-- Texte : compilation publiée par la source, avec ses notes entre crochets ; non consolidée par nous
+- Source : Assemblée législative du Burkina Faso, répertoire des lois, <https://www.assembleenationale.bf/storage/Loi/n53UNiWibGu7dOfkIqc0pgYQpwb51QUX0rDJsCvg.pdf>
+- Adoptée le : 2018-05-31
+- Promulguée le : non indiqué par la source
+- Texte : tel qu’adopté par l’Assemblée (copie de l’Assemblée législative)
+- En vigueur (date retenue) : 2018-05-31 (adoption date in the Assemblée législative list (its promulgation date is missing or a placeholder); promulgation and Journal officiel dates not given)
 - Couche texte : PDF natif
-- Unités : 537 articles
+- Unités : 892 articles
