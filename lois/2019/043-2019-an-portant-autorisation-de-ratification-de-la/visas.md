@@ -1,0 +1,5 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°043-2019/AN PORTANT AUTORISATION DE RATIFICATION DE LA CONVENTION PORTANT CREATION DE L’ALLIANCE MONDIALE DES TERRES ARIDES (GDA), ADOPTEE A DOHA, LE 15 OCTOBRE 2017 L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 31 mai 2019 et adopté la loi dont la teneur suit :
