@@ -1,0 +1,15 @@
+# Visas
+
+MINISTERE DE LA SANTE BURKINA FASO Unité - Progrès - Justice MINISTERE DE L'ECONOMIE, DES FINANCES ET DU DEVELOPPEMENT LE MINISTRE DE L'ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION, MINISTERE DE L'AGRICULTURE ET DES AMENAGEMENTS HYDRO- AGRICOLES MINISTERE DES RESSOURCES ANIMALES ET HALIEUTIQUES MINISTERE DE L'ENVIRONNEMENT, DE L'ECONOMIE VERTE ET DU CHANGEMENT CLIMATIQUE Nt,W .
+C) ,~.~ il; 1 1;.
+Arrêté interministérie n020'20 1 0 MS/MINEFID/MESRSII MAAHIIMRAH/MEEVCC portant attributions, organisation, composition et fonctionnement du Comité Technique de Pilotage, des Commissions Thématiques, du Secrétariat Technique et des Points Focaux One Health.
+Vu LE MINISTRE DE LA SANTE, LE MINISTRE DE L'ECONOMIE, DES FINANCES ET DU DEVELOPPEMENT LE MINISTRE DE L'ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION, LE MINISTRE DE L'AGRICULTURE ET DES AMENAGEMENTS HYDRO-AGRICOLES, LE MINISTRE DES RESSOURCES ANIMALES ET HALIEUTIQUES, LE MINISTRE DE L'ENVIRONNEMENT, DE L'ECONOMIE VERTE ET DU CHANGEM NT CLIMATIQUE, lac~nstitution;
+~ ..
+~ ~ vL. aD Gt4 le decret n02019-0004/PRE~....
+.
+019 portant nomination du Premier Ministre;
+'#t'a ( fBe;
+•. » Vu Vu 8féVjr 2_r portant attributions des INEFID/MESRSI/MS/MAAH/MEEVCC du 7 novembre 2019 portant création, ttribu ·onsl....organisation et f1nctiolnement de la Plateforme nationale de coordination n ealth ;
+~ 4- {DG ~"J& Proposition du Ministre des Ressources Animales et Halieutiques;
+membres du Gouvernement;
+Vu Vu Page 1 sur 8 Sur ARRETENT CHAPITRE 1: DES DISPOSITIONS GENERALES
