@@ -1,0 +1,5 @@
+# Loi n° 009-2020/AN du 23 avril 2020 du 23 avril 2020 portant ratification de l’ordonnance n°2019-010/PRES du 5 novembre 2019 portant autorisation de ratification de la convention de crédit n° CBF 1378 01 J, conclue le 26 septembre 2019 entre le Burkina Fasso et l’agence française de développement relative à un prêt de soutien budgétaire pour la période 2019-2020
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°009-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-010/PRES DU NOVEMBRE PORTANT AUTORISATION DE RATIFICATION DE LA CONVENTION DE CREDIT N° CBF 1378 01 J, CONCLUE LE 26 SEPTEMBRE 2019 ENTRE LE BURKINA FASO ET L’AGENCE FRANÇAISE DE DEVELOPPEMENT RELATIVE A UN PRET DE SOUTIEN BUDGETAIRE POUR LA PERIODE 2019-2020 L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 23 avril 2020 et adopté la loi dont la teneur suit :
