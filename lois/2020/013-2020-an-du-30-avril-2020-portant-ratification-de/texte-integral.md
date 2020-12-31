@@ -1,0 +1,5 @@
+# Loi n° 013-2020/AN du 30 avril 2020 du 30 avril 2020 portant ratification de l’ordonnance 2019-021/PRES du 31 décembre 2019 portant autorisation de ratification de la convention de crédit CBF 1330 01W signée à Ouagadougou le 24 juin 2019 entre le Burkina Faso et l’agence française de développement (AFD) pour le financement du programme d’investissement dans le domaine de l’eau potable
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°013-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-021/PRES DU DECEMBRE PORTANT AUTORISATION DE RATIFICATION DE LA CONVENTION DE CREDIT CBF 1330 01W SIGNEE A OUAGADOUGOU LE 24 JUIN 2019 ENTRE LE BURKINA FASO ET L’AGENCE FRANCAISE DE DEVELOPPEMENT (AFD) POUR LE FINANCEMENT DU PROGRAMME D’INVESTISSEMENT DANS LE DOMAINE DE L’EAU POTABLE L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 30 avril 2020 et adopté la loi dont la teneur suit :
