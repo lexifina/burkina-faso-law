@@ -1,0 +1,5 @@
+# Loi n° 025-2020/AN du 26 mai 2020 du 26 mai 2020 portant ratification de l’ordonnance n°2019-006/PRES du 20 août 2019 portant autorisation de ratification de la Convention de crédit n° CBF 1301 01U, conclue le 12 mars 2019 à Ouagadougou, entre le Burkina Faso et l’Agence française de développement, pour le financement partiel du projet régional d’interconnexion électrique (Projet Dorsale Nord)
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°025-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-006/PRES DU 20 AOUT 2019 PORTANT AUTORISATION DE RATIFICATION DE LA CONVENTION DE CREDIT N° CBF 1301 01U, CONCLUE LE 12 MARS 2019 A OUAGADOUGOU, ENTRE LE BURKINA FASO ET L’AGENCE FRANCAISE DE DEVELOPPEMENT, POUR LE FINANCEMENT PARTIEL DU PROJET REGIONAL D’INTERCONNEXION ELECTRIQUE (PROJET DORSALE NORD) L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 26 mai 2020 et adopté la loi dont la teneur suit :
