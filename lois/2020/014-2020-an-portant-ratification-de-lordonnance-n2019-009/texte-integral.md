@@ -1,0 +1,5 @@
+# Loi n° 014-2020/AN du 30 avril 2020 portant ratification de l’ordonnance n°2019-009/PRES du 5 novembre 2019 portant autorisation de ratification de la convention de crédit, sans numéro, signée le 20 juin 2019 à Ouagadougou entre le Burkina Faso et la Bank of China Limited Shenzhen Branch, pour le financement de la Phase I du Projet backbone national des télécommunications (PBNT)
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°014-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-009/PRES DU 5 NOVEMBRE 2019 PORTANT AUTORISATION DE RATIFICATION DE LA CONVENTION DE CREDIT, SANS NUMERO, SIGNEE LE 20 JUIN 2019 A OUAGADOUGOU ENTRE LE BURKINA FASO ET LA BANK OF CHINA LIMITED SHENZHEN BRANCH, POUR LE FINANCEMENT DE LA PHASE I DU PROJET BACKBONE NATIONAL DES TELECOMMUNICATIONS (PBNT) L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 30 avril 2020 et adopté la loi dont la teneur suit :
