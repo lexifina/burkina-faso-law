@@ -1,0 +1,5 @@
+# Loi n° 010-2020/AN du 28 avril 2020 du 28 avril 2020 portant ratification de l’ordonnance n°2019-017/PRES du 30 décembre 2019 portant autorisation de ratification de l’Accord de prêt n°14223 P conclu le 2 décembres 2019 à Ouagadougou entre le Burkina Faso et le fonds de l’OPEP pour le développement international (OFID) pour le financement du projet d’appui à la chaine de valeur agricole (PAFPA)
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°010-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-017/PRES DU 30 DECEMBRE 2019 PORTANT AUTORISATION DE RATIFICATION DE L’ACCORD DE PRET N°14223 P CONCLU LE 2 DECEMBRE 2019 A OUAGADOUGOU ENTRE LE BURKINA FASO ET LE FONDS DE L’OPEP POUR LE DEVELOPPEMENT INTERNATIONAL (OFID) POUR LE FINANCEMENT DU PROJET D’APPUI A LA CHAINE DE VALEUR AGRICOLE (PAPFA) L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 28 avril 2020 et adopté la loi dont la teneur suit :
