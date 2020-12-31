@@ -1,0 +1,5 @@
+# Loi n° 017-2020/AN du 12 mai 2020 du 12 mai 2020 portant ratification de l’ordonnance n°2019-001/PRES du 18 juin 2019 portant autorisation de ratification de l’Accord de prêt n°1011 conclu le 18 février 2019 entre le gouvernement du Burkina Faso et le fonds koweitien pour le développement économique arabe (FKDEA) pour le financement du projet de construction et de bitumage de la route nationale n°10 (RN10) entre Tougan et Ouahigouya
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°017-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-001/PRES DU 18 JUIN 2019 PORTANT AUTORISATION DE RATIFICATION DE L’ACCORD DE PRET N°1011 CONCLU LE 18 FEVRIER 2019 ENTRE LE GOUVERNEMENT DU BURKINA FASO ET LE FONDS KOWEITIEN POUR LE DEVELOPPEMENT ECONOMIQUE ARABE (FKDEA) POUR LE FINANCEMENT DU PROJET DE CONSTRUCTION ET DE BITUMAGE DE LA ROUTE NATIONALE N°10 (RN10) ENTRE TOUGAN ET OUAHIGOUYA L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 12 mai 2020 et adopté la loi dont la teneur suit :
