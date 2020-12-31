@@ -1,0 +1,5 @@
+# Loi n° 019-2020/AN du 12 mai 2020 du 12 mai 2020 portant ratification de l’ordonnance n°2019-016/PRES du 30 décembre 2019 portant autorisation de ratification de l’Accord de prêt n°2000003107, signe à Rome et à Ouagadougou entre le Burkina Faso et le fonds international de développement agricole (FIDA), pour la réalisation du projet d’aménagement et de valorisation de la plaine de la Léraba (PAVAL)
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°019-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-016/PRES DU 30 DECEMBRE 2019 PORTANT AUTORISATION DE RATIFICATION DE L’ACCORD DE PRET N°2000003107, SIGNE A ROME ET A OUAGADOUGOU ENTRE LE BURKINA FASO ET LE FONDS INTERNATIONAL DE DEVELOPPEMENT AGRICOLE (FIDA), POUR LA REALISATION DU PROJET D’AMENAGEMENT ET DE VALORISATION DE LA PLAINE DE LA LERABA (PAVAL) L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 12 mai 2020 et adopté la loi dont la teneur suit :
