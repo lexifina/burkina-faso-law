@@ -1,0 +1,5 @@
+# Loi n° 016-2020/AN du 12 mai 2020 du 12 mai 2020 portant ratification de l’ordonnance n°2019-013/PRES du 25 novembre 2019 portant autorisation de ratification de l’Accord de prêt n°13 550 conclu le 13 avril 2019 à Washington entre le Burkina Faso et le fonds de l’OPEP pour le développement international pour le financement du projet de construction et de bitumage de la route nationale n°10 (RN10) entre Tougan et Ouahigouya
+
+BURKINA FASO IVE REPUBLIQUE ------------ SEPTIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°016-2020/AN PORTANT RATIFICATION DE L’ORDONNANCE N°2019-013/PRES DU 25 NOVEMBRE 2019 PORTANT AUTORISATION DE RATIFICATION DE L’ACCORD DE PRET N°13 550 CONCLU LE 13 AVRIL 2019 A WASHINGTON ENTRE LE BURKINA FASO ET LE FONDS DE L’OPEP POUR LE DEVELOPPEMENT INTERNATIONAL POUR LE FINANCEMENT DU PROJET DE CONSTRUCTION ET DE BITUMAGE DE LA ROUTE NATIONALE N°10 (RN10) ENTRE TOUGAN ET OUAHIGOUYA L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2015/AN du 30 décembre 2015 portant validation du mandat des députés ;
+a délibéré en sa séance du 12 mai 2020 et adopté la loi dont la teneur suit :
