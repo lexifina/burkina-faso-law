@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ------------ HUITIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°036-2021/AN PORTANT ORGANISATION ET REGLEMENTATION DES ACTIVITES STATISTIQUES L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la Résolution n°001-2020/AN du 28 décembre 2020, portant validation du mandat des députés ;
+A délibéré en sa séance du 06 décembre 2021 et adopté la loi dont la teneur suit :
+TITRE I : DES DISPOSITIONS GENERALES CHAPITRE 1 : DE L’OBJET ET DU CHAMP D’APPLICATION
