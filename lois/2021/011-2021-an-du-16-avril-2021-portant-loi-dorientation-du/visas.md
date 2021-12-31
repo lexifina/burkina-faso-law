@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ------------ HUITIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°011-2021/AN PORTANT LOI D’ORIENTATION DU TOURISME AU BURKINA FASO L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2020/AN du 28 décembre 2020 portant validation du mandat des députés ;
+a délibéré en sa séance du 16 avril 2021 et adopté la loi dont la teneur suit :
+TITRE I : DISPOSITIONS GENERALES CHAPITRE 1 : OBJET, DEFINITIONS ET CHAMP D’APPLICATION
