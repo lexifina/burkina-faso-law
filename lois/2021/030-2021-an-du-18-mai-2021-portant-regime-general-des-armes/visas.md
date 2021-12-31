@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO IVE REPUBLIQUE ------------ HUITIEME LEGISLATURE UNITE-PROGRES-JUSTICE ------------ ASSEMBLEE NATIONALE LOI N°030-2021/AN PORTANT REGIME GENERAL DES ARMES, DE LEURS PIECES, ELEMENTS, MUNITIONS ET AUTRES MATERIELS CONNEXES AU BURKINA FASO L’ASSEMBLEE NATIONALE Vu la Constitution ;
+Vu la résolution n°001-2020/AN du 28 décembre 2020 portant validation du mandat des députés ;
+a délibéré en sa séance du 18 mai 2021 et adopté la loi dont la teneur suit :
+TITRE I : DES DISPOSITIONS GENERALES
