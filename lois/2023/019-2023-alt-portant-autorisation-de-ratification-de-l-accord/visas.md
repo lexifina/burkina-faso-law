@@ -1,0 +1,5 @@
+# Visas
+
+l BURKINA FASO DÉCRET N° 2023- 1 □ 3 8 /PRES-TRANS promtJlguant la loi n°019-2023/ALT du 04 Unité - Progrès - Justice août portant autorisation de ratification de I' Accord de prêt n°2100150043446, signé le 27 février 2023 à Ouagadougou, entre le Burkina Faso et le Fonds africaine de développement (F AD) pour le financement du projet 2, n°P-Zl- C00-094, du programme de renforcement de la résilience à l'insécurité alimentaire et nutritionnelle au Sahel (P2-P2RS) LE PRÉSIOENT D~ LA TRANSITION, CHEF DE L'ÉTAT, PRÉSIDENT D.U CONSEIL DES MINISTRES, Vu la Constitution ;
+Vu la Charte de la transition du 14 octobre 2022 ;
+Vu la lettre n°2023- l 19/ALT/PRES/SG/DGLCP/DSCACP du 09 août 2023 du Président de 1 'Assemblée législative de Transition transmettant pour promulgation la loi n°019-2023/ ALT du 04 ao-Ot 2023 p011ant autorisation de ratification de l'Accord de prêt n°2100150043446, signé le 27 février 2023 à Ouagadougou, entre le Burkina Faso et le Fonds africaine de développement (F AD) pour le financement du projet 2, n°P-Z 1-C00-094, du programme de renforcement de la résilience à l'insécurité alimentaire et nutritionnelle au Sahel (P2-P2RS) ;
