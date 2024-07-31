@@ -1,3 +1,3 @@
 # Signatures
 
-Ainsi fait et délibéré en séance publique à Ouagadougou, le 26 juin 2015
+Ainsi fait et délibéré en séance publique à Ouagadougou, le 18 juillet 2024 Le Pré •
