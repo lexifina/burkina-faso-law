@@ -1,0 +1,3 @@
+# Signatures
+
+Ouagadougou, le 03 avril 2025 Capitaine Ibrahim TRAORE Le Premier Ministre ) Rimtalba Jéan Emmanuel OUEDRAOGO Le Ministre de I’Energie, Le Ministre de I’Economie et des Finances Aboubakar NACANABO Le Ministre d’Etat, Ministre de I’ Administration Le Ministre de la Sécurité Territoriale et de 1a Mobilité Emile Z Commissaire divisionnaire de Police Mahamadou SANA Le mde la Santé Le Ministre de I’Environnement, de ’Eau et de 1’ Assainissement Robert Lucien Jean-Claude KARGOUGOU Roger FAROQ Le Ministre de Vindystrie, @0, Commerce Le Ministre de la Fonction Publique, et de I’ Artisa du Travail et de la Protection Sociale Serge Gnaniodem PODA Mathias TRAORF
