@@ -1,8 +1,9 @@
-# Loi n° 028-2008/AN du 13 mai 2008 portant code du travail au Burkina Faso
+# Loi n° 013-2026/ALP du 6 mai 2026 portant code du travail au Burkina Faso
 
-- Source : Ministère de la Justice (justice.gov.bf), <https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_travail_2008.pdf>
-- Copie : <https://web.archive.org/web/20151001204738id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_travail_2008.pdf> (Internet Archive ; le fichier n’est plus sur le site officiel)
-- En vigueur (date retenue) : 2008-06-19 (promulgation by décret 2008-331 du 19 juin 2008, as printed in the compilation; Journal officiel date not given)
-- Texte : compilation publiée par la source, avec ses notes entre crochets ; non consolidée par nous
-- Couche texte : PDF natif
-- Unités : 432 articles
+- Source : Assemblée législative du Burkina Faso, répertoire des lois, <https://www.assembleenationale.bf/storage/Loi/D511TGoiRrFRpL9Irb3oyWKikYYsO3qmvxSsU8ci.pdf>
+- Adoptée le : 2026-05-06
+- Promulguée le : 2026-05-25
+- Texte : tel qu’adopté par l’Assemblée (copie de l’Assemblée législative)
+- En vigueur (date retenue) : 2026-05-25 (promulgation date in the Assemblée législative list of laws; Journal officiel date not given)
+- Couche texte : fournie par l’éditeur sur un document numérisé (non relue)
+- Unités : 440 articles
