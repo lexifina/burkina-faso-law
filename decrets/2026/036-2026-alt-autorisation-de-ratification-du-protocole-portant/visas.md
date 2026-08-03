@@ -1,0 +1,6 @@
+# Visas
+
+BURKINA FASO La Patrie ou la Mort, nous Vaincrons to o ro O) îo DÉCRET N° 2026- ° s = g /pp promulguant § la loi n° 036-2026/ALP du 03 août 2026 g portant autorisation de ratification du Protocole portant amendement de Convention relative aux infractions et certains autres actes survenant à bord des aéronefs, adopté à Montréal le 04 avril 2014 la^ LE PRÉSIDENT DU FASO, CHEF DE L'ÉTAT, PRÉSIDENT DU CONSEIL DES MINISTRES, Vu la Constitution ;
+Vu la Charte de la Révolution du avril 2026 ;
+Vu la lettre n°2026-043/ALP/PRES/SG/DGLCP/DSCACP du 06 août 2026 du Président de l'Assemblée législative du Peuple transmettant pour promulgation la loi n° 036- 2026/ALP du 03 août 2026 portant autorisation de ratification du Protocole portant amendement de la Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs, adopté à Montréal le 04 avril 2014 ;
+DECRETE Article premier Est promulguée la loi n° 036-2026/ALP du 03 août 2026 portant autorisation de ratification du Protocole portant amendement de la Convention relative aux infractions et à certains autres actes survenant à bord des aéronefs, adopté à Montréal le 04 avril 2014. Article 2 Le présent décret sera publié au Journal officiel du Faso. Ouagadougou, le 25 août 2026 Capitaine Ibrahim TRAORE
