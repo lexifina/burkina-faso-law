@@ -1,0 +1,19 @@
+{
+ "country": "BF",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution du Burkina Faso",
+   "url": "https://www.legiburkina.gov.bf/textesFondamentaux",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 179,
+     "source_url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+     "sha256": "85be0a0fc0ce572e1959f7d6805fd83604aef88e1d226925a59784e4026d21a6"
+    }
+   ]
+  }
+ ]
+}
