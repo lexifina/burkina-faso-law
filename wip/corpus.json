@@ -1,0 +1,1068 @@
+{
+ "country": {
+  "code": "BF",
+  "name": "Burkina Faso",
+  "slug": "burkina-faso",
+  "lang": "fr",
+  "tz": "Africa/Ouagadougou",
+  "future_branch": "futur",
+  "publisher": {
+   "name": "Secrétariat général du Gouvernement et du Conseil des ministres (LegiBurkina)",
+   "email": "legiburkina@sggcm.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied as a general rule. The one version is dated by the promulgation decree of the last revision it contains, Décret n°2015-1396/PRES-TRANS du 26 novembre 2015, as listed on the consolidation itself; the date of its Journal officiel publication was not found.",
+   "source": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download"
+  },
+  "licence_note": "Text: Constitution du Burkina Faso (2 June 1991), as revised up to Loi constitutionnelle n°072-2015/CNT du 05 novembre 2015, consolidated by the Assemblée nationale and published on LegiBurkina (Secrétariat général du Gouvernement et du Conseil des ministres, SGG-CM/DSI), https://www.legiburkina.gov.bf. Official text of Burkina Faso."
+ },
+ "sources": [
+  {
+   "name": "LegiBurkina (Secrétariat général du Gouvernement et du Conseil des ministres, SGG-CM/DSI)",
+   "url": "https://www.legiburkina.gov.bf/textesFondamentaux",
+   "retrieved": "2026-10-29",
+   "requests": 5,
+   "licence": "Official text. The portal states \"SGGCM/DSI @2025 - Tous droits réservés\" for the site and no licence for the legal texts.",
+   "notes": "Textes fondamentaux: \"Constitution du 02 juin 1991, révisée en 2015\", file \"CONSTITUTION_1991_Constitution du Burkina Faso_Révisée de 2015_.pdf\" (59 pages, Word 2010, PDF title \"Constitution consolidée après la relecture du 05 nov 2015-VF\"): the Assemblée nationale's consolidation, read from its text layer."
+  }
+ ],
+ "laws": {
+  "constitution-1991": {
+   "label": "Constitution du 2 juin 1991",
+   "title": "Constitution du Burkina Faso, adoptée par le référendum du 2 juin 1991 (Kiti n°AN-VIII-330/FP/PRES du 11 juin 1991)",
+   "kind": "referendum",
+   "enacted": "1991-06-02",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-002-97-adp": {
+   "label": "Loi n°002/97/ADP",
+   "title": "Loi constitutionnelle n°002/97/ADP du 27 janvier 1997 (Décret n°97-063/PRES du 14 février 1997)",
+   "kind": "law",
+   "enacted": "1997-01-27",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-003-2000-an": {
+   "label": "Loi n°003-2000/AN",
+   "title": "Loi constitutionnelle n°003-2000/AN du 11 avril 2000 (Décret n°2000-151/PRES du 25 avril 2000)",
+   "kind": "law",
+   "enacted": "2000-04-11",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-001-2002-an": {
+   "label": "Loi n°001-2002/AN",
+   "title": "Loi constitutionnelle n°001-2002/AN du 22 janvier 2002 (Décret n°2002-038/PRES du 05 février 2002)",
+   "kind": "law",
+   "enacted": "2002-01-22",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-015-2009-an": {
+   "label": "Loi n°015-2009/AN",
+   "title": "Loi constitutionnelle n°015-2009/AN du 30 avril 2009 (Décret n°2009-438/PRES du 30 juin 2009)",
+   "kind": "law",
+   "enacted": "2009-04-30",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-023-2012-an": {
+   "label": "Loi n°023-2012/AN",
+   "title": "Loi constitutionnelle n°023-2012/AN du 18 mai 2012 (Décret n°2012-428/PRES du 23 mai 2012)",
+   "kind": "law",
+   "enacted": "2012-05-18",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-033-2012-an": {
+   "label": "Loi n°033-2012/AN",
+   "title": "Loi constitutionnelle n°033-2012/AN du 11 juin 2012 (Décret n°2012-616/PRES du 20 juillet 2012)",
+   "kind": "law",
+   "enacted": "2012-06-11",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-035-2013-an": {
+   "label": "Loi n°035-2013/AN",
+   "title": "Loi constitutionnelle n°035-2013/AN du 12 novembre 2013 (Décret n°2013-1176/PRES du 19 décembre 2013)",
+   "kind": "law",
+   "enacted": "2013-11-12",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-072-2015-cnt": {
+   "label": "Loi n°072-2015/CNT",
+   "title": "Loi constitutionnelle n°072-2015/CNT du 05 novembre 2015 (Décret n°2015-1396/PRES-TRANS du 26 novembre 2015)",
+   "kind": "law",
+   "enacted": "2015-11-05",
+   "published": null,
+   "url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution du Burkina Faso",
+   "url": "https://www.legiburkina.gov.bf/textesFondamentaux",
+   "first_law": null,
+   "earlier_laws": [
+    "constitution-1991",
+    "loi-002-97-adp",
+    "loi-003-2000-an",
+    "loi-001-2002-an",
+    "loi-015-2009-an",
+    "loi-023-2012-an",
+    "loi-033-2012-an",
+    "loi-035-2013-an",
+    "loi-072-2015-cnt"
+   ],
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "source_url": "https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download",
+     "sha256": "85be0a0fc0ce572e1959f7d6805fd83604aef88e1d226925a59784e4026d21a6",
+     "units": {
+      "art-001": {
+       "label": "Article premier",
+       "kind": "art",
+       "text": "# Article premier\nTous les Burkinabè naissent libres et égaux en droits.\nTous ont une égale vocation à jouir de tous les droits et de toutes les libertés garantis par la présente Constitution.\nLes discriminations de toutes sortes, notamment celles fondées sur la race, l'ethnie, la région, la couleur, le sexe, la langue, la religion, la caste, les opinions politiques, la fortune et la naissance, sont prohibées.\n"
+      },
+      "art-002": {
+       "label": "Article 2",
+       "kind": "art",
+       "text": "# Article 2\nLa protection de la vie, la sûreté et l'intégrité physique sont garanties.\nSont interdits et punis par la loi, l'esclavage, les pratiques esclavagistes, les traitements inhumains et cruels, dégradants et humiliants, la torture physique ou morale, les sévices et les mauvais traitements infligés aux enfants et toutes les formes d'avilissement de l'Homme.\n"
+      },
+      "art-003": {
+       "label": "Article 3",
+       "kind": "art",
+       "text": "# Article 3\nNul ne peut être privé de sa liberté s'il n'est poursuivi pour des faits prévus et punis par la loi.\nNul ne peut être arrêté, gardé, déporté ou exilé qu'en vertu de la loi.\n"
+      },
+      "art-004": {
+       "label": "Article 4",
+       "kind": "art",
+       "text": "# Article 4\nTous les Burkinabé et toute personne vivant au Burkina Faso bénéficient d'une égale protection de la loi. Tous ont droit à ce que leur cause soit entendue par une juridiction indépendante et impartiale.\nTout prévenu est présumé innocent jusqu'à ce que sa culpabilité soit établie.\nLe droit à la défense y compris celui de choisir librement son défenseur est garanti devant toutes les juridictions.\n"
+      },
+      "art-005": {
+       "label": "Article 5",
+       "kind": "art",
+       "text": "# Article 5\nTout ce qui n'est pas défendu par la loi ne peut être empêché et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.\nLa loi pénale n'a pas d'effet rétroactif. Nul ne peut être jugé et puni qu'en vertu d'une loi promulguée et publiée antérieurement au fait punissable.\nLa peine est personnelle et individuelle.\n"
+      },
+      "art-006": {
+       "label": "Article 6",
+       "kind": "art",
+       "text": "# Article 6\nLa demeure, le domicile, la vie privée et familiale, le secret de la correspondance de toute personne sont inviolables.\nIl ne peut y être porté atteinte que selon les formes et dans les cas prévus par la loi.\n"
+      },
+      "art-007": {
+       "label": "Article 7",
+       "kind": "art",
+       "text": "# Article 7\nLa liberté de croyance, de non croyance, de conscience, d'opinion religieuse, philosophique, d'exercice de culte, la liberté de réunion, la pratique libre de la coutume ainsi que la liberté de cortège et de manifestation sont garanties par la présente Constitution, sous réserve du respect de la loi, de l'ordre public, des bonnes mœurs et de la personne humaine.\n"
+      },
+      "art-008": {
+       "label": "Article 8",
+       "kind": "art",
+       "text": "# Article 8\nLes libertés d'opinion, de presse et le droit à l'information sont garantis.\nToute personne a le droit d'exprimer et de diffuser ses opinions dans le cadre des lois et règlements en vigueur.\n"
+      },
+      "art-009": {
+       "label": "Article 9",
+       "kind": "art",
+       "text": "# Article 9\nLa libre circulation des personnes et des biens, le libre choix de la résidence et le droit d'asile sont garantis dans le cadre des lois et règlements en vigueur.\n"
+      },
+      "art-010": {
+       "label": "Article 10",
+       "kind": "art",
+       "text": "# Article 10\nTout citoyen Burkinabè a le devoir de concourir à la défense et au maintien de l'intégrité territoriale.\nIl est tenu de s'acquitter du service national lorsqu'il en est requis.\n"
+      },
+      "art-011": {
+       "label": "Article 11",
+       "kind": "art",
+       "text": "# Article 11\nTout Burkinabé jouit des droits civiques et politiques dans les conditions prévues par la loi.\n"
+      },
+      "art-012": {
+       "label": "Article 12",
+       "kind": "art",
+       "text": "# Article 12\nTous les Burkinabé sans distinction aucune ont le droit de participer à la gestion des affaires de l'Etat et de la société.\nA ce titre, ils sont électeurs et éligibles dans les conditions prévues par la loi.\n"
+      },
+      "art-013": {
+       "label": "Article 13",
+       "kind": "art",
+       "text": "# Article 13\nLes partis et formations politiques se créent librement.\nIls concourent à l'animation de la vie politique, à l'information et à l'éducation du peuple ainsi qu'à l'expression du suffrage.\nIls mènent librement leurs activités dans le respect des lois.\nTous les partis ou formations politiques sont égaux en droits et en devoirs.\nToutefois, ne sont pas autorisés les partis ou formations politiques tribalistes, régionalistes, confessionnels ou racistes.\n"
+      },
+      "art-013-1": {
+       "label": "Article 13.1",
+       "kind": "art",
+       "text": "# Article 13.1\nLes candidatures indépendantes sont admises pour toutes les élections.\n"
+      },
+      "art-014": {
+       "label": "Article 14",
+       "kind": "art",
+       "text": "# Article 14\nLes richesses et les ressources naturelles appartiennent au peuple. Elles sont utilisées pour l'amélioration de ses conditions de vie et dans le respect du développement durable.\n"
+      },
+      "art-015": {
+       "label": "Article 15",
+       "kind": "art",
+       "text": "# Article 15\nLe droit de propriété est garanti. Il ne saurait être exercé contrairement à l'utilité sociale ou de manière à porter préjudice à la sûreté, à la liberté, à l'existence ou à la propriété d'autrui.\nIl ne peut y être porté atteinte que dans les cas de nécessité publique constatés dans les formes légales.\nNul ne saurait être privé de sa jouissance si ce n'est pour cause d'utilité publique et sous la condition d'une juste indemnisation fixée conformément à la loi. Cette indemnisation doit être préalable à l'expropriation sauf cas d'urgence ou de force majeure.\n"
+      },
+      "art-016": {
+       "label": "Article 16",
+       "kind": "art",
+       "text": "# Article 16\nLa liberté d'entreprise est garantie dans le cadre des lois et règlements en vigueur.\n"
+      },
+      "art-017": {
+       "label": "Article 17",
+       "kind": "art",
+       "text": "# Article 17\nLe devoir de s'acquitter de ses obligations fiscales conformément à la loi, s'impose à chacun.\n"
+      },
+      "art-018": {
+       "label": "Article 18",
+       "kind": "art",
+       "text": "# Article 18\nL'éducation, l'eau potable et l'assainissement, l'instruction, la formation, la sécurité sociale, le logement, l'énergie, le sport, les loisirs, la santé, la protection de la maternité et de l'enfance, l'assistance aux personnes âgées, aux personnes vivant avec un handicap et aux cas sociaux, la création artistique et scientifique, constituent des droits sociaux et culturels reconnus par la présente Constitution qui vise à les promouvoir.\n"
+      },
+      "art-019": {
+       "label": "Article 19",
+       "kind": "art",
+       "text": "# Article 19\nLe droit au travail est reconnu et est égal pour tous.\nIl est interdit de faire des discriminations en matière d'emploi et de rémunération en se fondant notamment sur le sexe, la couleur, l'origine sociale, l'ethnie ou l'opinion politique.\n"
+      },
+      "art-020": {
+       "label": "Article 20",
+       "kind": "art",
+       "text": "# Article 20\nL'Etat veille à l'amélioration constante des conditions de travail et à la protection du travail.\n"
+      },
+      "art-021": {
+       "label": "Article 21",
+       "kind": "art",
+       "text": "# Article 21\nLa liberté d'association est garantie. Toute personne a le droit de constituer des associations et de participer librement aux activités des associations créées. Le fonctionnement des associations doit se conformer aux lois et règlements en vigueur.\nLa liberté syndicale est garantie. Les syndicats exercent leurs activités sans contrainte et sans limitation autres que celles prévues par la loi.\n"
+      },
+      "art-022": {
+       "label": "Article 22",
+       "kind": "art",
+       "text": "# Article 22\nLe droit de grève est garanti. Il s'exerce conformément aux lois en vigueur.\n"
+      },
+      "art-023": {
+       "label": "Article 23",
+       "kind": "art",
+       "text": "# Article 23\nLa famille est la cellule de base de la société. L'Etat lui doit protection.\nLe mariage est fondé sur le libre consentement de l'homme et de la femme. Toute discrimination fondée sur la race, la couleur, la religion, l'ethnie, l'origine sociale, la fortune est interdite en matière de mariage.\nLes enfants sont égaux en droits et en devoirs dans leurs relations familiales. Les parents ont le droit naturel et le devoir d'élever et d'éduquer leurs enfants. Ceuxci leur doivent respect et assistance.\n"
+      },
+      "art-024": {
+       "label": "Article 24",
+       "kind": "art",
+       "text": "# Article 24\nL'Etat œuvre à promouvoir les droits de l'enfant.\n"
+      },
+      "art-025": {
+       "label": "Article 25",
+       "kind": "art",
+       "text": "# Article 25\nLe droit de transmettre ses biens sur succession ou libéralité est reconnu conformément aux lois et règlements en vigueur.\n"
+      },
+      "art-026": {
+       "label": "Article 26",
+       "kind": "art",
+       "text": "# Article 26\nLe droit à la santé est reconnu. L'Etat œuvre à le promouvoir.\n"
+      },
+      "art-027": {
+       "label": "Article 27",
+       "kind": "art",
+       "text": "# Article 27\nTout citoyen a le droit à l'instruction.\nL'enseignement public est laïc.\nL'enseignement privé est reconnu. La loi fixe les conditions de son exercice.\n"
+      },
+      "art-028": {
+       "label": "Article 28",
+       "kind": "art",
+       "text": "# Article 28\nLa loi garantit la propriété intellectuelle.\nLa liberté de création et les œuvres artistiques, scientifiques et techniques sont protégées par la loi.\nLa manifestation de l'activité culturelle, intellectuelle, artistique et scientifique est libre et s'exerce conformément aux textes en vigueur.\n"
+      },
+      "art-029": {
+       "label": "Article 29",
+       "kind": "art",
+       "text": "# Article 29\nLe droit à un environnement sain est reconnu ; la protection, la défense et la promotion de l'environnement sont un devoir pour tous.\n"
+      },
+      "art-030": {
+       "label": "Article 30",
+       "kind": "art",
+       "text": "# Article 30\nTout citoyen a le droit d'initier une action ou d'adhérer à une action collective sous forme de pétition contre des actes :\n- lésant le patrimoine public ;\n- lésant les intérêts de communautés sociales ;\n- portant atteinte à l'environnement ou au patrimoine culturel ou historique.\n"
+      },
+      "art-031": {
+       "label": "Article 31",
+       "kind": "art",
+       "text": "# Article 31\nLe Burkina Faso est un Etat démocratique, unitaire et laïc.\nLe Faso est la forme républicaine de l'Etat.\n"
+      },
+      "art-032": {
+       "label": "Article 32",
+       "kind": "art",
+       "text": "# Article 32\nLa souveraineté nationale appartient au peuple qui l'exerce dans les conditions prévues par la présente Constitution et par la loi.\n"
+      },
+      "art-033": {
+       "label": "Article 33",
+       "kind": "art",
+       "text": "# Article 33\nLe suffrage est direct ou indirect et exercé dans les conditions prévues par la loi.\nLe suffrage direct est toujours universel, égal et secret.\n"
+      },
+      "art-034": {
+       "label": "Article 34",
+       "kind": "art",
+       "text": "# Article 34\nLes symboles de la Nation sont constitués d'un emblème, d'armoiries, d'un hymne et d'une devise.\nL'emblème est le drapeau tricolore de forme rectangulaire et horizontale, rouge et vert avec, en son centre, une étoile jaune-or à cinq branches.\nLa loi détermine les armoiries ainsi que la signification de ses éléments constitutifs.\nL'hymne national est le Di-Taa-Niyè, chant de la victoire, du salut.\nLa devise est : UNITE - PROGRES - JUSTICE.\n"
+      },
+      "art-035": {
+       "label": "Article 35",
+       "kind": "art",
+       "text": "# Article 35\nLa langue officielle est le français.\nLa loi fixe les modalités de promotion et d'officialisation des langues nationales.\n"
+      },
+      "art-036": {
+       "label": "Article 36",
+       "kind": "art",
+       "text": "# Article 36\nLe Président du Faso est le chef de l'Etat.\nIl veille au respect de la Constitution.\nIl fixe les grandes orientations de la politique de l'Etat.\nIl incarne et assure l'unité nationale.\nIl est garant de l'indépendance nationale, de l'intégrité du territoire, de la permanence et de la continuité de l'Etat, du respect des accords et des traités.\n"
+      },
+      "art-037": {
+       "label": "Article 37",
+       "kind": "art",
+       "text": "# Article 37\nLe Président du Faso est élu au suffrage universel direct, égal et secret pour un mandat de cinq ans.\nIl est rééligible une seule fois.\nEn aucun cas, nul ne peut exercer plus de deux mandats de Président du Faso consécutivement ou par intermittence.\n"
+      },
+      "art-038": {
+       "label": "Article 38",
+       "kind": "art",
+       "text": "# Article 38\nTout candidat aux fonctions de Président du Faso doit être Burkinabè de naissance, être âgé de trente-cinq ans au moins et de soixante-quinze ans au plus à la date du dépôt de sa candidature et réunir les conditions requises par la loi.\n"
+      },
+      "art-039": {
+       "label": "Article 39",
+       "kind": "art",
+       "text": "# Article 39\nLe Président du Faso est élu à la majorité absolue des suffrages exprimés.\nSi cette majorité n'est pas obtenue au premier tour de scrutin, il est procédé quinze jours après à un second tour. Seuls peuvent s'y présenter les deux candidats qui, le cas échéant, après retrait de candidats moins favorisés, se trouvent avoir recueilli le plus grand nombre de suffrages au premier tour ; le Président du Faso est alors élu à la majorité simple.\n"
+      },
+      "art-040": {
+       "label": "Article 40",
+       "kind": "art",
+       "text": "# Article 40\nLes élections sont fixées vingt et un jours au moins et quarante jours au plus avant l'expiration du mandat du Président en exercice.\n"
+      },
+      "art-041": {
+       "label": "Article 41",
+       "kind": "art",
+       "text": "# Article 41\nLa loi détermine la procédure, les conditions d'éligibilité et de présentation des candidatures aux élections présidentielles, du déroulement du scrutin, de dépouillement et de proclamation des résultats. Elle prévoit toutes les dispositions requises pour que les élections soient libres, honnêtes et régulières.\n"
+      },
+      "art-042": {
+       "label": "Article 42",
+       "kind": "art",
+       "text": "# Article 42\nLes fonctions de Président du Faso sont incompatibles avec l'exercice de tout autre mandat électif au niveau national, de tout emploi public et de toute activité professionnelle.\nLes dispositions des articles 72, 73, 74, et 75 de la présente Constitution sont applicables au Président du Faso.\n"
+      },
+      "art-043": {
+       "label": "Article 43",
+       "kind": "art",
+       "text": "# Article 43\nLorsque le Président du Faso est empêché de façon temporaire de remplir ses fonctions, ses pouvoirs sont provisoirement exercés par le Premier ministre.\nEn cas de vacance de la Présidence du Faso pour quelque cause que ce soit, ou d'empêchement absolu ou définitif constaté par le Conseil constitutionnel, saisi par le Gouvernement, les fonctions du Président du Faso sont exercées par le Président de l'Assemblée nationale. Il est procédé à l'élection d'un nouveau Président pour une nouvelle période de cinq ans.\nL'élection du nouveau Président a lieu soixante jours au moins et quatre-vingtdix jours au plus après constatation officielle de la vacance ou du caractère définitif de l'empêchement.\nDans tous les cas, il ne peut être fait application des articles 46, 49, 50, 59 et 161 de la présente Constitution durant la vacance de la Présidence.\n"
+      },
+      "art-044": {
+       "label": "Article 44",
+       "kind": "art",
+       "text": "# Article 44\nAvant d'entrer en fonction, le Président élu prête devant le Conseil constitutionnel le serment suivant : « Je jure devant le peuple Burkinabè et sur mon honneur de préserver, de respecter, de faire respecter et de défendre la Constitution et les lois, de tout mettre en œuvre pour garantir la justice à tous les habitants du Burkina Faso ».\nAu cours de la cérémonie d'investiture, le Président du Conseil constitutionnel reçoit la déclaration écrite des biens du Président du Faso.\nLe Président du Conseil constitutionnel transmet copie de ladite déclaration à l'Autorité supérieure de contrôle d'Etat et de lutte contre la corruption dans un délai de sept jours.\nCette déclaration est publiée au Journal officiel dans un délai de quinze jours.\n"
+      },
+      "art-045": {
+       "label": "Article 45",
+       "kind": "art",
+       "text": "# Article 45\nLa loi fixe la liste civile servie au Président du Faso.\nLa loi organise le service d'une pension en faveur des anciens Présidents.\n"
+      },
+      "art-046": {
+       "label": "Article 46",
+       "kind": "art",
+       "text": "# Article 46\nLe Président du Faso nomme le Premier ministre au sein de la majorité à l'Assemblée nationale et met fin à ses fonctions, soit sur la présentation par celuici de sa démission, soit de son propre chef dans l'intérêt supérieur de la Nation.\nSur proposition du Premier ministre, il nomme les autres membres du Gouvernement et met fin à leurs fonctions.\n"
+      },
+      "art-047": {
+       "label": "Article 47",
+       "kind": "art",
+       "text": "# Article 47\nLe Président du Faso préside le Conseil des ministres. Le Premier ministre le supplée dans les conditions fixées par la présente Constitution.\n"
+      },
+      "art-048": {
+       "label": "Article 48",
+       "kind": "art",
+       "text": "# Article 48\nLe Président du Faso promulgue la loi dans les vingt et un jours qui suivent la transmission du texte définitivement adopté. Ce délai est réduit à huit jours en cas d'urgence déclarée par l'Assemblée nationale.\nLe Président du Faso peut, pendant le délai de la promulgation, demander une deuxième lecture de la loi ou de certains de ses articles ; la demande ne peut être refusée. Cette procédure suspend les délais de promulgation.\nA défaut de promulgation dans les délais requis, la loi entre automatiquement en vigueur après constatation du Conseil constitutionnel saisi à cet effet.\n"
+      },
+      "art-049": {
+       "label": "Article 49",
+       "kind": "art",
+       "text": "# Article 49\nLe Président du Faso peut, après avis du Premier ministre et du Président de l'Assemblée nationale soumettre au référendum tout projet de loi qui lui parait devoir exiger la consultation directe du peuple à l'exception de toute révision de la présente Constitution qui reste régie par la procédure prévue au Titre XV.\nEn cas d'adoption de ladite loi, il procède à sa promulgation dans les délais prévus à l'article 48.\n"
+      },
+      "art-050": {
+       "label": "Article 50",
+       "kind": "art",
+       "text": "# Article 50\nLe Président du Faso peut, après consultation du Premier ministre et du Président de l'Assemblée nationale prononcer la dissolution de l'Assemblée nationale.\nEn cas de dissolution, les élections législatives ont lieu soixante jours au moins et quatre-vingt-dix jours au plus après la dissolution.\nIl ne peut être procédé à une nouvelle dissolution dans l'année qui suit ces élections.\nL'Assemblée nationale dissoute ne peut se réunir.\nToutefois, le mandat des Députés n'expire qu'à la date de validation du mandat des membres de la nouvelle Assemblée nationale.\n"
+      },
+      "art-051": {
+       "label": "Article 51",
+       "kind": "art",
+       "text": "# Article 51\nLe Président du Faso communique avec l'Assemblée nationale, soit en personne, soit par des messages qu'il fait lire par le Président de l'Assemblée nationale et qui ne donnent lieu à aucun débat. Hors session, l'Assemblée nationale se réunit spécialement à cet effet.\n"
+      },
+      "art-052": {
+       "label": "Article 52",
+       "kind": "art",
+       "text": "# Article 52\nLe Président du Faso est le Chef suprême des Forces armées nationales ; à ce titre, il préside le Conseil supérieur de la Défense.\nIl nomme le Chef d'Etat-major général des armées.\n"
+      },
+      "art-053": {
+       "label": "Article 53",
+       "kind": "art",
+       "text": "# Article 53\nLe Président du Faso communique avec le Conseil supérieur de la magistrature, soit en personne, soit par des messages qu'il fait lire par le Président du Conseil supérieur de la magistrature.\n"
+      },
+      "art-054": {
+       "label": "Article 54",
+       "kind": "art",
+       "text": "# Article 54\nLe Président du Faso dispose du droit de grâce. Il propose les lois d'amnistie.\n"
+      },
+      "art-055": {
+       "label": "Article 55",
+       "kind": "art",
+       "text": "# Article 55\nLe Président du Faso nomme aux emplois de la Haute administration civile et militaire, ainsi que dans les sociétés et entreprises à caractère stratégique déterminées par la loi.\nIl nomme les Ambassadeurs et Envoyés extraordinaires auprès des puissances étrangères et des Organisations Internationales.\nLes Ambassadeurs et Envoyés extraordinaires étrangers sont accrédités auprès de lui.\nIl nomme le Grand chancelier des ordres burkinabé.\nUne loi détermine les fonctions ou emplois pour lesquels le pouvoir de nomination du Président du Faso s'exerce après avis de l'Assemblée nationale ainsi que les modalités et effets de cette consultation.\n"
+      },
+      "art-056": {
+       "label": "Article 56",
+       "kind": "art",
+       "text": "# Article 56\nLa loi détermine les autres emplois auxquels il est pourvu en Conseil des ministres, ainsi que les conditions dans lesquelles les pouvoirs de nomination du Président sont exercés.\n"
+      },
+      "art-057": {
+       "label": "Article 57",
+       "kind": "art",
+       "text": "# Article 57\nLes actes du Président du Faso autres que ceux prévus aux articles 46, 49, 50, 54 et 59 sont contresignés par le Premier ministre et, le cas échéant, par les Ministres concernés.\n"
+      },
+      "art-058": {
+       "label": "Article 58",
+       "kind": "art",
+       "text": "# Article 58\nLe Président du Faso décrète, après délibération en Conseil des ministres, l'état de siège et l'état d'urgence.\n"
+      },
+      "art-059": {
+       "label": "Article 59",
+       "kind": "art",
+       "text": "# Article 59\nLorsque les institutions du Faso, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements sont menacées d'une manière grave et immédiate et/ou que le fonctionnement régulier des pouvoirs publics constitutionnels est interrompu, le Président du Faso prend, après délibération en Conseil des ministres, après consultation officielle des présidents de l'Assemblée nationale et du Conseil constitutionnel, les mesures exigées par ces circonstances. Il en informe la Nation par un message. En aucun cas, il ne peut être fait appel à des forces armées étrangères pour intervenir dans un conflit intérieur. L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs exceptionnels.\n"
+      },
+      "art-060": {
+       "label": "Article 60",
+       "kind": "art",
+       "text": "# Article 60\nLe Président du Faso peut déléguer certains de ses pouvoirs au Premier ministre.\n"
+      },
+      "art-061": {
+       "label": "Article 61",
+       "kind": "art",
+       "text": "# Article 61\nLe Gouvernement est un organe de l'Exécutif.\nIl conduit la politique de la nation ; à ce titre, il est obligatoirement saisi :\n- des projets d'accords internationaux ;\n- des projets et propositions de lois ;\n- des projets de textes réglementaires.\nIl dispose de l'Administration et des forces de défense et de sécurité.\n"
+      },
+      "art-062": {
+       "label": "Article 62",
+       "kind": "art",
+       "text": "# Article 62\nLe Gouvernement est responsable devant l'Assemblée nationale dans les conditions et suivant les procédures prévues par la présente Constitution.\n"
+      },
+      "art-063": {
+       "label": "Article 63",
+       "kind": "art",
+       "text": "# Article 63\nLe Premier ministre est le Chef du gouvernement ; à ce titre, il dirige et coordonne l'action gouvernementale.\nIl est responsable de l'exécution de la politique de défense nationale définie par le Président du Faso.\nIl exerce le pouvoir réglementaire conformément à la loi, assure l'exécution des lois, nomme aux emplois civils et militaires autres que ceux relevant de la compétence du Président du Faso.\nDans les trente jours qui suivent sa nomination, le Premier ministre fait une déclaration de politique générale devant l'Assemblée nationale.\nCette déclaration est suivie de débats et donne lieu à un vote.\nL'adoption de cette déclaration vaut investiture.\nSi la déclaration de politique générale ne recueille pas la majorité absolue des membres composant l'Assemblée nationale, le Président du Faso met fin aux fonctions du Premier ministre dans un délai de huit jours.\nIl nomme un nouveau Premier ministre conformément aux dispositions de l'article 46 ci-dessus.\n"
+      },
+      "art-064": {
+       "label": "Article 64",
+       "kind": "art",
+       "text": "# Article 64\nLe Premier ministre assure la Présidence du Conseil des ministres par délégation et pour un ordre du jour déterminé.\n"
+      },
+      "art-065": {
+       "label": "Article 65",
+       "kind": "art",
+       "text": "# Article 65\nLe Premier ministre détermine les attributions des membres du Gouvernement. Ces attributions sont fixées par décret pris en Conseil des ministres.\n"
+      },
+      "art-066": {
+       "label": "Article 66",
+       "kind": "art",
+       "text": "# Article 66\nLes actes du Premier ministre sont, le cas échéant, contresignés par les membres du Gouvernement chargés de leur exécution.\n"
+      },
+      "art-067": {
+       "label": "Article 67",
+       "kind": "art",
+       "text": "# Article 67\nLe Premier ministre peut déléguer certains de ses pouvoirs aux membres du Gouvernement.\n"
+      },
+      "art-068": {
+       "label": "Article 68",
+       "kind": "art",
+       "text": "# Article 68\nLes membres du Gouvernement sont responsables de la direction de leurs départements respectifs devant le Premier ministre. Ils sont solidairement responsables des décisions du Conseil des ministres.\n"
+      },
+      "art-069": {
+       "label": "Article 69",
+       "kind": "art",
+       "text": "# Article 69\nToute vacance de poste de Premier ministre met fin automatiquement aux fonctions des autres membres du Gouvernement. Dans ce cas, ces derniers expédient les affaires courantes jusqu'à la formation d'un nouveau Gouvernement.\n"
+      },
+      "art-070": {
+       "label": "Article 70",
+       "kind": "art",
+       "text": "# Article 70\nLes fonctions de membres du Gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, de toute activité professionnelle rétribuée et de toute fonction de représentation professionnelle.\nToutefois, l'exercice des fonctions de représentation professionnelle à caractère international est possible avec l'accord préalable du Gouvernement.\n"
+      },
+      "art-071": {
+       "label": "Article 71",
+       "kind": "art",
+       "text": "# Article 71\nToute personne appelée à exercer des fonctions ministérielles bénéficie obligatoirement d'un détachement ou d'une suspension de contrat de travail selon le cas.\n"
+      },
+      "art-072": {
+       "label": "Article 72",
+       "kind": "art",
+       "text": "# Article 72\nLes membres du Gouvernement ne doivent s'exposer à aucune situation susceptible de créer des conflits entre les devoirs de leurs fonctions et leurs intérêts privés.\n"
+      },
+      "art-073": {
+       "label": "Article 73",
+       "kind": "art",
+       "text": "# Article 73\nPendant la durée de leurs fonctions, les membres du Gouvernement ne peuvent directement ou indirectement acheter ou prendre à bail tout ce qui appartient au domaine de l'Etat. La loi prévoit les cas où il peut être dérogé à cette disposition.\nIls ne peuvent prendre part aux marchés et aux adjudications passés par l'Administration ou par les Institutions relevant de l'Etat ou soumises à son contrôle.\n"
+      },
+      "art-074": {
+       "label": "Article 74",
+       "kind": "art",
+       "text": "# Article 74\nAucun membre du Gouvernement ne peut tirer parti de sa position, ni faire usage directement ou indirectement à des fins personnelles des informations qui lui sont communiquées.\n"
+      },
+      "art-075": {
+       "label": "Article 75",
+       "kind": "art",
+       "text": "# Article 75\nLes dispositions de l'article 73 demeurent applicables aux membres du Gouvernement pendant les six mois qui suivent la cessation de leurs fonctions.\nCelles de l'article 74 demeurent applicables pendant les deux ans qui suivent la cessation de leurs fonctions.\n"
+      },
+      "art-076": {
+       "label": "Article 76",
+       "kind": "art",
+       "text": "# Article 76\nChaque membre du Gouvernement est responsable devant la Haute Cour de Justice des crimes et délits commis par lui dans l'exercice de ses fonctions.\n"
+      },
+      "art-077": {
+       "label": "Article 77",
+       "kind": "art",
+       "text": "# Article 77\nA leur entrée en fonction et à la fin de leur exercice, les membres du Gouvernement sont tenus de déposer la liste de leurs biens auprès du Conseil Constitutionnel.\nCette obligation s'étend à tous les Présidents des institutions consacrées par la Constitution, ainsi qu'à d'autres personnalités dont la liste est déterminée par la loi.\n"
+      },
+      "art-078": {
+       "label": "Article 78",
+       "kind": "art",
+       "text": "# Article 78\nLe Parlement comprend une chambre unique dénommée « Assemblée nationale ».\n"
+      },
+      "art-079": {
+       "label": "Article 79",
+       "kind": "art",
+       "text": "# Article 79\nLes membres de l'Assemblée nationale portent le titre de « Député ».\n"
+      },
+      "art-080": {
+       "label": "Article 80",
+       "kind": "art",
+       "text": "# Article 80\nLes députés sont élus au suffrage universel direct, égal et secret.\nIls exercent le pouvoir législatif.\nToute personne élue député doit bénéficier, le cas échéant, d'un détachement ou d'une suspension de contrat selon le cas.\n"
+      },
+      "art-081": {
+       "label": "Article 81",
+       "kind": "art",
+       "text": "# Article 81\nLa durée du mandat est de cinq (5) ans Toutefois, par dérogation à l'alinéa ci-dessus et en cas de force majeure ou de nécessité constatée par l'Assemblée nationale à la majorité absolue des députés, la durée de la législature peut être prorogée jusqu'à la validation du mandat des députés de la nouvelle législature.\nAucune prorogation ne saurait dépasser une durée d'un an.\n"
+      },
+      "art-082": {
+       "label": "Article 82",
+       "kind": "art",
+       "text": "# Article 82\nLa loi détermine :\n- les circonscriptions électorales ;\n- le nombre de sièges et leur répartition par circonscription ;\n- le mode de scrutin ;\n- les conditions d'élection et de remplacement par de nouvelles élections en cas de vacance de siège, ainsi que le régime des inéligibilités et des incompatibilités ;\n- le statut des députés et le montant de leurs indemnités.\n"
+      },
+      "art-083": {
+       "label": "Article 83",
+       "kind": "art",
+       "text": "# Article 83\nIl ne peut être procédé à des élections partielles dans le dernier tiers de la législature.\n"
+      },
+      "art-084": {
+       "label": "Article 84",
+       "kind": "art",
+       "text": "# Article 84\nL'Assemblée nationale vote la loi, consent l'impôt et contrôle l'action du Gouvernement conformément aux dispositions de la présente Constitution.\n"
+      },
+      "art-085": {
+       "label": "Article 85",
+       "kind": "art",
+       "text": "# Article 85\nChaque député est le représentant de la Nation.\nTout mandat impératif est nul.\nToutefois, tout député qui démissionne librement de son parti ou de sa formation politique ou qui perd son statut d'indépendant notamment en devenant membre d'un parti ou formation politique est déchu de son mandat. Il est procédé à son remplacement conformément à la loi.\nTous les députés ont voix délibérative. Le droit de vote des députés est personnel. Cependant, la délégation de vote est permise lorsque l'absence d'un député est justifiée. Nul ne peut valablement recevoir pour un scrutin donné plus d'une délégation de vote.\n"
+      },
+      "art-086": {
+       "label": "Article 86",
+       "kind": "art",
+       "text": "# Article 86\nL'Assemblée nationale se prononce sur la validité de l'élection de ses membres nonobstant le contrôle de régularité exercé par le Conseil constitutionnel.\nElle établit son règlement.\n"
+      },
+      "art-087": {
+       "label": "Article 87",
+       "kind": "art",
+       "text": "# Article 87\nL'Assemblée nationale se réunit de plein droit chaque année en deux sessions ordinaires sur convocation de son Président.\nLa durée de chacune ne saurait excéder quatre-vingt-dix jours.\nLa première session s'ouvre le premier mercredi du mois de mars et la seconde le dernier mercredi du mois de septembre. Si le premier mercredi du mois de mars ou le dernier mercredi du mois de septembre est un jour férié, la session s'ouvre le premier jour ouvrable qui suit.\n"
+      },
+      "art-088": {
+       "label": "Article 88",
+       "kind": "art",
+       "text": "# Article 88\nL'Assemblée nationale se réunit en session extraordinaire sur convocation de son Président, à la demande du Premier ministre, de la majorité absolue des députés sur un ordre du jour déterminé. La session extraordinaire est close dès épuisement de l'ordre du jour.\n"
+      },
+      "art-089": {
+       "label": "Article 89",
+       "kind": "art",
+       "text": "# Article 89\nLes séances de l'Assemblée nationale sont publiques.\nToutefois, en cas de nécessité et à la demande du Premier ministre ou du tiers des députés, l'Assemblée nationale peut se réunir à huis clos.\n"
+      },
+      "art-090": {
+       "label": "Article 90",
+       "kind": "art",
+       "text": "# Article 90\nSauf cas de force majeure constatée par le Conseil constitutionnel, les délibérations de l'Assemblée nationale ne sont valables que si elles ont eu lieu à son siège.\n"
+      },
+      "art-091": {
+       "label": "Article 91",
+       "kind": "art",
+       "text": "# Article 91\nL'Assemblée nationale est dirigée par un Président assisté d'un bureau. Le Président de l'Assemblée nationale est élu, à la majorité absolue des membres de l'Assemblée nationale au premier tour ou à la majorité simple au second tour, pour la durée de la législature. Il est rééligible une seule fois.\nEn aucun cas, nul ne peut exercer plus de deux mandats de Président de l'Assemblée nationale, consécutivement ou par intermittence.\nLes membres du bureau sont élus pour un an renouvelable. Toutefois, il peut être mis fin à leurs fonctions en cours de législature à la demande des deux cinquièmes et après un vote à la majorité absolue des membres de l'Assemblée nationale.\nLa majorité absolue s'entend de plus de la moitié des voix.\n"
+      },
+      "art-092": {
+       "label": "Article 92",
+       "kind": "art",
+       "text": "# Article 92\nEn cas de vacance de la présidence de l'Assemblée nationale par décès, démission ou pour toute autre cause, l'Assemblée nationale élit dans les conditions fixées à l'article 91 ci-dessus, un nouveau Président dans les quinze jours qui suivent la vacance si elle est en session. Dans le cas contraire, elle se réunit en session extraordinaire dans les conditions fixées par le Règlement.\n"
+      },
+      "art-093": {
+       "label": "Article 93",
+       "kind": "art",
+       "text": "# Article 93\nL'Assemblée nationale jouit de l'autonomie financière.\nLe Président de l'Assemblée nationale gère les crédits qui lui sont alloués pour son fonctionnement.\nLe Président est responsable de cette gestion devant l'Assemblée nationale. Celle-ci peut le démettre à la majorité des trois cinquièmes pour faute lourde dans sa gestion.\n"
+      },
+      "art-094": {
+       "label": "Article 94",
+       "kind": "art",
+       "text": "# Article 94\nTout député appelé à de hautes fonctions est remplacé par un suppléant. La liste des hautes fonctions est déterminée par la loi.\nS'il cesse d'exercer ses fonctions au plus tard à la fin de la moitié de la législature, il peut reprendre son siège ; au-delà de cette date, il ne peut le reprendre qu'en cas de vacance de siège par décès ou démission du suppléant.\n"
+      },
+      "art-095": {
+       "label": "Article 95",
+       "kind": "art",
+       "text": "# Article 95\nAucun député ne peut être poursuivi, recherché, arrêté, détenu ou jugé en raison des opinions ou votes émis par lui dans l'exercice ou à l'occasion de l'exercice de ses fonctions.\n"
+      },
+      "art-096": {
+       "label": "Article 96",
+       "kind": "art",
+       "text": "# Article 96\nSauf cas de flagrant délit, aucun député ne peut être poursuivi ou arrêté en matière correctionnelle ou criminelle qu'avec l'autorisation d'au moins un tiers des membres de l'Assemblée nationale pendant les sessions ou du bureau de l'Assemblée nationale en dehors des sessions.\n"
+      },
+      "art-096-1": {
+       "label": "Article 96.1",
+       "kind": "art",
+       "text": "# Article 96.1\nL'opposition parlementaire a le droit, une fois par an, d'introduire un projet de résolution en vue de la création d'une commission d'enquête parlementaire et de la présider.\nCette commission d'enquête parlementaire est ouverte aux membres des autres groupes parlementaires.\nLa procédure et les conditions de création de ladite commission d'enquête parlementaire sont régies par le Règlement de l'Assemblée nationale.\n"
+      },
+      "art-097": {
+       "label": "Article 97",
+       "kind": "art",
+       "text": "# Article 97\nLa loi est une délibération, régulièrement promulguée de l'Assemblée nationale.\nLa loi à laquelle la Constitution confère le caractère organique est une délibération de l'Assemblée nationale ayant pour objet l'organisation ou le fonctionnement des institutions. Elle est votée à la majorité absolue et promulguée après déclaration de sa conformité avec la Constitution par le Conseil constitutionnel.\nLa loi relative aux lois de finances est une loi à caractère organique.\nL'initiative de la loi appartient concurremment aux députés et au Gouvernement.\nLes projets de textes émanant des députés sont appelés « propositions de loi » et ceux émanant du Gouvernement « projets de loi ».\nLes propositions et projets de loi sont délibérés en Conseil des ministres avant leur dépôt sur le bureau de l'Assemblée nationale.\n"
+      },
+      "art-098": {
+       "label": "Article 98",
+       "kind": "art",
+       "text": "# Article 98\nLe peuple exerce l'initiative des lois par voie de pétition constituant une proposition rédigée et signée par au moins quinze mille (15000) personnes ayant le droit de vote dans les conditions prévues par la loi.\nLa pétition est déposée sur le bureau de l'Assemblée nationale.\nLe droit d'amendement appartient aux députés et au Gouvernement quelle que soit l'origine du texte.\n"
+      },
+      "art-099": {
+       "label": "Article 99",
+       "kind": "art",
+       "text": "# Article 99\nL'Ordonnance est un acte signé par le Président du Faso, après délibération du Conseil des ministres, dans les domaines réservés à la loi et dans les cas prévus aux articles 103, 107 et 119 de la présente Constitution. Elle entre en vigueur dès sa publication.\n"
+      },
+      "art-100": {
+       "label": "Article 100",
+       "kind": "art",
+       "text": "# Article 100\nLe décret simple est un acte signé par le Président du Faso ou par le Premier ministre et contresigné par le ou les membres du Gouvernement compétents.\nLe décret en Conseil des ministres est un acte signé par le Président du Faso et par le Premier ministre après avis du Conseil des ministres ; il est contresigné par le ou les membres du Gouvernement compétents.\n"
+      },
+      "art-101": {
+       "label": "Article 101",
+       "kind": "art",
+       "text": "# Article 101\nLa loi fixe les règles concernant :\n- la citoyenneté, les droits civiques et l'exercice des libertés publiques ;\n- les sujétions liées aux nécessités de la Défense nationale ;\n- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux ;\n- les successions et les libéralités ;\n- la procédure selon laquelle les coutumes seront constatées et mises en harmonie avec les principes fondamentaux de la Constitution ;\n- la promotion du genre ;\n- la détermination des crimes et délits ainsi que les peines qui leur sont applicables, la procédure pénale, l'amnistie ;\n- l'organisation des tribunaux judiciaires et administratifs et la procédure devant ces juridictions, le statut des magistrats, des officiers ministériels et auxiliaires de justice ;\n- l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures ;\n- le régime d'émission de la monnaie ;\n- les crédits et les engagements financiers de l'État ;\n- le régime électoral de l'Assemblée nationale et des assemblées locales ;\n- les nationalisations d'entreprises et les transferts de propriété d'entreprises du secteur public au secteur privé ;\n- la création de catégories d'établissements publics ;\n- l'état de siège et l'état d'urgence ;\n- les circonscriptions électorales ;\n- le nombre de sièges et leur répartition ;\n- le mode de scrutin ;\n- les conditions d'élection et de remplacement par de nouvelles élections en cas de vacance de siège, ainsi que le régime des inéligibilités et des incompatibilités ;\n- le statut des députés et le montant de leurs indemnités ;\nLa loi détermine les principes fondamentaux :\n- de la protection et de la promotion de l'Environnement et du développement durable ;\n- de l'élaboration, de l'exécution et du suivi des plans et programmes nationaux de développement ;\n- de la protection et de l'exercice de la liberté de presse ;\n- de l'organisation générale de l'Administration ;\n- du statut général de la Fonction publique ;\n- de l'organisation de la Défense nationale ;\n- de l'Enseignement et de la Recherche scientifique ;\n- de l'intégration des valeurs culturelles nationales ;\n- du régime de la propriété, des droits réels et des obligations civiles et commerciales ;\n- du droit du travail, du droit syndical et des institutions sociales ;\n- de l'aliénation et de la gestion du domaine de l'Etat ;\n- du régime pénitentiaire ;\n- de la mutualité et de l'épargne ;\n- de l'organisation de la production ;\n- du régime des transports et des communications ;\n- de la libre administration des collectivités territoriales, de leurs compétences et de leurs ressources.\n"
+      },
+      "art-102": {
+       "label": "Article 102",
+       "kind": "art",
+       "text": "# Article 102\nLa loi de finances détermine, pour chaque année, les ressources et les charges de l'Etat. Le projet de loi de finances doit prévoir les recettes nécessaires à la couverture intégrale des dépenses.\n"
+      },
+      "art-103": {
+       "label": "Article 103",
+       "kind": "art",
+       "text": "# Article 103\nL'Assemblée nationale vote les projets de lois de finances et les projets de loi de règlement conformément aux conditions prévues par la loi.\nL'Assemblée nationale est saisie du projet de loi de finances dès l'ouverture de la deuxième session ordinaire.\nLes dispositions du projet peuvent être mises en vigueur par ordonnance si l'Assemblée ne s'est pas prononcée au plus tard à la date de la clôture de la session et que l'année budgétaire vient à expirer. Dans ce cas, le Gouvernement convoque une session extraordinaire, afin de demander la ratification. Si le budget n'est pas voté à la fin de la session extraordinaire, il est définitivement établi par Ordonnance.\nSi le projet de loi de finances n'a pu être déposé en temps utile pour être voté et promulgué avant le début de l'exercice, le Premier ministre demande d'urgence à l'Assemblée nationale l'autorisation de reprendre le budget de l'année précédente par douzièmes provisoires.\n"
+      },
+      "art-104": {
+       "label": "Article 104",
+       "kind": "art",
+       "text": "# Article 104\nEn cours d'exécution du budget, lorsque les circonstances l'exigent, le Gouvernement propose au Parlement, l'adoption de lois de finances rectificatives.\n"
+      },
+      "art-105": {
+       "label": "Article 105",
+       "kind": "art",
+       "text": "# Article 105\nL'Assemblée nationale règle les comptes de la Nation, selon les modalités prévues par la loi de finances.\nElle est, à cet effet, assistée par la Cour des comptes qu'elle charge de toutes enquêtes et études se rapportant au recouvrement des recettes et à l'exécution des dépenses publiques, ou la gestion de la trésorerie nationale, des collectivités territoriales, des administrations ou institutions relevant de l'Etat ou soumises à son contrôle.\n"
+      },
+      "art-106": {
+       "label": "Article 106",
+       "kind": "art",
+       "text": "# Article 106\nL'Assemblée nationale se réunit de plein droit en cas d'état de siège, si elle n'est pas en session. L'état de siège ne peut être prorogé au-delà de quinze jours qu'après autorisation de l'Assemblée nationale.\nLa déclaration de guerre et l'envoi de contingents ou d'observateurs militaires à l'étranger sont autorisés par l'Assemblée nationale.\n"
+      },
+      "art-107": {
+       "label": "Article 107",
+       "kind": "art",
+       "text": "# Article 107\nLe Gouvernement peut, pour l'exécution de ses programmes, demander à l'Assemblée nationale l'autorisation de prendre par ordonnances, pendant un délai limité, des mesures qui sont normalement du domaine de la loi.\nLes ordonnances sont prises en Conseil des ministres après avis du Conseil constitutionnel. Elles entrent en vigueur dès leur publication, mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant l'Assemblée avant la date fixée par la loi d'habilitation.\nA l'expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans celles de leurs dispositions qui sont du domaine législatif.\n"
+      },
+      "art-108": {
+       "label": "Article 108",
+       "kind": "art",
+       "text": "# Article 108\nLes matières autres que celles relevant du domaine de la loi ont un caractère réglementaire.\n"
+      },
+      "art-109": {
+       "label": "Article 109",
+       "kind": "art",
+       "text": "# Article 109\nLe Premier ministre a accès à l'Assemblée nationale. Il peut charger un membre du Gouvernement de représentation auprès de l'Assemblée nationale ; le Premier ministre peut se faire assister, au cours des débats ou en commission, par des membres du Gouvernement, des conseillers ou experts de son choix.\nLe Premier ministre expose directement aux députés la situation de la Nation lors de l'ouverture de la première session de l'Assemblée nationale.\nCet exposé est suivi de débats mais ne donne lieu à aucun vote.\n"
+      },
+      "art-110": {
+       "label": "Article 110",
+       "kind": "art",
+       "text": "# Article 110\nLes membres du Gouvernement ont accès à l'Assemblée nationale, à ses commissions et organes consultatifs. Ils peuvent se faire assister par des conseillers ou experts.\n"
+      },
+      "art-111": {
+       "label": "Article 111",
+       "kind": "art",
+       "text": "# Article 111\nDurant les sessions, au moins une séance par semaine est réservée aux questions des députés et aux réponses du Gouvernement.\nL'Assemblée nationale peut adresser au Gouvernement des questions d'actualité, des questions écrites, des questions orales, avec ou sans débat.\nLes questions orales ou d'actualité qui portent sur la politique générale du Gouvernement sont posées au Premier ministre qui y répond. Il ne peut se faire représenter.\n"
+      },
+      "art-112": {
+       "label": "Article 112",
+       "kind": "art",
+       "text": "# Article 112\nLe Gouvernement dépose les projets de loi devant l'Assemblée nationale dans les conditions prévues par la loi.\nIl expose et défend devant elle, la politique gouvernementale, le budget de l'Etat, les plans de développement économique et social de la Nation.\nConformément à la loi, le Gouvernement participe aux débats concernant les orientations, la légitimité, le bien-fondé et l'efficacité de la politique du Gouvernement.\n"
+      },
+      "art-113": {
+       "label": "Article 113",
+       "kind": "art",
+       "text": "# Article 113\nLe Gouvernement est tenu de fournir à l'Assemblée nationale toutes explications qui lui sont demandées sur sa gestion et sur ses actes.\nL'Assemblée nationale peut constituer des commissions d'enquêtes.\n"
+      },
+      "art-114": {
+       "label": "Article 114",
+       "kind": "art",
+       "text": "# Article 114\nLes rapports réciproques de l'Assemblée nationale et du Gouvernement se traduisent également par :\n- la motion de censure ;\n- la question de confiance ;\n- la dissolution de l'Assemblée nationale ;\n- la procédure de discussion parlementaire.\n"
+      },
+      "art-115": {
+       "label": "Article 115",
+       "kind": "art",
+       "text": "# Article 115\nL'Assemblée nationale peut présenter une motion de censure à l'égard du Gouvernement.\nLa motion de censure est signée par au moins un tiers des Députés. Pour être adoptée, elle doit être votée à la majorité absolue des membres composant l'Assemblée nationale.\nEn cas de rejet de la motion de censure, ses signataires ne peuvent en présenter une autre avant le délai d'un an.\n"
+      },
+      "art-116": {
+       "label": "Article 116",
+       "kind": "art",
+       "text": "# Article 116\nLe Premier ministre peut, après délibération du Conseil des ministres, engager devant l'Assemblée nationale la responsabilité du Gouvernement sur un programme ou sur une déclaration de politique générale.\nLa confiance est refusée au Gouvernement si le texte présenté ne recueille pas la majorité absolue des voix des membres composant l'Assemblée.\nLe vote sur la question de confiance ne peut intervenir moins de quarante-huit heures après le dépôt du texte.\nLe Premier ministre peut, après délibération du Conseil des ministres, engager la responsabilité du Gouvernement devant l'Assemblée sur le vote d'un texte. Dans ce cas, ce texte est considéré comme adopté sauf si une motion de censure, déposée dans les vingt-quatre heures qui suivent, est votée dans les conditions prévues aux alinéas ci-dessus.\n"
+      },
+      "art-117": {
+       "label": "Article 117",
+       "kind": "art",
+       "text": "# Article 117\nSi la motion de censure est votée ou la confiance refusée, le Président du Faso met fin, dans un délai de huit jours, aux fonctions du Premier ministre. Il nomme un nouveau Premier ministre selon la procédure prévue à l'article 46.\n"
+      },
+      "art-118": {
+       "label": "Article 118",
+       "kind": "art",
+       "text": "# Article 118\nL'ordre du jour de l'Assemblée nationale comporte notamment la discussion des pétitions populaires, des projets de lois déposés par le Gouvernement et des propositions acceptées par lui.\nCependant, toute proposition de loi peut être discutée deux mois après sa soumission au Gouvernement sans qu'il ne puisse être fait application de l'alinéa précédent, ni des articles 121 et 122 de la présente Constitution.\nL'inscription, par priorité, à l'ordre du jour de l'Assemblée nationale, d'un projet ou d'une proposition de loi ou d'une déclaration de politique générale, est de droit si le Président du Faso ou le Premier ministre en fait la demande.\n"
+      },
+      "art-119": {
+       "label": "Article 119",
+       "kind": "art",
+       "text": "# Article 119\nEn cas d'urgence déclarée par le Gouvernement, l'Assemblée nationale doit se prononcer sur les projets de loi dans un délai de quinze jours. Ce délai est porté à quarante jours pour la loi de finances.\nSi à l'expiration du délai aucun vote n'est intervenu, le projet de loi est promulgué en l'état, sur proposition du Premier ministre par le Président du Faso, sous forme d'ordonnance.\n"
+      },
+      "art-120": {
+       "label": "Article 120",
+       "kind": "art",
+       "text": "# Article 120\nLes propositions et amendements concernant la loi de finances déposés par les membres de l'Assemblée nationale sont irrecevables lorsque leur adoption aurait pour conséquence, soit une diminution des ressources publiques, soit la création ou l'aggravation d'une charge publique, à moins qu'ils ne soient accompagnés d'une proposition d'augmentation de recettes ou d'économie équivalentes.\n"
+      },
+      "art-121": {
+       "label": "Article 121",
+       "kind": "art",
+       "text": "# Article 121\nSi le Gouvernement le demande, l'Assemblée nationale se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par lui.\n"
+      },
+      "art-122": {
+       "label": "Article 122",
+       "kind": "art",
+       "text": "# Article 122\nLorsque l'Assemblée nationale a confié l'examen d'un projet de texte à une commission, le Gouvernement peut, après l'ouverture des débats s'opposer à l'examen de tout amendement qui n'a pas été préalablement soumis à cette commission.\n"
+      },
+      "art-123": {
+       "label": "Article 123",
+       "kind": "art",
+       "text": "# Article 123\nLes propositions de lois et les amendements qui ne sont pas du domaine de la loi sont irrecevables. L'irrecevabilité est prononcée par le Président de l'Assemblée nationale.\nEn cas de contestation, le Conseil constitutionnel, sur saisine du Premier ministre ou du Président de l'Assemblée nationale, statue dans un délai de huit jours.\n"
+      },
+      "art-124": {
+       "label": "Article 124",
+       "kind": "art",
+       "text": "# Article 124\nLe Pouvoir Judiciaire est confié aux juges ; il est exercé sur tout le territoire du Burkina Faso par les juridictions de l'ordre judiciaire et de l'ordre administratif déterminées par la loi.\n"
+      },
+      "art-125": {
+       "label": "Article 125",
+       "kind": "art",
+       "text": "# Article 125\nLe Pouvoir Judiciaire est gardien des libertés individuelles et collectives.\nIl veille au respect des droits et libertés définis dans la présente Constitution.\n"
+      },
+      "art-126": {
+       "label": "Article 126",
+       "kind": "art",
+       "text": "# Article 126\nLes juridictions de l'ordre judiciaire et de l'ordre administratif au Burkina Faso sont :\n- la Cour de cassation ;\n- le Conseil d'Etat ;\n- la Cour des comptes ;\n- le Tribunal des conflits ;\n- les Cours et les Tribunaux institués par la loi.\nCes juridictions appliquent la loi en vigueur.\n"
+      },
+      "art-127": {
+       "label": "Article 127",
+       "kind": "art",
+       "text": "# Article 127\nLa Cour de cassation est la juridiction supérieure de l'ordre judiciaire.\nLe Conseil d'Etat est la juridiction supérieure de l'ordre administratif.\nLa Cour des comptes est la juridiction supérieure de contrôle des finances publiques.\nLe Tribunal des conflits est la juridiction de règlement des conflits de compétence entre les juridictions.\nUne loi organique fixe la composition, l'organisation, les attributions, le fonctionnement de ces juridictions ainsi que la procédure applicable devant elles.\n"
+      },
+      "art-128": {
+       "label": "Article 128",
+       "kind": "art",
+       "text": "# Article 128\nLa loi fixe le siège, le ressort, la compétence et la composition des Cours et des Tribunaux.\n"
+      },
+      "art-129": {
+       "label": "Article 129",
+       "kind": "art",
+       "text": "# Article 129\nLe pouvoir judiciaire est indépendant.\n"
+      },
+      "art-130": {
+       "label": "Article 130",
+       "kind": "art",
+       "text": "# Article 130\nLes magistrats du siège ne sont soumis dans l'exercice de leurs fonctions qu'à l'autorité de la loi. Ils sont inamovibles.\nLes magistrats du parquet sont soumis à la loi et à l'autorité des chefs de parquet. Ils sont nommés et affectés dans les mêmes conditions que les magistrats du siège.\n"
+      },
+      "art-131": {
+       "label": "Article 131",
+       "kind": "art",
+       "text": "# Article 131\nLe Président du Faso est garant de l'indépendance du pouvoir judiciaire.\nEn cette qualité, il préside chaque année, au cours du mois de novembre, une rencontre avec les membres du Conseil supérieur de la magistrature pour discuter des questions en rapport avec le renforcement de l'indépendance du pouvoir judiciaire.\nUne rencontre extraordinaire peut toujours être tenue le cas échéant.\n"
+      },
+      "art-132": {
+       "label": "Article 132",
+       "kind": "art",
+       "text": "# Article 132\nLe premier président de la Cour de cassation est le président du Conseil supérieur de la magistrature.\nLe premier président du Conseil d'Etat en est le vice-président.\n"
+      },
+      "art-133": {
+       "label": "Article 133",
+       "kind": "art",
+       "text": "# Article 133\nLe Conseil supérieur de la magistrature donne son avis sur toute question concernant l'indépendance de la magistrature et sur l'exercice du droit de grâce.\nUne loi organique fixe l'organisation, la composition, les attributions, et le fonctionnement du Conseil supérieur de la magistrature.\n"
+      },
+      "art-134": {
+       "label": "Article 134",
+       "kind": "art",
+       "text": "# Article 134\nLe Conseil supérieur de la magistrature décide des nominations et des affectations des magistrats.\n"
+      },
+      "art-135": {
+       "label": "Article 135",
+       "kind": "art",
+       "text": "# Article 135\nUne loi organique fixe le statut de la Magistrature dans le respect des principes contenus dans la présente Constitution.\nElle prévoit et organise les garanties et l'indépendance de la Magistrature.\n"
+      },
+      "art-136": {
+       "label": "Article 136",
+       "kind": "art",
+       "text": "# Article 136\nL'audience dans toutes les Cours et dans tous les Tribunaux est publique. L'audience à huis clos n'est admise que dans les cas définis par la loi.\nLes décisions des juridictions sont motivées, sauf dans les cas où la loi en dispose autrement.\n"
+      },
+      "art-137": {
+       "label": "Article 137",
+       "kind": "art",
+       "text": "# Article 137\nIl est institué une Haute Cour de Justice. La Haute Cour de Justice est composée de Députés que l'Assemblée nationale élit après chaque renouvellement général ainsi que de magistrats désignés par le Président de la Cour de cassation. Elle élit son président parmi ses membres.\nLa loi fixe sa composition, les règles de son fonctionnement et la procédure applicable devant elle.\n"
+      },
+      "art-138": {
+       "label": "Article 138",
+       "kind": "art",
+       "text": "# Article 138\nLa Haute Cour de Justice est compétente pour connaître des actes commis par le Président du Faso dans l'exercice de ses fonctions et constitutifs de haute trahison, d'attentat à la Constitution ou de détournement de deniers publics.\nLa Haute Cour de Justice est également compétente pour juger les membres du Gouvernement en raison des faits qualifiés crimes ou délits commis dans l'exercice ou à l'occasion de l'exercice de leurs fonctions. Dans tous les autres cas, ils demeurent justiciables des juridictions de droit commun et des autres juridictions.\n"
+      },
+      "art-139": {
+       "label": "Article 139",
+       "kind": "art",
+       "text": "# Article 139\nLa mise en accusation du Président du Faso est votée à la majorité des quatre cinquièmes des voix des députés composant l'Assemblée. Celle des membres du Gouvernement est votée à la majorité des deux tiers des voix des députés composant l'Assemblée.\n"
+      },
+      "art-140": {
+       "label": "Article 140",
+       "kind": "art",
+       "text": "# Article 140\nLa Haute Cour de Justice est liée par la définition des crimes et délits et par la détermination des peines résultant des lois pénales en vigueur à l'époque où les faits ont été commis.\n"
+      },
+      "art-141": {
+       "label": "Article 141",
+       "kind": "art",
+       "text": "# Article 141\nIl est institué un organe consultatif dénommé Conseil économique et social (CES).\nLe Conseil économique et social est chargé de donner son avis sur les questions à caractère économique, social ou culturel portées à son examen par le Président du Faso ou le Gouvernement.\nIl peut être consulté sur tout projet de plan ou de programme à caractère économique, social ou culturel.\nLe Conseil économique et social peut également procéder à l'analyse de tout problème de développement économique et social. Il soumet ses conclusions au Président du Faso ou au Gouvernement.\nLe Conseil économique et social peut désigner l'un de ses membres à la demande du Président du Faso ou du Gouvernement, pour exposer devant ces organes, l'avis du Conseil sur les questions qui lui ont été soumises.\nUne loi organique fixe la composition, l'organisation et le fonctionnement du Conseil économique et social.\n"
+      },
+      "art-142": {
+       "label": "Article 142",
+       "kind": "art",
+       "text": "# Article 142\nDes organes de contrôle sont créés par la loi.\nLeur compétence recouvre des questions à caractère économique, social et culturel d'intérêt national.\nLa composition, les attributions et le fonctionnement de ces organes de contrôle, instances et organes consultatifs sont fixés par la loi.\n"
+      },
+      "art-143": {
+       "label": "Article 143",
+       "kind": "art",
+       "text": "# Article 143\nLe Burkina Faso est organisé en collectivités territoriales.\n"
+      },
+      "art-144": {
+       "label": "Article 144",
+       "kind": "art",
+       "text": "# Article 144\nLa création, la suppression, le découpage des collectivités territoriales sont du ressort de la loi.\n"
+      },
+      "art-145": {
+       "label": "Article 145",
+       "kind": "art",
+       "text": "# Article 145\nLa loi organise la participation démocratique des populations à la libre administration des collectivités territoriales.\n"
+      },
+      "art-146": {
+       "label": "Article 146",
+       "kind": "art",
+       "text": "# Article 146\nLe Burkina Faso peut conclure avec tout Etat africain des accords d'association ou de communauté impliquant un abandon total ou partiel de souveraineté.\n"
+      },
+      "art-147": {
+       "label": "Article 147",
+       "kind": "art",
+       "text": "# Article 147\nLes accords consacrant l'entrée du Burkina Faso dans une Confédération, une Fédération, ou une Union d'Etats africains sont soumis à l'approbation du Peuple par référendum.\n"
+      },
+      "art-148": {
+       "label": "Article 148",
+       "kind": "art",
+       "text": "# Article 148\nLe Président du Faso négocie, signe et ratifie les traités et accords internationaux.\n"
+      },
+      "art-149": {
+       "label": "Article 149",
+       "kind": "art",
+       "text": "# Article 149\nLes traités de paix, les traités de commerce, les traités qui engagent les finances de l'Etat, ceux qui modifient les dispositions de nature législative, ceux qui sont relatifs à l'état des personnes, ne peuvent être ratifiés ou approuvés qu'en vertu d'une loi.\nIls ne prennent effet qu'après avoir été ratifiés ou approuvés.\n"
+      },
+      "art-150": {
+       "label": "Article 150",
+       "kind": "art",
+       "text": "# Article 150\nSi le Conseil constitutionnel saisi conformément à l'article 157, a déclaré qu'un engagement international comporte une disposition contraire à la Constitution, l'autorisation de le ratifier ou de l'approuver ne peut intervenir qu'après la révision de la Constitution.\n"
+      },
+      "art-151": {
+       "label": "Article 151",
+       "kind": "art",
+       "text": "# Article 151\nLes traités et accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application par l'autre partie.\n"
+      },
+      "art-152": {
+       "label": "Article 152",
+       "kind": "art",
+       "text": "# Article 152\nLe Conseil constitutionnel est l'institution compétente en matière constitutionnelle et électorale. Il est chargé de statuer sur la constitutionnalité des lois, des ordonnances, ainsi que la conformité des traités et accords internationaux avec la Constitution.\nIl interprète les dispositions de la Constitution. Il contrôle la régularité, la transparence et la sincérité du référendum, des élections présidentielles, législatives et est juge du contentieux électoral.\nIl proclame les résultats définitifs du référendum, des élections présidentielles et législatives.\nLe contrôle de la régularité et de la transparence des élections locales relève de la compétence des tribunaux administratifs. La proclamation des résultats définitifs de ces élections relève de la compétence du Conseil d'Etat.\n"
+      },
+      "art-153": {
+       "label": "Article 153",
+       "kind": "art",
+       "text": "# Article 153\nLe Conseil constitutionnel comprend, outre son Président :\n- trois magistrats de grade exceptionnel nommés par le Président du Faso sur proposition du ministre de la justice ;\n- trois personnalités nommées par le Président du Faso dont au moins un juriste ;\n- trois personnalités nommées par le Président de l'Assemblée nationale dont au moins un juriste ;\nLe Président du Conseil constitutionnel est nommé par le Président du Faso.\nLes membres du Conseil constitutionnel sont nommés pour un mandat unique de neuf ans.\nToutefois, ils sont renouvelables par tiers tous les trois ans dans les conditions fixées par la loi sauf pour le Président du Conseil constitutionnel.\nLes fonctions de membre du Conseil constitutionnel sont incompatibles avec celles de membre du Gouvernement ou du Parlement.\nLes autres incompatibilités sont fixées par la loi.\n"
+      },
+      "art-154": {
+       "label": "Article 154",
+       "kind": "art",
+       "text": "# Article 154\nLe Conseil constitutionnel veille à la régularité des élections présidentielles. Il examine les réclamations et proclame les résultats du scrutin.\nLe Conseil constitutionnel statue, en cas de contestation, sur la régularité de l'élection ou de la nomination des membres de l'Assemblée nationale. En matière électorale, le Conseil constitutionnel peut être saisi par tout candidat intéressé.\nElle veille à la régularité des opérations de référendum et en proclame les résultats.\nLe Conseil constitutionnel veille au respect de la procédure de révision de la Constitution.\n"
+      },
+      "art-155": {
+       "label": "Article 155",
+       "kind": "art",
+       "text": "# Article 155\nLes lois organiques et le règlement de l'Assemblée nationale, avant leur promulgation ou leur mise en application, doivent être soumis au Conseil constitutionnel.\nAux mêmes fins, les lois ordinaires et les traités soumis à la procédure de ratification, peuvent être déférés au Conseil constitutionnel, avant leur promulgation.\n"
+      },
+      "art-156": {
+       "label": "Article 156",
+       "kind": "art",
+       "text": "# Article 156\nLe Conseil constitutionnel est aussi chargé du contrôle du respect par les partis politiques, des dispositions de l'article 13 alinéa 5 de la présente Constitution.\n"
+      },
+      "art-157": {
+       "label": "Article 157",
+       "kind": "art",
+       "text": "# Article 157\nLe Conseil constitutionnel est saisi par :\n- le Président du Faso ;\n- le Premier ministre;\n- le Président de l'Assemblée nationale ;\n- un dixième au moins des membres de l'Assemblée nationale.\nEn outre, tout citoyen peut saisir le Conseil constitutionnel sur la constitutionnalité des lois, soit directement, soit par la procédure de l'exception d'inconstitutionnalité invoquée dans une affaire qui le concerne devant une juridiction. Celle-ci doit surseoir jusqu'à la décision du Conseil constitutionnel qui doit intervenir dans un délai maximum de trente jours à compter de sa saisine.\nLe Conseil constitutionnel peut se saisir de toutes questions relevant de sa compétence s'il le juge nécessaire.\n"
+      },
+      "art-158": {
+       "label": "Article 158",
+       "kind": "art",
+       "text": "# Article 158\nLa saisine du Conseil constitutionnel suspend le délai de promulgation des textes qui lui sont déférés.\n"
+      },
+      "art-159": {
+       "label": "Article 159",
+       "kind": "art",
+       "text": "# Article 159\nUne disposition déclarée inconstitutionnelle ne peut être promulguée ni mise en application.\nLes décisions du Conseil constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.\n"
+      },
+      "art-160": {
+       "label": "Article 160",
+       "kind": "art",
+       "text": "# Article 160\nUne loi organique fixe l'organisation et le fonctionnement du Conseil constitutionnel et détermine la procédure applicable devant lui.\n"
+      },
+      "art-160-1": {
+       "label": "Article 160.1",
+       "kind": "art",
+       "text": "# Article 160.1\nIl est institué un organe intercesseur gracieux entre l'administration publique et les citoyens dénommé le Médiateur du Faso.\nLe Président du Faso nomme le Médiateur du Faso.\n"
+      },
+      "art-160-2": {
+       "label": "Article 160.2",
+       "kind": "art",
+       "text": "# Article 160.2\nUne loi organique fixe les attributions, l'organisation et le fonctionnement du Médiateur du Faso.\n"
+      },
+      "art-160-3": {
+       "label": "Article 160.3",
+       "kind": "art",
+       "text": "# Article 160.3\nIl est institué une autorité administrative indépendante de régulation de la communication au public dénommée Conseil supérieur de la communication en abrégé (CSC).\n"
+      },
+      "art-160-4": {
+       "label": "Article 160.4",
+       "kind": "art",
+       "text": "# Article 160.4\nUne loi organique fixe les attributions, la composition, l'organisation et le fonctionnement du Conseil supérieur de la communication.\n"
+      },
+      "art-160-5": {
+       "label": "Article 160.5",
+       "kind": "art",
+       "text": "# Article 160.5\nIl est institué un organe de contrôle dénommé Autorité supérieure de contrôle d'Etat et de lutte contre la corruption en abrégé « ASCE-LC ».\nL'Autorité supérieure de contrôle d'Etat et de lutte contre la corruption est l'organe suprême de contrôle administratif et de lutte contre la corruption. Elle constitue l'interface entre les acteurs engagés dans la lutte contre la corruption et les autorités étatiques.\nCet organe de contrôle a le statut d'autorité administrative indépendante. Il est doté de l'autonomie financière.\n"
+      },
+      "art-160-6": {
+       "label": "Article 160.6",
+       "kind": "art",
+       "text": "# Article 160.6\nUne loi organique fixe les attributions, la composition, l'organisation et le fonctionnement de l'Autorité supérieure de contrôle d'Etat et de lutte contre la corruption.\n"
+      },
+      "art-161": {
+       "label": "Article 161",
+       "kind": "art",
+       "text": "# Article 161\nL'initiative de la révision de la Constitution appartient concurremment :\n- au Président du Faso ;\n- aux membres de l'Assemblée nationale à la majorité ;\n- au peuple lorsqu'une fraction d'au moins trente mille personnes ayant le droit de vote, introduit devant l'Assemblée nationale une pétition constituant une proposition rédigée et signée.\n"
+      },
+      "art-162": {
+       "label": "Article 162",
+       "kind": "art",
+       "text": "# Article 162\nLa loi fixe les conditions de la mise en œuvre de la procédure de révision.\n"
+      },
+      "art-163": {
+       "label": "Article 163",
+       "kind": "art",
+       "text": "# Article 163\nLe projet de révision est, dans tous les cas, soumis au préalable à l'appréciation de l'Assemblée nationale.\n"
+      },
+      "art-164": {
+       "label": "Article 164",
+       "kind": "art",
+       "text": "# Article 164\nLe projet de texte est ensuite soumis au référendum. Il est réputé avoir été adopté dès lors qu'il obtient la majorité des suffrages exprimés.\nLe Président du Faso procède alors à sa promulgation dans les conditions fixées par l'article 48 de la présente Constitution.\nToutefois, le projet de révision est adopté sans recours au référendum s'il est approuvé à la majorité des trois quarts des membres des membres de l'Assemblée nationale.\n"
+      },
+      "art-165": {
+       "label": "Article 165",
+       "kind": "art",
+       "text": "# Article 165\nAucun projet ou proposition de révision de la Constitution n'est recevable lorsqu'il remet en cause :\n- la clause limitative du nombre de mandat présidentiel;\n- la durée du mandat présidentiel ;\n- la nature et la forme républicaine de l'Etat ;\n- le système multipartiste ;\n- l'intégrité du territoire national.\nAucune procédure de révision ne peut être engagée ni poursuivie en cas de vacance du pouvoir, pendant la durée de l'Etat de siège ou de l'Etat d'urgence et lorsqu'il est porté atteinte à l'intégrité du territoire.\n"
+      },
+      "art-166": {
+       "label": "Article 166",
+       "kind": "art",
+       "text": "# Article 166\nLa trahison de la Patrie et l'atteinte à la Constitution constituent les crimes les plus graves commis à l'encontre du peuple.\n"
+      },
+      "art-167": {
+       "label": "Article 167",
+       "kind": "art",
+       "text": "# Article 167\nLa source de toute légitimité découle de la présente Constitution.\nTout pouvoir qui ne tire pas sa source de cette Constitution, notamment celui issu d'un coup d'Etat est illégal.\nDans ce cas, le droit à la désobéissance civile est reconnu à tous les citoyens.\n"
+      },
+      "art-168": {
+       "label": "Article 168",
+       "kind": "art",
+       "text": "# Article 168\nLe peuple Burkinabé proscrit toute idée de pouvoir personnel. Il proscrit également toute oppression d'une fraction du peuple par une autre.\n"
+      },
+      "art-169": {
+       "label": "Article 169",
+       "kind": "art",
+       "text": "# Article 169\nLa promulgation de la Constitution doit intervenir dans les délais prévus à l'article 48 de la présente loi constitutionnelle.\n"
+      },
+      "preambule": {
+       "label": "Préambule",
+       "kind": "preamble",
+       "text": "# Préambule\nNous, Peuple souverain du Burkina Faso ;\nCONSCIENT de nos responsabilités et de nos devoirs devant l'histoire et devant l'humanité ;\nFORT de nos acquis démocratiques ;\nENGAGE à préserver ces acquis et animé de la volonté d'édifier un Etat de droit garantissant l'exercice des droits collectifs et individuels, la liberté, la dignité, la sûreté, le bien-être, le développement, l'égalité et la justice comme valeurs fondamentales d'une société pluraliste de progrès et débarrassée de tout préjugé ;\nREAFFIRMANT notre attachement à la lutte contre toute forme de domination ainsi qu'au caractère démocratique du pouvoir ;\nREAFFIRMANT le caractère républicain des Forces de défense et de sécurité ;\nDETERMINE à promouvoir l'intégrité, la probité, la transparence, l'impartialité et l'obligation de rendre compte comme des valeurs républicaines et éthiques propres à moraliser la vie de la Nation ;\nRECONNAISSANT la chefferie coutumière et traditionnelle en tant qu'autorité morale dépositaire des coutumes et des traditions dans notre société ;\nRECONNAISSANT que la promotion du genre est un facteur de réalisation de l'égalité de droit entre hommes et femmes au Burkina Faso ;\nRECHERCHANT l'intégration économique et politique avec les autres peuples d'Afrique en vue de la construction d'une unité fédérative de l'Afrique ;\nSOUSCRIVANT à la déclaration universelle des Droits de l'Homme de 1948 et aux instruments internationaux traitant des problèmes économiques, politiques, sociaux et culturels ;\nREAFFIRMANT solennellement notre engagement vis-à-vis de la Charte Africaine des Droits de l'Homme et des Peuples de 1981 ;\nCONSIDERANT notre attachement aux valeurs et principes démocratiques tels qu'inscrits notamment dans la Charte africaine de la démocratie, des élections et de la gouvernance du 30 janvier 2007 et dans le Protocole A/SP1/12/01 du 21 décembre 2001 de la CEDEAO sur la démocratie et la bonne gouvernance ;\nDESIREUX de promouvoir la paix, la coopération internationale, le règlement pacifique des différends entre Etats, dans la justice, l'égalité, la liberté et la souveraineté des peuples ;\nCONSCIENT de la nécessité absolue de protéger l'environnement ;\nAPPROUVONS ET ADOPTONS la présente Constitution dont le présent préambule fait partie intégrante.\n"
+      },
+      "structure": {
+       "label": "Structure (titres et chapitres)",
+       "kind": "structure",
+       "text": "# Structure\nTITRE I | DES DROITS ET DEVOIRS FONDAMENTAUX | Chapitre I - des droits et devoirs civils | Article premier\nChapitre II - Des droits et devoirs politiques | Article 11\nChapitre III - Des droits et devoirs économiques | Article 14\nChapitre IV - Des droits et devoirs sociaux et culturels | Article 18\nTITRE II | DE L'ETAT ET DE LA SOUVERAINETE NATIONALE | Article 31\nTITRE III | DU PRESIDENT DU FASO | Article 36\nTITRE IV | DU GOUVERNEMENT | Article 61\nTITRE V | DU PARLEMENT | Article 78\nTITRE VI | DES DOMAINES RESPECTIFS DE LA LOI ET DU REGLEMENT | Article 97\nTITRE VII | DES RAPPORTS ENTRE LE GOUVERNEMENT ET L'ASSEMBLEE NATIONALE | Article 109\nTITRE VIII | DU POUVOIR JUDICIAIRE | Article 124\nTITRE IX | DE LA HAUTE COUR DE JUSTICE | Article 137\nTITRE X | DU CONSEIL ECONOMIQUE ET SOCIAL ET DES ORGANES DE CONTROLE | Article 141\nTITRE XI | DES COLLECTIVITES TERRITORIALES | Article 143\nTITRE XII | DE L'UNITE AFRICAINE | Article 146\nTITRE XIII | DES TRAITES ET ACCORDS INTERNATIONAUX | Article 148\nTITRE XIV | DU CONSEIL CONSTITUTIONNEL | Article 152\nTITRE XIV bis | DU MEDIATEUR DU FASO | Article 160.1\nTITRE XIV ter | DU CONSEIL SUPERIEUR DE LA COMMUNICATION | Article 160.3\nTITRE XIV quater | DE L'AUTORITE SUPERIEURE DE CONTROLE D'ETAT ET DE LUTTE CONTRE LA CORRUPTION | Article 160.5\nTITRE XV | DE LA REVISION | Article 161\nTITRE XVI | DES DISPOSITIONS DIVERSES, TRANSITOIRES ET FINALES | Article 166\n"
+      }
+     },
+     "credits": {},
+     "note": "The Assemblée nationale's consolidation after Loi constitutionnelle n°072-2015/CNT du 05 novembre 2015, promulgated by Décret n°2015-1396/PRES-TRANS du 26 novembre 2015. Its footnotes, which say which revision changed each provision and how, are left out of the text. Later revisions are not applied (see the README)."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Only the Constitution is built, on the preview branch: its current text cannot be shown. Loi constitutionnelle n°045-2023/ALT (Assemblée législative de transition, text layer) has no sourced promulgation date (the Assemblée's list says 01/01/1900); n°033-2024/ALT (promulgated 21/11/2024 per the Assemblée's list) and n°004-2026/ALT du 20 janvier 2026 are published only as scans, and scans are not transcribed (no OCR).",
+  "One version, from 2015-11-26: the promulgation of the last revision the consolidation contains (Décret n°2015-1396/PRES-TRANS), as listed on its cover. It is credited to the publisher as the oldest version available, naming the 1991 Constitution and the eight revision laws the cover lists.",
+  "Footnotes (9.8 pt) and footnote markers (6-9 pt superscripts) are left out; the cover page (revision and decree lists) is not law text and is left out.",
+  "Paragraphs are rebuilt from the justified layout: a sentence end followed by a vertical gap, or by a line short of the right margin, ends a paragraph; a line without a sentence end runs on, also across a page break. In art. 101 the consolidation prints the start of the second paragraph (\"La loi détermine les principes fondamentaux :\") on the last line of the first list; it is split into its own paragraph (layout only, the words are unchanged). List dashes set in a smaller size at the body indent are kept.",
+  "Unit layout: one file per article (art-NNN; art-NNN-N for the dotted articles such as 13.1 and 160.1), the preamble, and one structure file naming the article each title and chapter heading precedes.",
+  "Typesetting is normalised once: NBSP to space, curly apostrophes to straight ones, curly double quotes to « », em dashes to en dashes, runs of spaces collapsed."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py and parse.py, chose the sources and wrote the decisions. No model wrote, summarised or transformed legal text: parse.py is deterministic code over the cached PDF."
+ ]
+}

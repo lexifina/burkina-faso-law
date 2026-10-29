@@ -1,0 +1,23 @@
+The legal text comes from an official publication of Burkina Faso:
+
+  Constitution du Burkina Faso, adoptée par le référendum du 02 juin 1991, révisée par les lois n°002/97/ADP,
+  003-2000/AN, 001-2002/AN, 015-2009/AN, 023-2012/AN, 033-2012/AN, 035-2013/AN et 072-2015/CNT, as consolidated by
+  the Assemblée nationale ("Constitution consolidée après la relecture du 05 nov 2015") and published on
+  LegiBurkina, the legal portal of the Secrétariat général du Gouvernement et du Conseil des ministres (SGG-CM/DSI),
+  https://www.legiburkina.gov.bf/documents/b157d74c-23a1-4025-a8d6-0061e83df0c2/download
+  (listed at https://www.legiburkina.gov.bf/textesFondamentaux), retrieved 29 October 2026.
+
+The portal states "SGGCM/DSI @2025 - Tous droits réservés" for the site and no licence for the legal texts. They
+are official legal texts; their copyright status is not confirmed here, and they are reproduced with the
+attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; page numbers, footnotes and their markers, and the cover page were
+removed; headings were gathered in one structure file; one paragraph printed on the same line as the end of the
+previous one (art. 101) was put on its own line; and the text was arranged as git commits. The wording of the law
+was not changed. Neither the Secrétariat général du Gouvernement nor the Assemblée nationale endorses this
+repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
