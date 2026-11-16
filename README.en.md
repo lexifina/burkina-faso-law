@@ -60,6 +60,7 @@ The consolidation is not the Constitution as adopted, so its commit is credited 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future.
 - `tools/build.py` writes the history from that corpus in one pass; a second build into an empty folder gave identical hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md), and [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
 - The text is the PDF's own text layer (the file was made with Word, not scanned). Only line breaks, footnotes, the cover page and typesetting were changed, as [`LICENSE`](LICENSE) lists; the wording was not.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ The consolidation is not the Constitution as adopted, so its commit is credited 
 See [`LICENSE`](LICENSE). The text is the Constitution as consolidated by the Assemblée nationale and published on LegiBurkina, an official text of Burkina Faso reproduced with that attribution; the portal states no licence for legal texts. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
