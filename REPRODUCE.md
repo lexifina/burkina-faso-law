@@ -69,3 +69,14 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code, chose the sources and wrote the decisions. No model wrote, summarised or transformed legal text.
+
+## Added on 2026-11-26 (runner)
+
+The acts outside `constitution/` were added by the runner in the Lexifina tools repository
+(`scripts/burkina-faso-law/runner/`): `bf_build.py` (Assemblée législative, LegiBurkina, official files named by the
+Hugging Face `endomorphosis/ipfs_burkinafaso_laws` URL list, FAOLEX and WIPO Lex), `core_build.py` (the compiled codes,
+from Internet Archive copies of the Ministry of Justice's and the former LegiBurkina's files) and `const2024.py` (the
+Constitution's 2024 version, parsed with the same layout rules as the 2015 one). Each act is one commit with
+`In-force`, `In-force-basis`, `Source` and, for secondary copies, `Source-status` trailers. Only PDF text layers are
+used; scans are held, not transcribed. Requests: one at a time per host about one second apart, more only after ten
+clean minutes; any 401/403/429 or challenge stops that host. `corpus.json` lists every act (`bf/national/acts`).

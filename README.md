@@ -11,9 +11,9 @@ Le droit burkinabè sous forme d’historique git : un fichier par disposition, 
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national du Burkina Faso, que global-law lit dans `burkina-faso/national/acts/`.
 
-**Contenu actuel :** la Constitution du 2 juin 1991, en une seule version : la version consolidée par l’Assemblée nationale après la loi constitutionnelle n°072-2015/CNT du 5 novembre 2015, en vigueur depuis le 26 novembre 2015, avec le préambule et 177 articles (dont les articles 13.1, 96.1 et 160.1 à 160.6). Aucune loi pour l’instant. [`constitution/README.md`](constitution/README.md) énumère chaque disposition.
+**Contenu actuel :** la Constitution du 2 juin 1991 en deux versions (consolidations de 2015 et du 21 novembre 2024) ; les codes (personnes et famille, pénal 1996 puis 2018, procédure pénale, procédure civile, travail 2008 puis 2026, sécurité sociale, et d’autres) ; les lois, ordonnances, décrets et arrêtés publiés avec une couche texte par l’Assemblée législative, LegiBurkina et, à défaut, FAOLEX et WIPO Lex (le nombre augmente à mesure que la collecte avance) ; et la Charte de la Transition de 2014. Disposition des dossiers : [STRUCTURE.md](STRUCTURE.md) ; liste des textes : [`corpus.json`](corpus.json).
 
-**Ce n’est pas le texte en vigueur aujourd’hui.** Trois lois constitutionnelles ultérieures ne sont pas appliquées (voir [Ce qu’il ne montre pas](#ce-quil-ne-montre-pas)) ; pour tout jour postérieur au 26 novembre 2015, ce registre donne donc le texte de 2015, et non la Constitution telle que révisée depuis.
+**Pas tout à fait le texte en vigueur aujourd’hui.** La Constitution est à jour au 21 novembre 2024 ; la loi constitutionnelle n°004-2026/ALT du 20 janvier 2026 n’est publiée que sous forme de numérisation et n’est pas appliquée. Les autres textes sont chacun en une version, telle que publiée (voir [Ce qu’il ne montre pas](#ce-quil-ne-montre-pas)).
 
 Chaque disposition est un fichier dans `constitution/` (`art-037.md` est l’article 37, relatif à la durée du mandat du Président du Faso ; `art-160-1.md` est l’article 160.1) ; le préambule est `preambule.md`, et [`constitution/structure.md`](constitution/structure.md) indique l’article que précède chaque intitulé de titre et de chapitre.
 
@@ -51,7 +51,9 @@ Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone lance aussi un serve
 
 Chaque commit est daté à midi, heure de Ouagadougou (Africa/Ouagadougou, UTC), du jour où la version est entrée en vigueur, et porte ce jour dans son trailer `In-force:` :
 
-- l’unique version est datée du 26 novembre 2015, jour du décret n°2015-1396/PRES-TRANS portant promulgation de la loi constitutionnelle n°072-2015/CNT, tel que l’indique la page de couverture de la version consolidée ; la date de sa publication au Journal officiel n’a pas été trouvée.
+- la version de 2024 de la Constitution est datée du 21 novembre 2024, jour du décret n°2024-1430/PRES portant promulgation de la loi constitutionnelle n°033-2024/ALT (page de couverture ; elle contient aussi la loi n°045-2023/ALT, promulguée le 22 janvier 2024, qui n’a pas de consolidation propre) ;
+- les lois sont datées du jour de leur promulgation lorsque le répertoire de l’Assemblée législative ou le texte lui-même le donne, sinon du jour de leur adoption ; les décrets et arrêtés, du jour de leur signature ; les codes compilés, de la dernière promulgation que la compilation mentionne. Le trailer `In-force-basis` dit chaque fois laquelle ; la date du Journal officiel n’est pas donnée par ces sources ;
+- la première version de la Constitution est datée du 26 novembre 2015, jour du décret n°2015-1396/PRES-TRANS portant promulgation de la loi constitutionnelle n°072-2015/CNT, tel que l’indique la page de couverture de la version consolidée ; la date de sa publication au Journal officiel n’a pas été trouvée.
 
 La version consolidée n’est pas la Constitution telle qu’adoptée ; son commit est donc attribué à l’éditeur, le Secrétariat général du Gouvernement et du Conseil des ministres (qui gère LegiBurkina), en tant que plus ancienne version disponible, et nomme la Constitution de 1991 ainsi que les huit lois de révision qu’énumère la page de couverture. Le committer est toujours Lexifina.
 
@@ -60,25 +62,31 @@ La version consolidée n’est pas la Constitution telle qu’adoptée ; son com
 - `tools/check_repo.py` relit chaque version depuis git au jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit se lisent sans erreur, qu’il n’existe aucun commit de fusion et qu’aucun commit n’est daté dans le futur.
 - `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe ; une seconde construction dans un dossier vide a donné des empreintes identiques. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md), et [`data/corpus.sha256`](data/corpus.sha256) donne l’empreinte du corpus.
 - Le texte est la couche texte propre au PDF (le fichier a été produit avec Word, et non numérisé). Seuls les sauts de ligne, les notes de bas de page, la page de couverture et la composition typographique ont été modifiés, comme l’énumère [`LICENSE`](LICENSE) ; la rédaction ne l’a pas été.
+- Lois, décrets, codes et chartes ajoutés le 26 novembre 2026 : seule la couche texte du PDF est reprise (aucune OCR de notre part) ; chaque texte doit citer son propre numéro dans ses premières pages, sinon il est écarté ; les doublons entre sources sont écartés au profit de la source officielle.
 - [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
-- **La Constitution en vigueur aujourd’hui.** La loi constitutionnelle n°045-2023/ALT (adoptée le 30 décembre 2023) a un texte, mais aucune date de promulgation connue ; la loi n°033-2024/ALT (promulguée le 21 novembre 2024, selon la liste de l’Assemblée) et la loi n°004-2026/ALT du 20 janvier 2026 ne sont publiées que sous forme de numérisations, et les numérisations ne sont pas transcrites.
+- **La révision constitutionnelle de 2026** (loi n°004-2026/ALT du 20 janvier 2026) : publiée seulement sous forme de numérisation, non transcrite. Les Chartes de la Transition de 2022 et 2024 et l’Acte fondamental du MPSR sont dans le même cas.
+- **Les textes publiés seulement en numérisation** : la plupart des PDF de LegiBurkina sont des scans sans couche texte ; ils ne sont pas transcrits (pas d’OCR). Le Journal officiel (jobf.gov.bf) est un service sur abonnement et n’est pas repris.
+- **Les modifications successives des lois** : chaque loi, décret ou arrêté est en une version, telle que publiée ; seuls les codes et la Constitution ont plusieurs versions.
 - **La Constitution avant 2015**, ni les termes que chacune des huit révisions intervenues depuis 1991 a remplacés : LegiBurkina ne publie sous forme de texte que la version consolidée de 2015, et ses notes de bas de page, qui indiquent comment chaque révision a modifié chaque disposition, sont omises.
 - **Les intitulés** (titres, chapitres) ne figurent pas dans les fichiers des articles ; `structure.md` les regroupe.
-- **Aucune loi.** Le Code pénal (loi n°025-2018/AN) et la loi sur la protection des données (loi n°001-2021/AN) ont été examinés, mais leurs modifications ultérieures ne sont pas en ligne sous forme de texte.
+- **Le Code civil de 1804** tel qu’applicable au Burkina Faso et le Code des impôts : compilations sans date de version, écartées.
 
 ## Sources
 
 | Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
 | [LegiBurkina](https://www.legiburkina.gov.bf/textesFondamentaux) (Secrétariat général du Gouvernement et du Conseil des ministres) | Portail officiel du droit burkinabè : textes fondamentaux, lois et décrets en PDF | non, la seule version consolidée de 2015 | Le texte de la Constitution, et sa date tirée de la page de couverture de la version consolidée |
-| [Assemblée nationale / Assemblée législative de transition](https://www.assembleenationale.bf/loip) | Liste des lois adoptées (2018-2026), avec le PDF de la plupart d’entre elles | telles qu’adoptées | Consultée pour les lois constitutionnelles ultérieures ; aucune n’est appliquée |
+| [Assemblée nationale / Assemblée législative de transition](https://www.assembleenationale.bf/loip) | Répertoire des lois adoptées (2018-2026), avec dates d’adoption et de promulgation et le PDF de la plupart | telles qu’adoptées | Lois (couche texte) |
+| [Direction générale des réformes de l’État](https://dgre.gov.bf/) | Constitution consolidée après la loi n°033-2024/ALT | consolidation de 2024 | Version 2024 de la Constitution |
+| Ministère de la Justice (justice.gov.bf, « Codes et Lois ») et ancien LegiBurkina (legiburkina.bf), via l’Internet Archive | Codes compilés en PDF ; sites disparus, copies archivées | une compilation par code | Codes (copie secondaire) |
+| [FAOLEX](https://www.fao.org/faolex/) (FAO) et [WIPO Lex](https://www.wipo.int/wipolex/) (OMPI) | Textes officiels en PDF | une version | Lois, décrets et arrêtés absents des sources officielles en texte (copie secondaire) |
 
 ## Licence
 
-Voir [`LICENSE`](LICENSE). Le texte est la Constitution telle que consolidée par l’Assemblée nationale et publiée sur LegiBurkina, texte officiel du Burkina Faso reproduit avec cette mention de source ; le portail n’indique aucune licence pour les textes juridiques. L’historique, les messages de commit, les tableaux et les outils sont sous CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les textes sont des textes officiels du Burkina Faso, reproduits avec la mention de leur source (chaque dossier et chaque commit la donnent) ; aucune des sources n’indique de licence pour les textes juridiques. L’historique, les messages de commit, les tableaux et les outils sont sous CC0 1.0.
 
 Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 

@@ -1,6 +1,6 @@
 # Constitution du Burkina Faso
 
-Constitution · 1 versions, from 2015-11-26 (latest in force: 2015-11-26) · <https://www.legiburkina.gov.bf/textesFondamentaux>
+Constitution · 2 versions, from 2015-11-26 (latest in force: 2024-11-21) · <https://www.legiburkina.gov.bf/textesFondamentaux>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

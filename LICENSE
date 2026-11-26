@@ -21,3 +21,23 @@ repository.
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Further sources (added 2026-11-26), each named again in every act's README.md and commit trailers:
+
+- Assemblée législative du Burkina Faso (Assemblée nationale / ALT / ALP), répertoire des lois,
+  https://www.assembleenationale.bf/loip: laws as adopted. No licence stated; official texts.
+- LegiBurkina (SGG-CM), https://legiburkina.gov.bf: laws, decrees, arrêtés, charters. "SGGCM/DSI @2025 - Tous droits
+  réservés" for the site; no licence stated for the legal texts.
+- Direction générale des réformes de l'État, https://dgre.gov.bf: the Constitution consolidated after Loi
+  constitutionnelle n°033-2024/ALT. No licence stated; official text.
+- Ministère de la Justice (www.justice.gov.bf, "Codes et Lois") and the former LegiBurkina (www.legiburkina.bf):
+  compiled codes, read from Internet Archive Wayback Machine copies because the files are gone from those sites.
+  No licence stated; official texts (the Code de sécurité sociale compilation is by Droit-Afrique).
+- FAOLEX, Food and Agriculture Organization of the United Nations, https://www.fao.org/faolex/: official texts as
+  PDFs; FAO terms allow non-commercial reuse with acknowledgement (https://www.fao.org/contact-us/terms/en/).
+  Acknowledgement: FAOLEX, FAO.
+- WIPO Lex, World Intellectual Property Organization, https://www.wipo.int/wipolex/: official texts as PDFs;
+  WIPO's terms of use apply (https://www.wipo.int/tools/en/disclaim.html).
+
+Official texts of a legislative, administrative or judicial nature are not protected by copyright in the OAPI
+States (Bangui Agreement, Annex VII, article 6). Lexifina's arrangement of them (layout, commits, metadata) is CC0 1.0.
