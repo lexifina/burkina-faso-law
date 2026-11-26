@@ -78,5 +78,5 @@ Hugging Face `endomorphosis/ipfs_burkinafaso_laws` URL list, FAOLEX and WIPO Lex
 from Internet Archive copies of the Ministry of Justice's and the former LegiBurkina's files) and `const2024.py` (the
 Constitution's 2024 version, parsed with the same layout rules as the 2015 one). Each act is one commit with
 `In-force`, `In-force-basis`, `Source` and, for secondary copies, `Source-status` trailers. Only PDF text layers are
-used; scans are held, not transcribed. Requests: one at a time per host about one second apart, more only after ten
+used; scans are held, not transcribed. LegiBurkina files are first looked at through a ranged request for their first 64 KB (fonts with ToUnicode maps or text-drawing operators mean a text layer; a scanner producer with neither means a scan), and only those that may have a text layer are downloaded in full; the Assemblée législative list is read first. The Journal officiel site (jobf.gov.bf) is a paid subscription service and is not used. Requests: one at a time per host about one second apart, more only after ten
 clean minutes; any 401/403/429 or challenge stops that host. `corpus.json` lists every act (`bf/national/acts`).
