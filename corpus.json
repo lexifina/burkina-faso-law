@@ -1,0 +1,108 @@
+{
+ "corpus": "bf/national/acts",
+ "jurisdiction": "Burkina Faso",
+ "generated_from": "runner state",
+ "acts": [
+  {
+   "id": "constitution",
+   "kind": "constitution",
+   "title": "Constitution du Burkina Faso"
+  },
+  {
+   "id": "codes/code-de-procedure-civile",
+   "kind": "loi",
+   "number": "022-99/AN",
+   "date": "1999-07-09",
+   "title": "Loi n° 022-99/AN du 18 mai 1999 portant code de procédure civile",
+   "source": "https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Loi_22-99_AN_du_18_mai_1999_portant_code_de_procdure_civile.pdf",
+   "record": "https://web.archive.org/web/20151002162407id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Loi_22-99_AN_du_18_mai_1999_portant_code_de_procdure_civile.pdf",
+   "text_layer": "born-digital",
+   "articles": 674,
+   "secondary": true
+  },
+  {
+   "id": "codes/code-de-procedure-penale",
+   "kind": "ordonnance",
+   "number": "68-7/PRES/J",
+   "date": "1968-12-12",
+   "title": "Ordonnance n° 68-7 du 21 février 1968 portant institution d’un code de procédure pénale, complétée et modifiée par l’ordonnance n° 68-53 du 29 novembre 1968",
+   "source": "https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_de_procdure_pnale.pdf",
+   "record": "https://web.archive.org/web/20151001220415id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_de_procdure_pnale.pdf",
+   "text_layer": "born-digital",
+   "articles": 593,
+   "secondary": true
+  },
+  {
+   "id": "codes/code-de-securite-sociale",
+   "kind": "loi",
+   "number": "015-2006/AN",
+   "date": "2006-05-11",
+   "title": "Loi n° 015-2006/AN du 11 mai 2006 portant régime de sécurité sociale applicable aux travailleurs salariés et assimilés au Burkina Faso",
+   "source": "https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_de_scurit_sociale.pdf",
+   "record": "https://web.archive.org/web/20151001220538id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_de_scurit_sociale.pdf",
+   "text_layer": "born-digital",
+   "articles": 131,
+   "secondary": true
+  },
+  {
+   "id": "codes/code-des-personnes-et-de-la-famille",
+   "kind": "zatu",
+   "number": "AN VII-0013/FP/PRES",
+   "date": "1990-08-04",
+   "title": "Zatu n° AN VII-0013/FP/PRES du 16 novembre 1989 portant institution et application d’un code des personnes et de la famille au Burkina Faso",
+   "source": "https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/CPF.pdf",
+   "record": "https://web.archive.org/web/20151001220648id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/CPF.pdf",
+   "text_layer": "born-digital",
+   "articles": 1067,
+   "secondary": true
+  },
+  {
+   "id": "codes/code-du-travail",
+   "kind": "loi",
+   "number": "028-2008/AN",
+   "date": "2008-06-19",
+   "title": "Loi n° 028-2008/AN du 13 mai 2008 portant code du travail au Burkina Faso",
+   "source": "https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_travail_2008.pdf",
+   "record": "https://web.archive.org/web/20151001204738id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Code_travail_2008.pdf",
+   "text_layer": "born-digital",
+   "articles": 432,
+   "secondary": true
+  },
+  {
+   "id": "codes/code-du-travail",
+   "kind": "loi",
+   "number": "013-2026/ALP",
+   "date": "2026-05-25",
+   "title": "Loi n° 013-2026/ALP du 6 mai 2026 portant code du travail au Burkina Faso",
+   "source": "https://www.assembleenationale.bf/storage/Loi/D511TGoiRrFRpL9Irb3oyWKikYYsO3qmvxSsU8ci.pdf",
+   "record": "https://www.assembleenationale.bf/loip/443",
+   "text_layer": "publisher-ocr",
+   "articles": 440,
+   "secondary": false
+  },
+  {
+   "id": "codes/code-penal",
+   "kind": "loi",
+   "number": "043/96/ADP",
+   "date": "2004-05-17",
+   "title": "Loi n° 043/96/ADP du 13 novembre 1996 portant code pénal, telle que modifiée jusqu’à la loi n° 006-2004/AN du 6 avril 2004",
+   "source": "https://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Le_code_pnal_de_1996.pdf",
+   "record": "https://web.archive.org/web/20151002162740id_/http://www.justice.gov.bf/files/Documents%20en%20ligne/Textes%20juridiques/Codes%20et%20Lois/Le_code_pnal_de_1996.pdf",
+   "text_layer": "born-digital",
+   "articles": 537,
+   "secondary": true
+  },
+  {
+   "id": "codes/code-penal",
+   "kind": "loi",
+   "number": "025-2018/AN",
+   "date": "2018-05-31",
+   "title": "Loi n° 025-2018/AN du 31 mai 2018 portant code pénal",
+   "source": "https://www.assembleenationale.bf/storage/Loi/n53UNiWibGu7dOfkIqc0pgYQpwb51QUX0rDJsCvg.pdf",
+   "record": "https://www.assembleenationale.bf/loip/356",
+   "text_layer": "born-digital",
+   "articles": 892,
+   "secondary": false
+  }
+ ]
+}
