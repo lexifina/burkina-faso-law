@@ -11,7 +11,7 @@ The law of Burkina Faso as a git history: one file per provision, each version c
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Burkina Faso's national law, which global-law reads at `burkina-faso/national/acts/`.
 
-**What is in it now:** the Constitution of 2 June 1991 in two versions (the 2015 consolidation and that of 21 November 2024); the codes (persons and family, penal 1996 then 2018, criminal procedure, civil procedure, labour 2008 then 2026, social security, and others); the laws, ordinances, decrees and arrêtés that the Assemblée législative, LegiBurkina and, failing those, FAOLEX and WIPO Lex publish with a text layer (the count grows as collection goes on); and the 2014 Transition Charter. Folder layout: [STRUCTURE.md](STRUCTURE.md); list of acts: [`corpus.json`](corpus.json).
+**What is in it now:** the Constitution of 2 June 1991 in two versions (the 2015 consolidation and that of 21 November 2024); the codes (persons and family, penal 1996 then 2018, criminal procedure, civil procedure, labour 2008 then 2026, social security, and others); the laws, ordinances, decrees and arrêtés that the Assemblée législative, LegiBurkina and, failing those, FAOLEX and WIPO Lex publish with a text layer (the count grows as collection goes on); the 2014 Transition Charter; and two OHADA Uniform Acts that apply directly in Burkina Faso (securities, and cooperative societies, both in force 16 May 2011), in `ohada/actes-uniformes/`. Folder layout: [STRUCTURE.md](STRUCTURE.md); list of acts: [`corpus.json`](corpus.json).
 
 **Not quite today's text.** The Constitution is current to 21 November 2024; Loi constitutionnelle n°004-2026/ALT of 20 January 2026 is published only as a scan and is not applied. Every other act is in one version, as published (see [What it does not show](#what-it-does-not-show)).
 
@@ -68,7 +68,7 @@ The consolidation is not the Constitution as adopted, so its commit is credited 
 ## What it does not show
 
 - **The 2026 constitutional revision** (Loi n°004-2026/ALT of 20 January 2026): published only as a scan, not transcribed. The 2022 and 2024 Transition Charters and the MPSR Fundamental Act are the same.
-- **Texts published only as scans:** most LegiBurkina PDFs are scans without a text layer; they are not transcribed (no OCR). The Journal officiel (jobf.gov.bf) is a subscription service and is not used.
+- **Texts published only as scans:** most LegiBurkina PDFs are scans without a text layer; they are not transcribed (no OCR). The Journal officiel (jobf.gov.bf) is a subscription service and is not used. The other OHADA Uniform Acts (general commercial law, companies, enforcement, insolvency, arbitration, accounting, road transport, mediation) are published by OHADA only as scans and are held.
 - **Successive amendments to laws:** each law, decree or arrêté is in one version, as published; only the codes and the Constitution have several versions.
 - **The Constitution before 2015**, and the words each of the eight revisions since 1991 replaced: LegiBurkina publishes only the 2015 consolidation as text, and its footnotes, which say how each revision changed each provision, are left out.
 - **Headings** (titres, chapitres) are not in the article files; `structure.md` gathers them.
@@ -83,6 +83,7 @@ The consolidation is not the Constitution as adopted, so its commit is credited 
 | [Direction générale des réformes de l’État](https://dgre.gov.bf/) | Constitution consolidated after Loi n°033-2024/ALT | the 2024 consolidation | The Constitution's 2024 version |
 | Ministry of Justice (justice.gov.bf, "Codes et Lois") and the former LegiBurkina (legiburkina.bf), through the Internet Archive | Compiled codes as PDFs; the sites are gone, archived copies | one compilation per code | Codes (secondary copy) |
 | [FAOLEX](https://www.fao.org/faolex/) (FAO) and [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | Official texts as PDFs | one version | Laws, decrees and arrêtés missing from the official sources as text (secondary copy) |
+| [Journal officiel de l’OHADA](https://www.ohada.org/journal-officiel/) | OHADA Uniform Acts as published | as published | Uniform Acts with a text layer (JO OHADA n° 22 and 23 of 15 February 2011) |
 
 ## Licence
 

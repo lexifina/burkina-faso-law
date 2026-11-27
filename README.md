@@ -11,7 +11,7 @@ Le droit burkinabè sous forme d’historique git : un fichier par disposition, 
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national du Burkina Faso, que global-law lit dans `burkina-faso/national/acts/`.
 
-**Contenu actuel :** la Constitution du 2 juin 1991 en deux versions (consolidations de 2015 et du 21 novembre 2024) ; les codes (personnes et famille, pénal 1996 puis 2018, procédure pénale, procédure civile, travail 2008 puis 2026, sécurité sociale, et d’autres) ; les lois, ordonnances, décrets et arrêtés publiés avec une couche texte par l’Assemblée législative, LegiBurkina et, à défaut, FAOLEX et WIPO Lex (le nombre augmente à mesure que la collecte avance) ; et la Charte de la Transition de 2014. Disposition des dossiers : [STRUCTURE.md](STRUCTURE.md) ; liste des textes : [`corpus.json`](corpus.json).
+**Contenu actuel :** la Constitution du 2 juin 1991 en deux versions (consolidations de 2015 et du 21 novembre 2024) ; les codes (personnes et famille, pénal 1996 puis 2018, procédure pénale, procédure civile, travail 2008 puis 2026, sécurité sociale, et d’autres) ; les lois, ordonnances, décrets et arrêtés publiés avec une couche texte par l’Assemblée législative, LegiBurkina et, à défaut, FAOLEX et WIPO Lex (le nombre augmente à mesure que la collecte avance) ; la Charte de la Transition de 2014 ; et deux actes uniformes de l’OHADA directement applicables au Burkina Faso (sûretés, et sociétés coopératives, en vigueur le 16 mai 2011), dans `ohada/actes-uniformes/`. Disposition des dossiers : [STRUCTURE.md](STRUCTURE.md) ; liste des textes : [`corpus.json`](corpus.json).
 
 **Pas tout à fait le texte en vigueur aujourd’hui.** La Constitution est à jour au 21 novembre 2024 ; la loi constitutionnelle n°004-2026/ALT du 20 janvier 2026 n’est publiée que sous forme de numérisation et n’est pas appliquée. Les autres textes sont chacun en une version, telle que publiée (voir [Ce qu’il ne montre pas](#ce-quil-ne-montre-pas)).
 
@@ -68,7 +68,7 @@ La version consolidée n’est pas la Constitution telle qu’adoptée ; son com
 ## Ce qu’il ne montre pas
 
 - **La révision constitutionnelle de 2026** (loi n°004-2026/ALT du 20 janvier 2026) : publiée seulement sous forme de numérisation, non transcrite. Les Chartes de la Transition de 2022 et 2024 et l’Acte fondamental du MPSR sont dans le même cas.
-- **Les textes publiés seulement en numérisation** : la plupart des PDF de LegiBurkina sont des scans sans couche texte ; ils ne sont pas transcrits (pas d’OCR). Le Journal officiel (jobf.gov.bf) est un service sur abonnement et n’est pas repris.
+- **Les textes publiés seulement en numérisation** : la plupart des PDF de LegiBurkina sont des scans sans couche texte ; ils ne sont pas transcrits (pas d’OCR). Le Journal officiel (jobf.gov.bf) est un service sur abonnement et n’est pas repris. Les autres actes uniformes de l’OHADA (droit commercial général, sociétés, voies d’exécution, procédures collectives, arbitrage, droit comptable, transport routier, médiation) ne sont publiés par l’OHADA qu’en numérisation et sont réservés.
 - **Les modifications successives des lois** : chaque loi, décret ou arrêté est en une version, telle que publiée ; seuls les codes et la Constitution ont plusieurs versions.
 - **La Constitution avant 2015**, ni les termes que chacune des huit révisions intervenues depuis 1991 a remplacés : LegiBurkina ne publie sous forme de texte que la version consolidée de 2015, et ses notes de bas de page, qui indiquent comment chaque révision a modifié chaque disposition, sont omises.
 - **Les intitulés** (titres, chapitres) ne figurent pas dans les fichiers des articles ; `structure.md` les regroupe.
@@ -83,6 +83,7 @@ La version consolidée n’est pas la Constitution telle qu’adoptée ; son com
 | [Direction générale des réformes de l’État](https://dgre.gov.bf/) | Constitution consolidée après la loi n°033-2024/ALT | consolidation de 2024 | Version 2024 de la Constitution |
 | Ministère de la Justice (justice.gov.bf, « Codes et Lois ») et ancien LegiBurkina (legiburkina.bf), via l’Internet Archive | Codes compilés en PDF ; sites disparus, copies archivées | une compilation par code | Codes (copie secondaire) |
 | [FAOLEX](https://www.fao.org/faolex/) (FAO) et [WIPO Lex](https://www.wipo.int/wipolex/) (OMPI) | Textes officiels en PDF | une version | Lois, décrets et arrêtés absents des sources officielles en texte (copie secondaire) |
+| [Journal officiel de l’OHADA](https://www.ohada.org/journal-officiel/) | Actes uniformes de l’OHADA tels que publiés | tels que publiés | Actes uniformes avec couche texte (JO OHADA n° 22 et 23 du 15 février 2011) |
 
 ## Licence
 
