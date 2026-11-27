@@ -1,0 +1,9 @@
+# Loi n° 031-2020/AN du 9 juillet 2020 portant loi de finances rectificative de la loi de finances pour l’exécution du budget de l’État, exercice 2020
+
+- Source : Assemblée législative du Burkina Faso, répertoire des lois, <https://www.assembleenationale.bf/storage/Loi/UGZuq4xukXp6dZvbULbEYJy2M3MFrfNvZjSkSdRs.pdf>
+- Adoptée le : 2020-07-09
+- Promulguée le : 2020-12-31
+- Texte : tel qu’adopté par l’Assemblée (copie de l’Assemblée législative)
+- En vigueur (date retenue) : 2020-12-31 (promulgation date in the Assemblée législative list of laws; Journal officiel date not given)
+- Couche texte : PDF natif
+- Unités : 26 articles

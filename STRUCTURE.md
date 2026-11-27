@@ -12,6 +12,7 @@ One folder per act, one file per article. Names are in French, as the texts are.
 | `ordonnances/<année>/…`, `decrets/<année>/…`, `arretes/<année>/…` | Ordonnances, décrets, arrêtés. |
 | `zatu/`, `kiti/`, `raabo/` `<année>/…` | Textes de la période révolutionnaire (1983–1991) : zatu (ordonnances), kiti (décrets), raabo (arrêtés). |
 | `decisions/`, `circulaires/` `<année>/…` | Décisions et circulaires réglementaires publiées sur LegiBurkina. |
+| `ohada/actes-uniformes/<objet>/` | Actes uniformes de l'OHADA, directement applicables au Burkina Faso (État partie), tels que publiés au Journal officiel de l'OHADA avec une couche texte native. |
 
 Dans chaque dossier de texte : `README.md` (intitulé, source, date retenue et sa justification, couche texte),
 `visas.md` (visas et préambule), `art-NNN.md` (un article par fichier ; `art-NNN-bis.md`, …), `signatures.md`
